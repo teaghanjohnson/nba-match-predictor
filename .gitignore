@@ -14,7 +14,7 @@ ENV/
 */.ipynb_checkpoints/*
 
 # Data files
-*.csv
+# *.csv  # Commented out to allow CSV files in git
 *.json
 *.pkl
 *.pickle
