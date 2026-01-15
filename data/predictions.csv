@@ -1,0 +1,4 @@
+date,home,home_abbrev,visitor,visitor_abbrev,predicted_winner,predicted_winner_abbrev,confidence,result
+2026-01-14,Indiana Pacers,IND,Toronto Raptors,TOR,IND,IND,12.982242501120174,not_played
+2026-01-16,Toronto Raptors,TOR,Los Angeles Clippers,LAC,TOR,TOR,12.73043372526362,not_played
+2026-01-18,Los Angeles Lakers,LAL,Toronto Raptors,TOR,LAL,LAL,12.982242501120174,not_played
