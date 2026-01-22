@@ -15,9 +15,7 @@ chart_data = pd.read_csv("data/predictions.csv"
 st.write(chart_data.head(3))
 
 
-selected_teams = st.multiselect(
-  "what are your favourite teams",
-  ["Raptors", "Knicks", "Lakers", "Celtics"]
-)
+password = "st-proj-openaikey" 
 
-st.write(selected_teams)
+
+#secrets
