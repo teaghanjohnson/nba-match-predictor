@@ -3,19 +3,14 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-st.title("Enjoy Basketball")
-st.subheader("This is my nba-match predictor predicting " \
-"all the 2025-2026 NBA games")
+from utils.constants.constants import TEAM_COLORS, get_team_css
 
+st.title("NBA MATCH PREDICTOR")
+st.subheader("ML-Powered Game Predictions")
+st.divider()
 
-chart_data = pd.read_csv("data/predictions.csv"
-  
-  )
+team = st.selectbox("Select Team", list(TEAM_COLORS.keys()))
 
-st.write(chart_data.head(3))
+st.markdown(get_team_css(team), unsafe_allow_html=True)
 
-
-password = "st-proj-openaikey" 
-
-
-#secrets
+st.markdown('<div class="team-header"><h2>Team Dashboard</h2></div>', unsafe_allow_html=True)
