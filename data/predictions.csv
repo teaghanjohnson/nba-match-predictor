@@ -1,49 +1,54 @@
-date,home,home_abbrev,visitor,visitor_abbrev,predicted_winner,predicted_winner_abbrev,confidence,result
-2026-01-23,Atlanta Hawks,ATL,Phoenix Suns,PHO,Phoenix Suns,PHO,0.4507218825882049,not_played
-2026-01-26,Atlanta Hawks,ATL,Indiana Pacers,IND,Indiana Pacers,IND,0.6606625473415344,not_played
-2026-01-28,Boston Celtics,BOS,Atlanta Hawks,ATL,Atlanta Hawks,ATL,0.5228747085338441,not_played
-2026-01-23,Brooklyn Nets,BRK,Boston Celtics,BOS,Boston Celtics,BOS,0.4495527988568026,not_played
-2026-01-24,Chicago Bulls,CHI,Boston Celtics,BOS,Boston Celtics,BOS,0.4495527988568026,not_played
-2026-01-26,Boston Celtics,BOS,Portland Trail Blazers,POR,Portland Trail Blazers,POR,0.859392072883945,not_played
-2026-01-25,Los Angeles Clippers,LAC,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.2932901631299163,not_played
-2026-01-27,Phoenix Suns,PHO,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.2932901631299163,not_played
-2026-01-22,Minnesota Timberwolves,MIN,Chicago Bulls,CHI,Chicago Bulls,CHI,0.6370881396789827,not_played
-2026-01-26,Chicago Bulls,CHI,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,not_played
-2026-01-22,Orlando Magic,ORL,Charlotte Hornets,CHO,Charlotte Hornets,CHO,0.1383472662185025,not_played
-2026-01-24,Charlotte Hornets,CHO,Washington Wizards,WAS,Washington Wizards,WAS,0.3170379629162474,not_played
-2026-01-26,Charlotte Hornets,CHO,Philadelphia 76ers,PHI,Philadelphia 76ers,PHI,0.4019786022099321,not_played
-2026-01-23,Cleveland Cavaliers,CLE,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,not_played
-2026-01-24,Orlando Magic,ORL,Cleveland Cavaliers,CLE,Cleveland Cavaliers,CLE,0.6092768438376357,not_played
-2026-01-26,Cleveland Cavaliers,CLE,Orlando Magic,ORL,Orlando Magic,ORL,0.2153979120847173,not_played
-2026-01-22,Dallas Mavericks,DAL,Golden State Warriors,GSW,Golden State Warriors,GSW,0.4679408123520343,not_played
-2026-01-24,Dallas Mavericks,DAL,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,not_played
-2026-01-25,Milwaukee Bucks,MIL,Dallas Mavericks,DAL,Dallas Mavericks,DAL,0.5487559835714204,not_played
-2026-01-22,Washington Wizards,WAS,Denver Nuggets,DEN,Denver Nuggets,DEN,0.3512735191261371,not_played
-2026-01-23,Milwaukee Bucks,MIL,Denver Nuggets,DEN,Denver Nuggets,DEN,0.3512735191261371,not_played
-2026-01-25,Memphis Grizzlies,MEM,Denver Nuggets,DEN,Denver Nuggets,DEN,0.3512735191261371,not_played
-2026-01-23,Detroit Pistons,DET,Houston Rockets,HOU,Houston Rockets,HOU,0.670314254502451,not_played
-2026-01-25,Detroit Pistons,DET,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,not_played
-2026-01-27,Denver Nuggets,DEN,Detroit Pistons,DET,Detroit Pistons,DET,0.6174588612297378,not_played
-2026-01-24,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Golden State Warriors,GSW,0.4679408123520343,not_played
-2026-01-26,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Golden State Warriors,GSW,0.4679408123520343,not_played
-2026-01-22,Philadelphia 76ers,PHI,Houston Rockets,HOU,Houston Rockets,HOU,0.670314254502451,not_played
-2026-01-26,Houston Rockets,HOU,Memphis Grizzlies,MEM,Memphis Grizzlies,MEM,0.4478090524602141,not_played
-2026-01-23,Oklahoma City Thunder,OKC,Indiana Pacers,IND,Indiana Pacers,IND,0.6606625473415344,not_played
-2026-01-28,Indiana Pacers,IND,Chicago Bulls,CHI,Chicago Bulls,CHI,0.6370881396789827,not_played
-2026-01-22,Los Angeles Clippers,LAC,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,not_played
-2026-01-27,Utah Jazz,UTA,Los Angeles Clippers,LAC,Los Angeles Clippers,LAC,0.4728471830141318,not_played
-2026-01-23,Memphis Grizzlies,MEM,New Orleans Pelicans,NOP,Memphis Grizzlies,MEM,0.0125312443903842,not_played
-2026-01-22,Portland Trail Blazers,POR,Miami Heat,MIA,Portland Trail Blazers,POR,0.2295499468282871,not_played
-2026-01-24,Utah Jazz,UTA,Miami Heat,MIA,Utah Jazz,UTA,0.2295499468282871,not_played
-2026-01-25,Phoenix Suns,PHO,Miami Heat,MIA,Phoenix Suns,PHO,0.2295499468282871,not_played
-2026-01-27,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,0.6281171649220376,not_played
-2026-01-25,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,San Antonio Spurs,SAS,0.0125312443903842,not_played
-2026-01-27,Oklahoma City Thunder,OKC,New Orleans Pelicans,NOP,Oklahoma City Thunder,OKC,0.0125312443903842,not_played
-2026-01-24,Philadelphia 76ers,PHI,New York Knicks,NYK,New York Knicks,NYK,0.6160861209408854,not_played
-2026-01-27,New York Knicks,NYK,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,not_played
-2026-01-28,Toronto Raptors,TOR,New York Knicks,NYK,New York Knicks,NYK,0.6160861209408854,not_played
-2026-01-25,Oklahoma City Thunder,OKC,Toronto Raptors,TOR,Toronto Raptors,TOR,0.5958925402068487,not_played
-2026-01-23,Portland Trail Blazers,POR,Toronto Raptors,TOR,Toronto Raptors,TOR,0.5958925402068487,not_played
-2026-01-22,Utah Jazz,UTA,San Antonio Spurs,SAS,San Antonio Spurs,SAS,0.5671205448097232,not_played
-2026-01-28,Houston Rockets,HOU,San Antonio Spurs,SAS,San Antonio Spurs,SAS,0.5671205448097232,not_played
-2026-01-27,Washington Wizards,WAS,Portland Trail Blazers,POR,Portland Trail Blazers,POR,0.859392072883945,not_played
+date,home,home_abbrev,visitor,visitor_abbrev,predicted_winner,predicted_winner_abbrev,confidence,result,actual_winner
+2026-01-24,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Golden State Warriors,GSW,0.4679408123520343,not_played,
+2026-01-25,Memphis Grizzlies,MEM,Denver Nuggets,DEN,Denver Nuggets,DEN,0.3512735191261371,not_played,
+2026-01-25,Milwaukee Bucks,MIL,Dallas Mavericks,DAL,Dallas Mavericks,DAL,0.5487559835714204,not_played,
+2026-01-26,Houston Rockets,HOU,Memphis Grizzlies,MEM,Memphis Grizzlies,MEM,0.4478090524602141,not_played,
+2026-01-26,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Golden State Warriors,GSW,0.4679408123520343,not_played,
+2026-01-26,Cleveland Cavaliers,CLE,Orlando Magic,ORL,Orlando Magic,ORL,0.2153979120847173,not_played,
+2026-01-26,Atlanta Hawks,ATL,Indiana Pacers,IND,Indiana Pacers,IND,0.6606625473415344,not_played,
+2026-01-26,Chicago Bulls,CHI,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,not_played,
+2026-01-26,Boston Celtics,BOS,Portland Trail Blazers,POR,Portland Trail Blazers,POR,0.859392072883945,not_played,
+2026-01-26,Charlotte Hornets,CHO,Philadelphia 76ers,PHI,Philadelphia 76ers,PHI,0.4019786022099321,not_played,
+2026-01-27,Oklahoma City Thunder,OKC,New Orleans Pelicans,NOP,Oklahoma City Thunder,OKC,0.0125312443903842,not_played,
+2026-01-27,Utah Jazz,UTA,Los Angeles Clippers,LAC,Los Angeles Clippers,LAC,0.4728471830141318,not_played,
+2026-01-27,New York Knicks,NYK,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,not_played,
+2026-01-27,Phoenix Suns,PHO,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.2932901631299163,not_played,
+2026-01-27,Washington Wizards,WAS,Portland Trail Blazers,POR,Portland Trail Blazers,POR,0.859392072883945,not_played,
+2026-01-27,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,0.6281171649220376,not_played,
+2026-01-27,Denver Nuggets,DEN,Detroit Pistons,DET,Detroit Pistons,DET,0.6174588612297378,not_played,
+2026-01-28,Memphis Grizzlies,MEM,Charlotte Hornets,CHO,Charlotte Hornets,CHO,0.1383472662185025,not_played,
+2026-01-28,Cleveland Cavaliers,CLE,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,not_played,
+2026-01-28,Utah Jazz,UTA,Golden State Warriors,GSW,Golden State Warriors,GSW,0.4679408123520343,not_played,
+2026-01-28,Dallas Mavericks,DAL,Minnesota Timberwolves,MIN,Minnesota Timberwolves,MIN,0.4205008115253184,not_played,
+2026-01-28,Miami Heat,MIA,Orlando Magic,ORL,Orlando Magic,ORL,0.2153979120847173,not_played,
+2026-01-28,Toronto Raptors,TOR,New York Knicks,NYK,New York Knicks,NYK,0.6160861209408854,not_played,
+2026-01-28,Indiana Pacers,IND,Chicago Bulls,CHI,Chicago Bulls,CHI,0.6370881396789827,not_played,
+2026-01-28,Boston Celtics,BOS,Atlanta Hawks,ATL,Atlanta Hawks,ATL,0.5228747085338441,not_played,
+2026-01-28,Houston Rockets,HOU,San Antonio Spurs,SAS,San Antonio Spurs,SAS,0.5671205448097232,not_played,
+2026-01-29,Minnesota Timberwolves,MIN,Oklahoma City Thunder,OKC,Oklahoma City Thunder,OKC,0.8620883294017749,not_played,
+2026-01-29,Philadelphia 76ers,PHI,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,not_played,
+2026-01-29,Chicago Bulls,CHI,Miami Heat,MIA,Chicago Bulls,CHI,0.2295499468282871,not_played,
+2026-01-29,Dallas Mavericks,DAL,Charlotte Hornets,CHO,Charlotte Hornets,CHO,0.1383472662185025,not_played,
+2026-01-29,Atlanta Hawks,ATL,Houston Rockets,HOU,Houston Rockets,HOU,0.670314254502451,not_played,
+2026-01-29,Washington Wizards,WAS,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,0.6281171649220376,not_played,
+2026-01-29,Denver Nuggets,DEN,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.2932901631299163,not_played,
+2026-01-29,Phoenix Suns,PHO,Detroit Pistons,DET,Detroit Pistons,DET,0.6174588612297378,not_played,
+2026-01-30,Golden State Warriors,GSW,Detroit Pistons,DET,Detroit Pistons,DET,0.6174588612297378,not_played,
+2026-01-30,Denver Nuggets,DEN,Los Angeles Clippers,LAC,Los Angeles Clippers,LAC,0.4728471830141318,not_played,
+2026-01-30,Orlando Magic,ORL,Toronto Raptors,TOR,Toronto Raptors,TOR,0.5958925402068487,not_played,
+2026-01-30,Phoenix Suns,PHO,Cleveland Cavaliers,CLE,Cleveland Cavaliers,CLE,0.6092768438376357,not_played,
+2026-01-30,New York Knicks,NYK,Portland Trail Blazers,POR,Portland Trail Blazers,POR,0.859392072883945,not_played,
+2026-01-30,Washington Wizards,WAS,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,not_played,
+2026-01-30,New Orleans Pelicans,NOP,Memphis Grizzlies,MEM,Memphis Grizzlies,MEM,0.4478090524602141,not_played,
+2026-01-30,Boston Celtics,BOS,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,not_played,
+2026-01-30,Utah Jazz,UTA,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.2932901631299163,not_played,
+2026-01-31,Indiana Pacers,IND,Atlanta Hawks,ATL,Atlanta Hawks,ATL,0.5228747085338441,not_played,
+2026-01-31,Miami Heat,MIA,Chicago Bulls,CHI,Chicago Bulls,CHI,0.6370881396789827,not_played,
+2026-01-31,Philadelphia 76ers,PHI,New Orleans Pelicans,NOP,Philadelphia 76ers,PHI,0.0125312443903842,not_played,
+2026-01-31,Charlotte Hornets,CHO,San Antonio Spurs,SAS,San Antonio Spurs,SAS,0.5671205448097232,not_played,
+2026-01-31,Houston Rockets,HOU,Dallas Mavericks,DAL,Dallas Mavericks,DAL,0.5487559835714204,not_played,
+2026-02-01,Boston Celtics,BOS,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,0.6281171649220376,not_played,
+2026-02-01,San Antonio Spurs,SAS,Orlando Magic,ORL,Orlando Magic,ORL,0.2153979120847173,not_played,
+2026-02-01,Denver Nuggets,DEN,Oklahoma City Thunder,OKC,Oklahoma City Thunder,OKC,0.8620883294017749,not_played,
+2026-02-01,Phoenix Suns,PHO,Los Angeles Clippers,LAC,Los Angeles Clippers,LAC,0.4728471830141318,not_played,
+2026-02-01,Toronto Raptors,TOR,Utah Jazz,UTA,Utah Jazz,UTA,0.2449519030930202,not_played,

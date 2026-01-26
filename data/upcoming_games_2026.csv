@@ -1,576 +1,546 @@
 date,visitor,home
-"Wed, Apr 1, 2026",Philadelphia 76ers,Washington Wizards
-"Wed, Apr 1, 2026",Boston Celtics,Miami Heat
-"Wed, Apr 1, 2026",Atlanta Hawks,Orlando Magic
-"Wed, Apr 1, 2026",Indiana Pacers,Chicago Bulls
-"Wed, Apr 1, 2026",Milwaukee Bucks,Houston Rockets
-"Wed, Apr 1, 2026",Dallas Mavericks,Memphis Grizzlies
-"Wed, Apr 1, 2026",Sacramento Kings,Toronto Raptors
-"Wed, Apr 1, 2026",Denver Nuggets,Utah Jazz
-"Wed, Apr 1, 2026",San Antonio Spurs,Golden State Warriors
-"Thu, Apr 2, 2026",Phoenix Suns,Charlotte Hornets
-"Thu, Apr 2, 2026",Minnesota Timberwolves,Detroit Pistons
-"Thu, Apr 2, 2026",Los Angeles Lakers,Oklahoma City Thunder
-"Thu, Apr 2, 2026",Cleveland Cavaliers,Golden State Warriors
-"Thu, Apr 2, 2026",New Orleans Pelicans,Portland Trail Blazers
-"Thu, Apr 2, 2026",San Antonio Spurs,Los Angeles Clippers
-"Fri, Apr 3, 2026",Indiana Pacers,Charlotte Hornets
-"Fri, Apr 3, 2026",Minnesota Timberwolves,Philadelphia 76ers
-"Fri, Apr 3, 2026",Atlanta Hawks,Brooklyn Nets
-"Fri, Apr 3, 2026",Chicago Bulls,New York Knicks
-"Fri, Apr 3, 2026",Utah Jazz,Houston Rockets
-"Fri, Apr 3, 2026",Toronto Raptors,Memphis Grizzlies
-"Fri, Apr 3, 2026",Boston Celtics,Milwaukee Bucks
-"Fri, Apr 3, 2026",Orlando Magic,Dallas Mavericks
-"Fri, Apr 3, 2026",New Orleans Pelicans,Sacramento Kings
-"Sat, Apr 4, 2026",Washington Wizards,Miami Heat
-"Sat, Apr 4, 2026",San Antonio Spurs,Denver Nuggets
-"Sat, Apr 4, 2026",Detroit Pistons,Philadelphia 76ers
-"Sun, Apr 5, 2026",Toronto Raptors,Boston Celtics
-"Sun, Apr 5, 2026",Washington Wizards,Brooklyn Nets
-"Sun, Apr 5, 2026",Phoenix Suns,Chicago Bulls
-"Sun, Apr 5, 2026",Memphis Grizzlies,Milwaukee Bucks
-"Sun, Apr 5, 2026",Indiana Pacers,Cleveland Cavaliers
-"Sun, Apr 5, 2026",Charlotte Hornets,Minnesota Timberwolves
-"Sun, Apr 5, 2026",Orlando Magic,New Orleans Pelicans
-"Sun, Apr 5, 2026",Utah Jazz,Oklahoma City Thunder
-"Sun, Apr 5, 2026",Los Angeles Lakers,Dallas Mavericks
-"Sun, Apr 5, 2026",Los Angeles Clippers,Sacramento Kings
-"Sun, Apr 5, 2026",Houston Rockets,Golden State Warriors
-"Mon, Apr 6, 2026",New York Knicks,Atlanta Hawks
-"Mon, Apr 6, 2026",Detroit Pistons,Orlando Magic
-"Mon, Apr 6, 2026",Cleveland Cavaliers,Memphis Grizzlies
-"Mon, Apr 6, 2026",Philadelphia 76ers,San Antonio Spurs
-"Mon, Apr 6, 2026",Portland Trail Blazers,Denver Nuggets
-"Tue, Apr 7, 2026",Chicago Bulls,Washington Wizards
-"Tue, Apr 7, 2026",Charlotte Hornets,Boston Celtics
-"Tue, Apr 7, 2026",Milwaukee Bucks,Brooklyn Nets
-"Tue, Apr 7, 2026",Miami Heat,Toronto Raptors
-"Tue, Apr 7, 2026",Minnesota Timberwolves,Indiana Pacers
-"Tue, Apr 7, 2026",Utah Jazz,New Orleans Pelicans
-"Tue, Apr 7, 2026",Sacramento Kings,Golden State Warriors
-"Tue, Apr 7, 2026",Oklahoma City Thunder,Los Angeles Lakers
-"Tue, Apr 7, 2026",Dallas Mavericks,Los Angeles Clippers
-"Tue, Apr 7, 2026",Houston Rockets,Phoenix Suns
-"Wed, Apr 8, 2026",Atlanta Hawks,Cleveland Cavaliers
-"Wed, Apr 8, 2026",Minnesota Timberwolves,Orlando Magic
-"Wed, Apr 8, 2026",Milwaukee Bucks,Detroit Pistons
-"Wed, Apr 8, 2026",Portland Trail Blazers,San Antonio Spurs
-"Wed, Apr 8, 2026",Memphis Grizzlies,Denver Nuggets
-"Wed, Apr 8, 2026",Oklahoma City Thunder,Los Angeles Clippers
-"Wed, Apr 8, 2026",Dallas Mavericks,Phoenix Suns
-"Thu, Apr 9, 2026",Miami Heat,Toronto Raptors
-"Thu, Apr 9, 2026",Chicago Bulls,Washington Wizards
-"Thu, Apr 9, 2026",Indiana Pacers,Brooklyn Nets
-"Thu, Apr 9, 2026",Boston Celtics,New York Knicks
-"Thu, Apr 9, 2026",Philadelphia 76ers,Houston Rockets
-"Thu, Apr 9, 2026",Los Angeles Lakers,Golden State Warriors
-"Fri, Apr 10, 2026",Miami Heat,Washington Wizards
-"Fri, Apr 10, 2026",Detroit Pistons,Charlotte Hornets
-"Fri, Apr 10, 2026",Cleveland Cavaliers,Atlanta Hawks
-"Fri, Apr 10, 2026",New Orleans Pelicans,Boston Celtics
-"Fri, Apr 10, 2026",Philadelphia 76ers,Indiana Pacers
-"Fri, Apr 10, 2026",Toronto Raptors,New York Knicks
-"Fri, Apr 10, 2026",Orlando Magic,Chicago Bulls
-"Fri, Apr 10, 2026",Brooklyn Nets,Milwaukee Bucks
-"Fri, Apr 10, 2026",Dallas Mavericks,San Antonio Spurs
-"Fri, Apr 10, 2026",Oklahoma City Thunder,Denver Nuggets
-"Fri, Apr 10, 2026",Minnesota Timberwolves,Houston Rockets
-"Fri, Apr 10, 2026",Memphis Grizzlies,Utah Jazz
-"Fri, Apr 10, 2026",Los Angeles Clippers,Portland Trail Blazers
-"Fri, Apr 10, 2026",Golden State Warriors,Sacramento Kings
-"Fri, Apr 10, 2026",Phoenix Suns,Los Angeles Lakers
-"Sun, Apr 12, 2026",Orlando Magic,Boston Celtics
-"Sun, Apr 12, 2026",Washington Wizards,Cleveland Cavaliers
-"Sun, Apr 12, 2026",Detroit Pistons,Indiana Pacers
-"Sun, Apr 12, 2026",Atlanta Hawks,Miami Heat
-"Sun, Apr 12, 2026",Charlotte Hornets,New York Knicks
-"Sun, Apr 12, 2026",Milwaukee Bucks,Philadelphia 76ers
-"Sun, Apr 12, 2026",Brooklyn Nets,Toronto Raptors
-"Sun, Apr 12, 2026",Chicago Bulls,Dallas Mavericks
-"Sun, Apr 12, 2026",Memphis Grizzlies,Houston Rockets
-"Sun, Apr 12, 2026",Golden State Warriors,Los Angeles Clippers
-"Sun, Apr 12, 2026",Utah Jazz,Los Angeles Lakers
-"Sun, Apr 12, 2026",New Orleans Pelicans,Minnesota Timberwolves
-"Sun, Apr 12, 2026",Phoenix Suns,Oklahoma City Thunder
-"Sun, Apr 12, 2026",Sacramento Kings,Portland Trail Blazers
-"Sun, Apr 12, 2026",Denver Nuggets,San Antonio Spurs
-"Thu, Jan 22, 2026",Charlotte Hornets,Orlando Magic
-"Thu, Jan 22, 2026",Houston Rockets,Philadelphia 76ers
-"Thu, Jan 22, 2026",Denver Nuggets,Washington Wizards
-"Thu, Jan 22, 2026",Golden State Warriors,Dallas Mavericks
-"Thu, Jan 22, 2026",Chicago Bulls,Minnesota Timberwolves
-"Thu, Jan 22, 2026",San Antonio Spurs,Utah Jazz
-"Thu, Jan 22, 2026",Los Angeles Lakers,Los Angeles Clippers
-"Thu, Jan 22, 2026",Miami Heat,Portland Trail Blazers
-"Fri, Jan 23, 2026",Houston Rockets,Detroit Pistons
-"Fri, Jan 23, 2026",Phoenix Suns,Atlanta Hawks
-"Fri, Jan 23, 2026",Boston Celtics,Brooklyn Nets
-"Fri, Jan 23, 2026",Sacramento Kings,Cleveland Cavaliers
-"Fri, Jan 23, 2026",New Orleans Pelicans,Memphis Grizzlies
-"Fri, Jan 23, 2026",Indiana Pacers,Oklahoma City Thunder
-"Fri, Jan 23, 2026",Denver Nuggets,Milwaukee Bucks
-"Fri, Jan 23, 2026",Toronto Raptors,Portland Trail Blazers
-"Sat, Jan 24, 2026",New York Knicks,Philadelphia 76ers
-"Sat, Jan 24, 2026",Golden State Warriors,Minnesota Timberwolves
-"Sat, Jan 24, 2026",Washington Wizards,Charlotte Hornets
-"Sat, Jan 24, 2026",Cleveland Cavaliers,Orlando Magic
-"Sat, Jan 24, 2026",Boston Celtics,Chicago Bulls
-"Sat, Jan 24, 2026",Los Angeles Lakers,Dallas Mavericks
-"Sat, Jan 24, 2026",Miami Heat,Utah Jazz
-"Sun, Jan 25, 2026",Sacramento Kings,Detroit Pistons
-"Sun, Jan 25, 2026",Denver Nuggets,Memphis Grizzlies
-"Sun, Jan 25, 2026",Dallas Mavericks,Milwaukee Bucks
-"Sun, Jan 25, 2026",Toronto Raptors,Oklahoma City Thunder
-"Sun, Jan 25, 2026",New Orleans Pelicans,San Antonio Spurs
-"Sun, Jan 25, 2026",Miami Heat,Phoenix Suns
-"Sun, Jan 25, 2026",Brooklyn Nets,Los Angeles Clippers
-"Mon, Jan 26, 2026",Philadelphia 76ers,Charlotte Hornets
-"Mon, Jan 26, 2026",Orlando Magic,Cleveland Cavaliers
-"Mon, Jan 26, 2026",Indiana Pacers,Atlanta Hawks
-"Mon, Jan 26, 2026",Portland Trail Blazers,Boston Celtics
-"Mon, Jan 26, 2026",Los Angeles Lakers,Chicago Bulls
-"Mon, Jan 26, 2026",Memphis Grizzlies,Houston Rockets
-"Mon, Jan 26, 2026",Golden State Warriors,Minnesota Timberwolves
-"Tue, Jan 27, 2026",Portland Trail Blazers,Washington Wizards
-"Tue, Jan 27, 2026",Sacramento Kings,New York Knicks
-"Tue, Jan 27, 2026",New Orleans Pelicans,Oklahoma City Thunder
-"Tue, Jan 27, 2026",Milwaukee Bucks,Philadelphia 76ers
-"Tue, Jan 27, 2026",Detroit Pistons,Denver Nuggets
-"Tue, Jan 27, 2026",Brooklyn Nets,Phoenix Suns
-"Tue, Jan 27, 2026",Los Angeles Clippers,Utah Jazz
-"Wed, Jan 28, 2026",Los Angeles Lakers,Cleveland Cavaliers
-"Wed, Jan 28, 2026",Chicago Bulls,Indiana Pacers
-"Wed, Jan 28, 2026",Atlanta Hawks,Boston Celtics
-"Wed, Jan 28, 2026",Orlando Magic,Miami Heat
-"Wed, Jan 28, 2026",New York Knicks,Toronto Raptors
-"Wed, Jan 28, 2026",Charlotte Hornets,Memphis Grizzlies
-"Wed, Jan 28, 2026",Minnesota Timberwolves,Dallas Mavericks
-"Wed, Jan 28, 2026",Golden State Warriors,Utah Jazz
-"Wed, Jan 28, 2026",San Antonio Spurs,Houston Rockets
-"Thu, Jan 29, 2026",Sacramento Kings,Philadelphia 76ers
-"Thu, Jan 29, 2026",Milwaukee Bucks,Washington Wizards
-"Thu, Jan 29, 2026",Houston Rockets,Atlanta Hawks
-"Thu, Jan 29, 2026",Miami Heat,Chicago Bulls
-"Thu, Jan 29, 2026",Charlotte Hornets,Dallas Mavericks
-"Thu, Jan 29, 2026",Brooklyn Nets,Denver Nuggets
-"Thu, Jan 29, 2026",Detroit Pistons,Phoenix Suns
-"Thu, Jan 29, 2026",Oklahoma City Thunder,Minnesota Timberwolves
-"Fri, Jan 30, 2026",Toronto Raptors,Orlando Magic
-"Fri, Jan 30, 2026",Los Angeles Lakers,Washington Wizards
-"Fri, Jan 30, 2026",Sacramento Kings,Boston Celtics
-"Fri, Jan 30, 2026",Memphis Grizzlies,New Orleans Pelicans
-"Fri, Jan 30, 2026",Portland Trail Blazers,New York Knicks
-"Fri, Jan 30, 2026",Los Angeles Clippers,Denver Nuggets
-"Fri, Jan 30, 2026",Cleveland Cavaliers,Phoenix Suns
-"Fri, Jan 30, 2026",Brooklyn Nets,Utah Jazz
-"Fri, Jan 30, 2026",Detroit Pistons,Golden State Warriors
-"Sat, Jan 31, 2026",San Antonio Spurs,Charlotte Hornets
-"Sat, Jan 31, 2026",Atlanta Hawks,Indiana Pacers
-"Sat, Jan 31, 2026",New Orleans Pelicans,Philadelphia 76ers
-"Sat, Jan 31, 2026",Minnesota Timberwolves,Memphis Grizzlies
-"Sat, Jan 31, 2026",Chicago Bulls,Miami Heat
-"Sat, Jan 31, 2026",Dallas Mavericks,Houston Rockets
-"Sun, Mar 1, 2026",San Antonio Spurs,New York Knicks
-"Sun, Mar 1, 2026",Cleveland Cavaliers,Brooklyn Nets
-"Sun, Mar 1, 2026",Milwaukee Bucks,Chicago Bulls
-"Sun, Mar 1, 2026",Minnesota Timberwolves,Denver Nuggets
-"Sun, Mar 1, 2026",Memphis Grizzlies,Indiana Pacers
-"Sun, Mar 1, 2026",Portland Trail Blazers,Atlanta Hawks
-"Sun, Mar 1, 2026",Philadelphia 76ers,Boston Celtics
-"Sun, Mar 1, 2026",Detroit Pistons,Orlando Magic
-"Sun, Mar 1, 2026",Oklahoma City Thunder,Dallas Mavericks
-"Sun, Mar 1, 2026",New Orleans Pelicans,Los Angeles Clippers
-"Sun, Mar 1, 2026",Sacramento Kings,Los Angeles Lakers
-"Mon, Mar 2, 2026",Houston Rockets,Washington Wizards
-"Mon, Mar 2, 2026",Boston Celtics,Milwaukee Bucks
-"Mon, Mar 2, 2026",Denver Nuggets,Utah Jazz
-"Mon, Mar 2, 2026",Los Angeles Clippers,Golden State Warriors
-"Tue, Mar 3, 2026",Dallas Mavericks,Charlotte Hornets
-"Tue, Mar 3, 2026",Detroit Pistons,Cleveland Cavaliers
-"Tue, Mar 3, 2026",Washington Wizards,Orlando Magic
-"Tue, Mar 3, 2026",Brooklyn Nets,Miami Heat
-"Tue, Mar 3, 2026",New York Knicks,Toronto Raptors
-"Tue, Mar 3, 2026",Oklahoma City Thunder,Chicago Bulls
-"Tue, Mar 3, 2026",Memphis Grizzlies,Minnesota Timberwolves
-"Tue, Mar 3, 2026",San Antonio Spurs,Philadelphia 76ers
-"Tue, Mar 3, 2026",New Orleans Pelicans,Los Angeles Lakers
-"Tue, Mar 3, 2026",Phoenix Suns,Sacramento Kings
-"Wed, Mar 4, 2026",Oklahoma City Thunder,New York Knicks
-"Wed, Mar 4, 2026",Charlotte Hornets,Boston Celtics
-"Wed, Mar 4, 2026",Utah Jazz,Philadelphia 76ers
-"Wed, Mar 4, 2026",Portland Trail Blazers,Memphis Grizzlies
-"Wed, Mar 4, 2026",Atlanta Hawks,Milwaukee Bucks
-"Wed, Mar 4, 2026",Indiana Pacers,Los Angeles Clippers
-"Thu, Mar 5, 2026",Dallas Mavericks,Orlando Magic
-"Thu, Mar 5, 2026",Utah Jazz,Washington Wizards
-"Thu, Mar 5, 2026",Golden State Warriors,Houston Rockets
-"Thu, Mar 5, 2026",Brooklyn Nets,Miami Heat
-"Thu, Mar 5, 2026",Toronto Raptors,Minnesota Timberwolves
-"Thu, Mar 5, 2026",Detroit Pistons,San Antonio Spurs
-"Thu, Mar 5, 2026",Chicago Bulls,Phoenix Suns
-"Thu, Mar 5, 2026",Los Angeles Lakers,Denver Nuggets
-"Thu, Mar 5, 2026",New Orleans Pelicans,Sacramento Kings
-"Fri, Mar 6, 2026",Dallas Mavericks,Boston Celtics
-"Fri, Mar 6, 2026",Miami Heat,Charlotte Hornets
-"Fri, Mar 6, 2026",Portland Trail Blazers,Houston Rockets
-"Fri, Mar 6, 2026",New York Knicks,Denver Nuggets
-"Fri, Mar 6, 2026",New Orleans Pelicans,Phoenix Suns
-"Fri, Mar 6, 2026",Los Angeles Clippers,San Antonio Spurs
-"Fri, Mar 6, 2026",Indiana Pacers,Los Angeles Lakers
-"Sat, Mar 7, 2026",Orlando Magic,Minnesota Timberwolves
-"Sat, Mar 7, 2026",Brooklyn Nets,Detroit Pistons
-"Sat, Mar 7, 2026",Philadelphia 76ers,Atlanta Hawks
-"Sat, Mar 7, 2026",Los Angeles Clippers,Memphis Grizzlies
-"Sat, Mar 7, 2026",Utah Jazz,Milwaukee Bucks
-"Sat, Mar 7, 2026",Golden State Warriors,Oklahoma City Thunder
-"Sun, Mar 8, 2026",Boston Celtics,Cleveland Cavaliers
-"Sun, Mar 8, 2026",New York Knicks,Los Angeles Lakers
-"Sun, Mar 8, 2026",Detroit Pistons,Miami Heat
-"Sun, Mar 8, 2026",Dallas Mavericks,Toronto Raptors
-"Sun, Mar 8, 2026",Washington Wizards,New Orleans Pelicans
-"Sun, Mar 8, 2026",Orlando Magic,Milwaukee Bucks
-"Sun, Mar 8, 2026",Houston Rockets,San Antonio Spurs
-"Sun, Mar 8, 2026",Charlotte Hornets,Phoenix Suns
-"Sun, Mar 8, 2026",Indiana Pacers,Portland Trail Blazers
-"Sun, Mar 8, 2026",Chicago Bulls,Sacramento Kings
-"Mon, Mar 9, 2026",Philadelphia 76ers,Cleveland Cavaliers
-"Mon, Mar 9, 2026",Memphis Grizzlies,Brooklyn Nets
-"Mon, Mar 9, 2026",Denver Nuggets,Oklahoma City Thunder
-"Mon, Mar 9, 2026",Golden State Warriors,Utah Jazz
-"Mon, Mar 9, 2026",New York Knicks,Los Angeles Clippers
-"Tue, Mar 10, 2026",Memphis Grizzlies,Philadelphia 76ers
-"Tue, Mar 10, 2026",Detroit Pistons,Brooklyn Nets
-"Tue, Mar 10, 2026",Washington Wizards,Miami Heat
-"Tue, Mar 10, 2026",Dallas Mavericks,Atlanta Hawks
-"Tue, Mar 10, 2026",Toronto Raptors,Houston Rockets
-"Tue, Mar 10, 2026",Phoenix Suns,Milwaukee Bucks
-"Tue, Mar 10, 2026",Boston Celtics,San Antonio Spurs
-"Tue, Mar 10, 2026",Chicago Bulls,Golden State Warriors
-"Tue, Mar 10, 2026",Charlotte Hornets,Portland Trail Blazers
-"Tue, Mar 10, 2026",Indiana Pacers,Sacramento Kings
-"Tue, Mar 10, 2026",Minnesota Timberwolves,Los Angeles Lakers
-"Wed, Mar 11, 2026",Cleveland Cavaliers,Orlando Magic
-"Wed, Mar 11, 2026",Toronto Raptors,New Orleans Pelicans
-"Wed, Mar 11, 2026",New York Knicks,Utah Jazz
-"Wed, Mar 11, 2026",Houston Rockets,Denver Nuggets
-"Wed, Mar 11, 2026",Charlotte Hornets,Sacramento Kings
-"Wed, Mar 11, 2026",Minnesota Timberwolves,Los Angeles Clippers
-"Thu, Mar 12, 2026",Philadelphia 76ers,Detroit Pistons
-"Thu, Mar 12, 2026",Phoenix Suns,Indiana Pacers
-"Thu, Mar 12, 2026",Washington Wizards,Orlando Magic
-"Thu, Mar 12, 2026",Brooklyn Nets,Atlanta Hawks
-"Thu, Mar 12, 2026",Milwaukee Bucks,Miami Heat
-"Thu, Mar 12, 2026",Denver Nuggets,San Antonio Spurs
-"Thu, Mar 12, 2026",Boston Celtics,Oklahoma City Thunder
-"Thu, Mar 12, 2026",Chicago Bulls,Los Angeles Lakers
-"Fri, Mar 13, 2026",Cleveland Cavaliers,Dallas Mavericks
-"Fri, Mar 13, 2026",Memphis Grizzlies,Detroit Pistons
-"Fri, Mar 13, 2026",New York Knicks,Indiana Pacers
-"Fri, Mar 13, 2026",Phoenix Suns,Toronto Raptors
-"Fri, Mar 13, 2026",New Orleans Pelicans,Houston Rockets
-"Fri, Mar 13, 2026",Minnesota Timberwolves,Golden State Warriors
-"Fri, Mar 13, 2026",Utah Jazz,Portland Trail Blazers
-"Fri, Mar 13, 2026",Chicago Bulls,Los Angeles Clippers
-"Sat, Mar 14, 2026",Brooklyn Nets,Philadelphia 76ers
-"Sat, Mar 14, 2026",Milwaukee Bucks,Atlanta Hawks
-"Sat, Mar 14, 2026",Washington Wizards,Boston Celtics
-"Sat, Mar 14, 2026",Orlando Magic,Miami Heat
-"Sat, Mar 14, 2026",Charlotte Hornets,San Antonio Spurs
-"Sat, Mar 14, 2026",Denver Nuggets,Los Angeles Lakers
-"Sat, Mar 14, 2026",Sacramento Kings,Los Angeles Clippers
-"Sun, Mar 15, 2026",Minnesota Timberwolves,Oklahoma City Thunder
-"Sun, Mar 15, 2026",Dallas Mavericks,Cleveland Cavaliers
-"Sun, Mar 15, 2026",Indiana Pacers,Milwaukee Bucks
-"Sun, Mar 15, 2026",Detroit Pistons,Toronto Raptors
-"Sun, Mar 15, 2026",Portland Trail Blazers,Philadelphia 76ers
-"Sun, Mar 15, 2026",Golden State Warriors,New York Knicks
-"Sun, Mar 15, 2026",Utah Jazz,Sacramento Kings
-"Mon, Mar 16, 2026",Orlando Magic,Atlanta Hawks
-"Mon, Mar 16, 2026",Golden State Warriors,Washington Wizards
-"Mon, Mar 16, 2026",Portland Trail Blazers,Brooklyn Nets
-"Mon, Mar 16, 2026",Phoenix Suns,Boston Celtics
-"Mon, Mar 16, 2026",Memphis Grizzlies,Chicago Bulls
-"Mon, Mar 16, 2026",Dallas Mavericks,New Orleans Pelicans
-"Mon, Mar 16, 2026",Los Angeles Lakers,Houston Rockets
-"Mon, Mar 16, 2026",San Antonio Spurs,Los Angeles Clippers
-"Tue, Mar 17, 2026",Miami Heat,Charlotte Hornets
-"Tue, Mar 17, 2026",Oklahoma City Thunder,Orlando Magic
-"Tue, Mar 17, 2026",Detroit Pistons,Washington Wizards
-"Tue, Mar 17, 2026",Indiana Pacers,New York Knicks
-"Tue, Mar 17, 2026",Cleveland Cavaliers,Milwaukee Bucks
-"Tue, Mar 17, 2026",Phoenix Suns,Minnesota Timberwolves
-"Tue, Mar 17, 2026",Philadelphia 76ers,Denver Nuggets
-"Tue, Mar 17, 2026",San Antonio Spurs,Sacramento Kings
-"Wed, Mar 18, 2026",Golden State Warriors,Boston Celtics
-"Wed, Mar 18, 2026",Oklahoma City Thunder,Brooklyn Nets
-"Wed, Mar 18, 2026",Portland Trail Blazers,Indiana Pacers
-"Wed, Mar 18, 2026",Toronto Raptors,Chicago Bulls
-"Wed, Mar 18, 2026",New York Knicks,Memphis Grizzlies
-"Wed, Mar 18, 2026",Utah Jazz,Minnesota Timberwolves
-"Wed, Mar 18, 2026",Los Angeles Clippers,New Orleans Pelicans
-"Wed, Mar 18, 2026",Atlanta Hawks,Dallas Mavericks
-"Wed, Mar 18, 2026",Los Angeles Lakers,Houston Rockets
-"Thu, Mar 19, 2026",Orlando Magic,Charlotte Hornets
-"Thu, Mar 19, 2026",Detroit Pistons,Washington Wizards
-"Thu, Mar 19, 2026",Cleveland Cavaliers,Chicago Bulls
-"Thu, Mar 19, 2026",Los Angeles Lakers,Miami Heat
-"Thu, Mar 19, 2026",Los Angeles Clippers,New Orleans Pelicans
-"Thu, Mar 19, 2026",Phoenix Suns,San Antonio Spurs
-"Thu, Mar 19, 2026",Milwaukee Bucks,Utah Jazz
-"Thu, Mar 19, 2026",Philadelphia 76ers,Sacramento Kings
-"Fri, Mar 20, 2026",New York Knicks,Brooklyn Nets
-"Fri, Mar 20, 2026",Golden State Warriors,Detroit Pistons
-"Fri, Mar 20, 2026",Atlanta Hawks,Houston Rockets
-"Fri, Mar 20, 2026",Boston Celtics,Memphis Grizzlies
-"Fri, Mar 20, 2026",Portland Trail Blazers,Minnesota Timberwolves
-"Fri, Mar 20, 2026",Toronto Raptors,Denver Nuggets
-"Sat, Mar 21, 2026",Oklahoma City Thunder,Washington Wizards
-"Sat, Mar 21, 2026",Memphis Grizzlies,Charlotte Hornets
-"Sat, Mar 21, 2026",Cleveland Cavaliers,New Orleans Pelicans
-"Sat, Mar 21, 2026",Los Angeles Lakers,Orlando Magic
-"Sat, Mar 21, 2026",Golden State Warriors,Atlanta Hawks
-"Sat, Mar 21, 2026",Miami Heat,Houston Rockets
-"Sat, Mar 21, 2026",Indiana Pacers,San Antonio Spurs
-"Sat, Mar 21, 2026",Los Angeles Clippers,Dallas Mavericks
-"Sat, Mar 21, 2026",Philadelphia 76ers,Utah Jazz
-"Sat, Mar 21, 2026",Milwaukee Bucks,Phoenix Suns
-"Sun, Mar 22, 2026",Portland Trail Blazers,Denver Nuggets
-"Sun, Mar 22, 2026",Brooklyn Nets,Sacramento Kings
-"Sun, Mar 22, 2026",Washington Wizards,New York Knicks
-"Sun, Mar 22, 2026",Minnesota Timberwolves,Boston Celtics
-"Sun, Mar 22, 2026",Toronto Raptors,Phoenix Suns
-"Mon, Mar 23, 2026",Memphis Grizzlies,Atlanta Hawks
-"Mon, Mar 23, 2026",Los Angeles Lakers,Detroit Pistons
-"Mon, Mar 23, 2026",Indiana Pacers,Orlando Magic
-"Mon, Mar 23, 2026",Oklahoma City Thunder,Philadelphia 76ers
-"Mon, Mar 23, 2026",San Antonio Spurs,Miami Heat
-"Mon, Mar 23, 2026",Houston Rockets,Chicago Bulls
-"Mon, Mar 23, 2026",Toronto Raptors,Utah Jazz
-"Mon, Mar 23, 2026",Golden State Warriors,Dallas Mavericks
-"Mon, Mar 23, 2026",Brooklyn Nets,Portland Trail Blazers
-"Mon, Mar 23, 2026",Milwaukee Bucks,Los Angeles Clippers
-"Tue, Mar 24, 2026",Sacramento Kings,Charlotte Hornets
-"Tue, Mar 24, 2026",New Orleans Pelicans,New York Knicks
-"Tue, Mar 24, 2026",Orlando Magic,Cleveland Cavaliers
-"Tue, Mar 24, 2026",Denver Nuggets,Phoenix Suns
-"Wed, Mar 25, 2026",Atlanta Hawks,Detroit Pistons
-"Wed, Mar 25, 2026",Los Angeles Lakers,Indiana Pacers
-"Wed, Mar 25, 2026",Chicago Bulls,Philadelphia 76ers
-"Wed, Mar 25, 2026",Oklahoma City Thunder,Boston Celtics
-"Wed, Mar 25, 2026",Miami Heat,Cleveland Cavaliers
-"Wed, Mar 25, 2026",San Antonio Spurs,Memphis Grizzlies
-"Wed, Mar 25, 2026",Washington Wizards,Utah Jazz
-"Wed, Mar 25, 2026",Houston Rockets,Minnesota Timberwolves
-"Wed, Mar 25, 2026",Dallas Mavericks,Denver Nuggets
-"Wed, Mar 25, 2026",Brooklyn Nets,Golden State Warriors
-"Wed, Mar 25, 2026",Milwaukee Bucks,Portland Trail Blazers
-"Wed, Mar 25, 2026",Toronto Raptors,Los Angeles Clippers
-"Thu, Mar 26, 2026",New York Knicks,Charlotte Hornets
-"Thu, Mar 26, 2026",New Orleans Pelicans,Detroit Pistons
-"Thu, Mar 26, 2026",Sacramento Kings,Orlando Magic
-"Fri, Mar 27, 2026",Los Angeles Clippers,Indiana Pacers
-"Fri, Mar 27, 2026",Atlanta Hawks,Boston Celtics
-"Fri, Mar 27, 2026",Miami Heat,Cleveland Cavaliers
-"Fri, Mar 27, 2026",Houston Rockets,Memphis Grizzlies
-"Fri, Mar 27, 2026",Chicago Bulls,Oklahoma City Thunder
-"Fri, Mar 27, 2026",New Orleans Pelicans,Toronto Raptors
-"Fri, Mar 27, 2026",Utah Jazz,Denver Nuggets
-"Fri, Mar 27, 2026",Washington Wizards,Golden State Warriors
-"Fri, Mar 27, 2026",Dallas Mavericks,Portland Trail Blazers
-"Fri, Mar 27, 2026",Brooklyn Nets,Los Angeles Lakers
-"Sat, Mar 28, 2026",San Antonio Spurs,Milwaukee Bucks
-"Sat, Mar 28, 2026",Philadelphia 76ers,Charlotte Hornets
-"Sat, Mar 28, 2026",Sacramento Kings,Atlanta Hawks
-"Sat, Mar 28, 2026",Chicago Bulls,Memphis Grizzlies
-"Sat, Mar 28, 2026",Detroit Pistons,Minnesota Timberwolves
-"Sat, Mar 28, 2026",Utah Jazz,Phoenix Suns
-"Sun, Mar 29, 2026",Los Angeles Clippers,Milwaukee Bucks
-"Sun, Mar 29, 2026",Miami Heat,Indiana Pacers
-"Sun, Mar 29, 2026",Sacramento Kings,Brooklyn Nets
-"Sun, Mar 29, 2026",Boston Celtics,Charlotte Hornets
-"Sun, Mar 29, 2026",Washington Wizards,Portland Trail Blazers
-"Sun, Mar 29, 2026",Orlando Magic,Toronto Raptors
-"Sun, Mar 29, 2026",Houston Rockets,New Orleans Pelicans
-"Sun, Mar 29, 2026",New York Knicks,Oklahoma City Thunder
-"Sun, Mar 29, 2026",Golden State Warriors,Denver Nuggets
-"Mon, Mar 30, 2026",Philadelphia 76ers,Miami Heat
-"Mon, Mar 30, 2026",Boston Celtics,Atlanta Hawks
-"Mon, Mar 30, 2026",Phoenix Suns,Memphis Grizzlies
-"Mon, Mar 30, 2026",Chicago Bulls,San Antonio Spurs
-"Mon, Mar 30, 2026",Minnesota Timberwolves,Dallas Mavericks
-"Mon, Mar 30, 2026",Cleveland Cavaliers,Utah Jazz
-"Mon, Mar 30, 2026",Detroit Pistons,Oklahoma City Thunder
-"Mon, Mar 30, 2026",Washington Wizards,Los Angeles Lakers
-"Tue, Mar 31, 2026",Phoenix Suns,Orlando Magic
-"Tue, Mar 31, 2026",Charlotte Hornets,Brooklyn Nets
-"Tue, Mar 31, 2026",Toronto Raptors,Detroit Pistons
-"Tue, Mar 31, 2026",New York Knicks,Houston Rockets
-"Tue, Mar 31, 2026",Cleveland Cavaliers,Los Angeles Lakers
-"Tue, Mar 31, 2026",Portland Trail Blazers,Los Angeles Clippers
-"Sun, Feb 1, 2026",Milwaukee Bucks,Boston Celtics
-"Sun, Feb 1, 2026",Orlando Magic,San Antonio Spurs
-"Sun, Feb 1, 2026",Brooklyn Nets,Detroit Pistons
-"Sun, Feb 1, 2026",Chicago Bulls,Miami Heat
-"Sun, Feb 1, 2026",Utah Jazz,Toronto Raptors
-"Sun, Feb 1, 2026",Sacramento Kings,Washington Wizards
-"Sun, Feb 1, 2026",Los Angeles Lakers,New York Knicks
-"Sun, Feb 1, 2026",Los Angeles Clippers,Phoenix Suns
-"Sun, Feb 1, 2026",Cleveland Cavaliers,Portland Trail Blazers
-"Sun, Feb 1, 2026",Oklahoma City Thunder,Denver Nuggets
-"Mon, Feb 2, 2026",New Orleans Pelicans,Charlotte Hornets
-"Mon, Feb 2, 2026",Houston Rockets,Indiana Pacers
-"Mon, Feb 2, 2026",Minnesota Timberwolves,Memphis Grizzlies
-"Mon, Feb 2, 2026",Philadelphia 76ers,Los Angeles Clippers
-"Tue, Feb 3, 2026",Denver Nuggets,Detroit Pistons
-"Tue, Feb 3, 2026",Utah Jazz,Indiana Pacers
-"Tue, Feb 3, 2026",New York Knicks,Washington Wizards
-"Tue, Feb 3, 2026",Los Angeles Lakers,Brooklyn Nets
-"Tue, Feb 3, 2026",Atlanta Hawks,Miami Heat
-"Tue, Feb 3, 2026",Boston Celtics,Dallas Mavericks
-"Tue, Feb 3, 2026",Chicago Bulls,Milwaukee Bucks
-"Tue, Feb 3, 2026",Orlando Magic,Oklahoma City Thunder
-"Tue, Feb 3, 2026",Philadelphia 76ers,Golden State Warriors
-"Tue, Feb 3, 2026",Phoenix Suns,Portland Trail Blazers
-"Wed, Feb 4, 2026",Denver Nuggets,New York Knicks
-"Wed, Feb 4, 2026",Minnesota Timberwolves,Toronto Raptors
-"Wed, Feb 4, 2026",Boston Celtics,Houston Rockets
-"Wed, Feb 4, 2026",New Orleans Pelicans,Milwaukee Bucks
-"Wed, Feb 4, 2026",Oklahoma City Thunder,San Antonio Spurs
-"Wed, Feb 4, 2026",Memphis Grizzlies,Sacramento Kings
-"Wed, Feb 4, 2026",Cleveland Cavaliers,Los Angeles Clippers
-"Thu, Feb 5, 2026",Washington Wizards,Detroit Pistons
-"Thu, Feb 5, 2026",Brooklyn Nets,Orlando Magic
-"Thu, Feb 5, 2026",Utah Jazz,Atlanta Hawks
-"Thu, Feb 5, 2026",Chicago Bulls,Toronto Raptors
-"Thu, Feb 5, 2026",Charlotte Hornets,Houston Rockets
-"Thu, Feb 5, 2026",San Antonio Spurs,Dallas Mavericks
-"Thu, Feb 5, 2026",Philadelphia 76ers,Los Angeles Lakers
-"Thu, Feb 5, 2026",Golden State Warriors,Phoenix Suns
-"Fri, Feb 6, 2026",Miami Heat,Boston Celtics
-"Fri, Feb 6, 2026",New York Knicks,Detroit Pistons
-"Fri, Feb 6, 2026",Indiana Pacers,Milwaukee Bucks
-"Fri, Feb 6, 2026",New Orleans Pelicans,Minnesota Timberwolves
-"Fri, Feb 6, 2026",Memphis Grizzlies,Portland Trail Blazers
-"Fri, Feb 6, 2026",Los Angeles Clippers,Sacramento Kings
-"Sat, Feb 7, 2026",Washington Wizards,Brooklyn Nets
-"Sat, Feb 7, 2026",Houston Rockets,Oklahoma City Thunder
-"Sat, Feb 7, 2026",Dallas Mavericks,San Antonio Spurs
-"Sat, Feb 7, 2026",Utah Jazz,Orlando Magic
-"Sat, Feb 7, 2026",Charlotte Hornets,Atlanta Hawks
-"Sat, Feb 7, 2026",Denver Nuggets,Chicago Bulls
-"Sat, Feb 7, 2026",Golden State Warriors,Los Angeles Lakers
-"Sat, Feb 7, 2026",Philadelphia 76ers,Phoenix Suns
-"Sat, Feb 7, 2026",Memphis Grizzlies,Portland Trail Blazers
-"Sat, Feb 7, 2026",Cleveland Cavaliers,Sacramento Kings
-"Sun, Feb 8, 2026",New York Knicks,Boston Celtics
-"Sun, Feb 8, 2026",Miami Heat,Washington Wizards
-"Sun, Feb 8, 2026",Los Angeles Clippers,Minnesota Timberwolves
-"Sun, Feb 8, 2026",Indiana Pacers,Toronto Raptors
-"Mon, Feb 9, 2026",Detroit Pistons,Charlotte Hornets
-"Mon, Feb 9, 2026",Chicago Bulls,Brooklyn Nets
-"Mon, Feb 9, 2026",Utah Jazz,Miami Heat
-"Mon, Feb 9, 2026",Milwaukee Bucks,Orlando Magic
-"Mon, Feb 9, 2026",Atlanta Hawks,Minnesota Timberwolves
-"Mon, Feb 9, 2026",Sacramento Kings,New Orleans Pelicans
-"Mon, Feb 9, 2026",Cleveland Cavaliers,Denver Nuggets
-"Mon, Feb 9, 2026",Memphis Grizzlies,Golden State Warriors
-"Mon, Feb 9, 2026",Oklahoma City Thunder,Los Angeles Lakers
-"Mon, Feb 9, 2026",Philadelphia 76ers,Portland Trail Blazers
-"Tue, Feb 10, 2026",Indiana Pacers,New York Knicks
-"Tue, Feb 10, 2026",Los Angeles Clippers,Houston Rockets
-"Tue, Feb 10, 2026",Dallas Mavericks,Phoenix Suns
-"Tue, Feb 10, 2026",San Antonio Spurs,Los Angeles Lakers
-"Wed, Feb 11, 2026",Atlanta Hawks,Charlotte Hornets
-"Wed, Feb 11, 2026",Washington Wizards,Cleveland Cavaliers
-"Wed, Feb 11, 2026",Milwaukee Bucks,Orlando Magic
-"Wed, Feb 11, 2026",Chicago Bulls,Boston Celtics
-"Wed, Feb 11, 2026",Indiana Pacers,Brooklyn Nets
-"Wed, Feb 11, 2026",New York Knicks,Philadelphia 76ers
-"Wed, Feb 11, 2026",Detroit Pistons,Toronto Raptors
-"Wed, Feb 11, 2026",Los Angeles Clippers,Houston Rockets
-"Wed, Feb 11, 2026",Portland Trail Blazers,Minnesota Timberwolves
-"Wed, Feb 11, 2026",Miami Heat,New Orleans Pelicans
-"Wed, Feb 11, 2026",Oklahoma City Thunder,Phoenix Suns
-"Wed, Feb 11, 2026",Sacramento Kings,Utah Jazz
-"Wed, Feb 11, 2026",Memphis Grizzlies,Denver Nuggets
-"Wed, Feb 11, 2026",San Antonio Spurs,Golden State Warriors
-"Thu, Feb 12, 2026",Milwaukee Bucks,Oklahoma City Thunder
-"Thu, Feb 12, 2026",Portland Trail Blazers,Utah Jazz
-"Thu, Feb 12, 2026",Dallas Mavericks,Los Angeles Lakers
-"Thu, Feb 19, 2026",Houston Rockets,Charlotte Hornets
-"Thu, Feb 19, 2026",Brooklyn Nets,Cleveland Cavaliers
-"Thu, Feb 19, 2026",Atlanta Hawks,Philadelphia 76ers
-"Thu, Feb 19, 2026",Indiana Pacers,Washington Wizards
-"Thu, Feb 19, 2026",Detroit Pistons,New York Knicks
-"Thu, Feb 19, 2026",Toronto Raptors,Chicago Bulls
-"Thu, Feb 19, 2026",Phoenix Suns,San Antonio Spurs
-"Thu, Feb 19, 2026",Boston Celtics,Golden State Warriors
-"Thu, Feb 19, 2026",Orlando Magic,Sacramento Kings
-"Thu, Feb 19, 2026",Denver Nuggets,Los Angeles Clippers
-"Fri, Feb 20, 2026",Cleveland Cavaliers,Charlotte Hornets
-"Fri, Feb 20, 2026",Utah Jazz,Memphis Grizzlies
-"Fri, Feb 20, 2026",Indiana Pacers,Washington Wizards
-"Fri, Feb 20, 2026",Miami Heat,Atlanta Hawks
-"Fri, Feb 20, 2026",Dallas Mavericks,Minnesota Timberwolves
-"Fri, Feb 20, 2026",Milwaukee Bucks,New Orleans Pelicans
-"Fri, Feb 20, 2026",Brooklyn Nets,Oklahoma City Thunder
-"Fri, Feb 20, 2026",Los Angeles Clippers,Los Angeles Lakers
-"Fri, Feb 20, 2026",Denver Nuggets,Portland Trail Blazers
-"Sat, Feb 21, 2026",Orlando Magic,Phoenix Suns
-"Sat, Feb 21, 2026",Philadelphia 76ers,New Orleans Pelicans
-"Sat, Feb 21, 2026",Detroit Pistons,Chicago Bulls
-"Sat, Feb 21, 2026",Memphis Grizzlies,Miami Heat
-"Sat, Feb 21, 2026",Sacramento Kings,San Antonio Spurs
-"Sat, Feb 21, 2026",Houston Rockets,New York Knicks
-"Sun, Feb 22, 2026",Cleveland Cavaliers,Oklahoma City Thunder
-"Sun, Feb 22, 2026",Brooklyn Nets,Atlanta Hawks
-"Sun, Feb 22, 2026",Denver Nuggets,Golden State Warriors
-"Sun, Feb 22, 2026",Toronto Raptors,Milwaukee Bucks
-"Sun, Feb 22, 2026",Dallas Mavericks,Indiana Pacers
-"Sun, Feb 22, 2026",Charlotte Hornets,Washington Wizards
-"Sun, Feb 22, 2026",Boston Celtics,Los Angeles Lakers
-"Sun, Feb 22, 2026",Philadelphia 76ers,Minnesota Timberwolves
-"Sun, Feb 22, 2026",New York Knicks,Chicago Bulls
-"Sun, Feb 22, 2026",Portland Trail Blazers,Phoenix Suns
-"Sun, Feb 22, 2026",Orlando Magic,Los Angeles Clippers
-"Mon, Feb 23, 2026",San Antonio Spurs,Detroit Pistons
-"Mon, Feb 23, 2026",Sacramento Kings,Memphis Grizzlies
-"Mon, Feb 23, 2026",Utah Jazz,Houston Rockets
-"Tue, Feb 24, 2026",Philadelphia 76ers,Indiana Pacers
-"Tue, Feb 24, 2026",Washington Wizards,Atlanta Hawks
-"Tue, Feb 24, 2026",Dallas Mavericks,Brooklyn Nets
-"Tue, Feb 24, 2026",Oklahoma City Thunder,Toronto Raptors
-"Tue, Feb 24, 2026",Charlotte Hornets,Chicago Bulls
-"Tue, Feb 24, 2026",New York Knicks,Cleveland Cavaliers
-"Tue, Feb 24, 2026",Miami Heat,Milwaukee Bucks
-"Tue, Feb 24, 2026",Golden State Warriors,New Orleans Pelicans
-"Tue, Feb 24, 2026",Boston Celtics,Phoenix Suns
-"Tue, Feb 24, 2026",Orlando Magic,Los Angeles Lakers
-"Tue, Feb 24, 2026",Minnesota Timberwolves,Portland Trail Blazers
-"Wed, Feb 25, 2026",Oklahoma City Thunder,Detroit Pistons
-"Wed, Feb 25, 2026",Golden State Warriors,Memphis Grizzlies
-"Wed, Feb 25, 2026",San Antonio Spurs,Toronto Raptors
-"Wed, Feb 25, 2026",Sacramento Kings,Houston Rockets
-"Wed, Feb 25, 2026",Cleveland Cavaliers,Milwaukee Bucks
-"Wed, Feb 25, 2026",Boston Celtics,Denver Nuggets
-"Thu, Feb 26, 2026",Charlotte Hornets,Indiana Pacers
-"Thu, Feb 26, 2026",Miami Heat,Philadelphia 76ers
-"Thu, Feb 26, 2026",Washington Wizards,Atlanta Hawks
-"Thu, Feb 26, 2026",San Antonio Spurs,Brooklyn Nets
-"Thu, Feb 26, 2026",Houston Rockets,Orlando Magic
-"Thu, Feb 26, 2026",Portland Trail Blazers,Chicago Bulls
-"Thu, Feb 26, 2026",Sacramento Kings,Dallas Mavericks
-"Thu, Feb 26, 2026",Los Angeles Lakers,Phoenix Suns
-"Thu, Feb 26, 2026",New Orleans Pelicans,Utah Jazz
-"Thu, Feb 26, 2026",Minnesota Timberwolves,Los Angeles Clippers
-"Fri, Feb 27, 2026",Cleveland Cavaliers,Detroit Pistons
-"Fri, Feb 27, 2026",Brooklyn Nets,Boston Celtics
-"Fri, Feb 27, 2026",New York Knicks,Milwaukee Bucks
-"Fri, Feb 27, 2026",Memphis Grizzlies,Dallas Mavericks
-"Fri, Feb 27, 2026",Denver Nuggets,Oklahoma City Thunder
-"Sat, Feb 28, 2026",Portland Trail Blazers,Charlotte Hornets
-"Sat, Feb 28, 2026",Houston Rockets,Miami Heat
-"Sat, Feb 28, 2026",Toronto Raptors,Washington Wizards
-"Sat, Feb 28, 2026",Los Angeles Lakers,Golden State Warriors
-"Sat, Feb 28, 2026",New Orleans Pelicans,Utah Jazz
+2026-01-26,Indiana Pacers,Atlanta Hawks
+2026-01-26,Orlando Magic,Cleveland Cavaliers
+2026-01-26,Portland Trail Blazers,Boston Celtics
+2026-01-26,Los Angeles Lakers,Chicago Bulls
+2026-01-26,Memphis Grizzlies,Houston Rockets
+2026-01-26,Golden State Warriors,Minnesota Timberwolves
+2026-01-26,Philadelphia 76ers,Charlotte Hornets
+2026-01-27,Portland Trail Blazers,Washington Wizards
+2026-01-27,Los Angeles Clippers,Utah Jazz
+2026-01-27,Brooklyn Nets,Phoenix Suns
+2026-01-27,New Orleans Pelicans,Oklahoma City Thunder
+2026-01-27,Milwaukee Bucks,Philadelphia 76ers
+2026-01-27,Sacramento Kings,New York Knicks
+2026-01-27,Detroit Pistons,Denver Nuggets
+2026-01-28,Charlotte Hornets,Memphis Grizzlies
+2026-01-28,San Antonio Spurs,Houston Rockets
+2026-01-28,Golden State Warriors,Utah Jazz
+2026-01-28,New York Knicks,Toronto Raptors
+2026-01-28,Atlanta Hawks,Boston Celtics
+2026-01-28,Chicago Bulls,Indiana Pacers
+2026-01-28,Los Angeles Lakers,Cleveland Cavaliers
+2026-01-28,Minnesota Timberwolves,Dallas Mavericks
+2026-01-28,Orlando Magic,Miami Heat
+2026-01-29,Sacramento Kings,Philadelphia 76ers
+2026-01-29,Milwaukee Bucks,Washington Wizards
+2026-01-29,Houston Rockets,Atlanta Hawks
+2026-01-29,Charlotte Hornets,Dallas Mavericks
+2026-01-29,Brooklyn Nets,Denver Nuggets
+2026-01-29,Detroit Pistons,Phoenix Suns
+2026-01-29,Oklahoma City Thunder,Minnesota Timberwolves
+2026-01-29,Miami Heat,Chicago Bulls
+2026-01-30,Toronto Raptors,Orlando Magic
+2026-01-30,Cleveland Cavaliers,Phoenix Suns
+2026-01-30,Los Angeles Clippers,Denver Nuggets
+2026-01-30,Portland Trail Blazers,New York Knicks
+2026-01-30,Brooklyn Nets,Utah Jazz
+2026-01-30,Sacramento Kings,Boston Celtics
+2026-01-30,Detroit Pistons,Golden State Warriors
+2026-01-30,Los Angeles Lakers,Washington Wizards
+2026-01-30,Memphis Grizzlies,New Orleans Pelicans
+2026-01-31,Dallas Mavericks,Houston Rockets
+2026-01-31,Chicago Bulls,Miami Heat
+2026-01-31,San Antonio Spurs,Charlotte Hornets
+2026-01-31,New Orleans Pelicans,Philadelphia 76ers
+2026-01-31,Minnesota Timberwolves,Memphis Grizzlies
+2026-01-31,Atlanta Hawks,Indiana Pacers
+2026-02-01,Utah Jazz,Toronto Raptors
+2026-02-01,Chicago Bulls,Miami Heat
+2026-02-01,Brooklyn Nets,Detroit Pistons
+2026-02-01,Milwaukee Bucks,Boston Celtics
+2026-02-01,Orlando Magic,San Antonio Spurs
+2026-02-01,Cleveland Cavaliers,Portland Trail Blazers
+2026-02-01,Los Angeles Clippers,Phoenix Suns
+2026-02-01,Los Angeles Lakers,New York Knicks
+2026-02-01,Sacramento Kings,Washington Wizards
+2026-02-01,Oklahoma City Thunder,Denver Nuggets
+2026-02-02,Philadelphia 76ers,Los Angeles Clippers
+2026-02-02,Minnesota Timberwolves,Memphis Grizzlies
+2026-02-02,Houston Rockets,Indiana Pacers
+2026-02-02,New Orleans Pelicans,Charlotte Hornets
+2026-02-03,Denver Nuggets,Detroit Pistons
+2026-02-03,Chicago Bulls,Milwaukee Bucks
+2026-02-03,Utah Jazz,Indiana Pacers
+2026-02-03,Boston Celtics,Dallas Mavericks
+2026-02-03,Atlanta Hawks,Miami Heat
+2026-02-03,Orlando Magic,Oklahoma City Thunder
+2026-02-03,Philadelphia 76ers,Golden State Warriors
+2026-02-03,New York Knicks,Washington Wizards
+2026-02-03,Phoenix Suns,Portland Trail Blazers
+2026-02-03,Los Angeles Lakers,Brooklyn Nets
+2026-02-04,Denver Nuggets,New York Knicks
+2026-02-04,Minnesota Timberwolves,Toronto Raptors
+2026-02-04,Boston Celtics,Houston Rockets
+2026-02-04,New Orleans Pelicans,Milwaukee Bucks
+2026-02-04,Oklahoma City Thunder,San Antonio Spurs
+2026-02-04,Memphis Grizzlies,Sacramento Kings
+2026-02-04,Cleveland Cavaliers,Los Angeles Clippers
+2026-02-05,Charlotte Hornets,Houston Rockets
+2026-02-05,Washington Wizards,Detroit Pistons
+2026-02-05,Brooklyn Nets,Orlando Magic
+2026-02-05,Chicago Bulls,Toronto Raptors
+2026-02-05,San Antonio Spurs,Dallas Mavericks
+2026-02-05,Philadelphia 76ers,Los Angeles Lakers
+2026-02-05,Golden State Warriors,Phoenix Suns
+2026-02-05,Utah Jazz,Atlanta Hawks
+2026-02-06,Miami Heat,Boston Celtics
+2026-02-06,New York Knicks,Detroit Pistons
+2026-02-06,Indiana Pacers,Milwaukee Bucks
+2026-02-06,New Orleans Pelicans,Minnesota Timberwolves
+2026-02-06,Memphis Grizzlies,Portland Trail Blazers
+2026-02-06,Los Angeles Clippers,Sacramento Kings
+2026-02-07,Utah Jazz,Orlando Magic
+2026-02-07,Denver Nuggets,Chicago Bulls
+2026-02-07,Houston Rockets,Oklahoma City Thunder
+2026-02-07,Charlotte Hornets,Atlanta Hawks
+2026-02-07,Washington Wizards,Brooklyn Nets
+2026-02-07,Golden State Warriors,Los Angeles Lakers
+2026-02-07,Philadelphia 76ers,Phoenix Suns
+2026-02-07,Memphis Grizzlies,Portland Trail Blazers
+2026-02-07,Cleveland Cavaliers,Sacramento Kings
+2026-02-07,Dallas Mavericks,San Antonio Spurs
+2026-02-08,New York Knicks,Boston Celtics
+2026-02-08,Miami Heat,Washington Wizards
+2026-02-08,Indiana Pacers,Toronto Raptors
+2026-02-08,Los Angeles Clippers,Minnesota Timberwolves
+2026-02-09,Utah Jazz,Miami Heat
+2026-02-09,Atlanta Hawks,Minnesota Timberwolves
+2026-02-09,Sacramento Kings,New Orleans Pelicans
+2026-02-09,Oklahoma City Thunder,Los Angeles Lakers
+2026-02-09,Milwaukee Bucks,Orlando Magic
+2026-02-09,Cleveland Cavaliers,Denver Nuggets
+2026-02-09,Memphis Grizzlies,Golden State Warriors
+2026-02-09,Chicago Bulls,Brooklyn Nets
+2026-02-09,Philadelphia 76ers,Portland Trail Blazers
+2026-02-09,Detroit Pistons,Charlotte Hornets
+2026-02-10,Indiana Pacers,New York Knicks
+2026-02-10,Los Angeles Clippers,Houston Rockets
+2026-02-10,Dallas Mavericks,Phoenix Suns
+2026-02-10,San Antonio Spurs,Los Angeles Lakers
+2026-02-11,Atlanta Hawks,Charlotte Hornets
+2026-02-11,Milwaukee Bucks,Orlando Magic
+2026-02-11,Chicago Bulls,Boston Celtics
+2026-02-11,Indiana Pacers,Brooklyn Nets
+2026-02-11,New York Knicks,Philadelphia 76ers
+2026-02-11,Los Angeles Clippers,Houston Rockets
+2026-02-11,Memphis Grizzlies,Denver Nuggets
+2026-02-11,Miami Heat,New Orleans Pelicans
+2026-02-11,Oklahoma City Thunder,Phoenix Suns
+2026-02-11,Sacramento Kings,Utah Jazz
+2026-02-11,San Antonio Spurs,Golden State Warriors
+2026-02-11,Washington Wizards,Cleveland Cavaliers
+2026-02-11,Detroit Pistons,Toronto Raptors
+2026-02-11,Portland Trail Blazers,Minnesota Timberwolves
+2026-02-12,Dallas Mavericks,Los Angeles Lakers
+2026-02-12,Milwaukee Bucks,Oklahoma City Thunder
+2026-02-12,Portland Trail Blazers,Utah Jazz
+2026-02-19,Atlanta Hawks,Philadelphia 76ers
+2026-02-19,Brooklyn Nets,Cleveland Cavaliers
+2026-02-19,Denver Nuggets,Los Angeles Clippers
+2026-02-19,Orlando Magic,Sacramento Kings
+2026-02-19,Houston Rockets,Charlotte Hornets
+2026-02-19,Phoenix Suns,San Antonio Spurs
+2026-02-19,Toronto Raptors,Chicago Bulls
+2026-02-19,Detroit Pistons,New York Knicks
+2026-02-19,Indiana Pacers,Washington Wizards
+2026-02-19,Boston Celtics,Golden State Warriors
+2026-02-20,Indiana Pacers,Washington Wizards
+2026-02-20,Denver Nuggets,Portland Trail Blazers
+2026-02-20,Los Angeles Clippers,Los Angeles Lakers
+2026-02-20,Brooklyn Nets,Oklahoma City Thunder
+2026-02-20,Milwaukee Bucks,New Orleans Pelicans
+2026-02-20,Dallas Mavericks,Minnesota Timberwolves
+2026-02-20,Miami Heat,Atlanta Hawks
+2026-02-20,Utah Jazz,Memphis Grizzlies
+2026-02-20,Cleveland Cavaliers,Charlotte Hornets
+2026-02-21,Detroit Pistons,Chicago Bulls
+2026-02-21,Philadelphia 76ers,New Orleans Pelicans
+2026-02-21,Orlando Magic,Phoenix Suns
+2026-02-21,Sacramento Kings,San Antonio Spurs
+2026-02-21,Houston Rockets,New York Knicks
+2026-02-21,Memphis Grizzlies,Miami Heat
+2026-02-22,New York Knicks,Chicago Bulls
+2026-02-22,Dallas Mavericks,Indiana Pacers
+2026-02-22,Cleveland Cavaliers,Oklahoma City Thunder
+2026-02-22,Brooklyn Nets,Atlanta Hawks
+2026-02-22,Denver Nuggets,Golden State Warriors
+2026-02-22,Boston Celtics,Los Angeles Lakers
+2026-02-22,Charlotte Hornets,Washington Wizards
+2026-02-22,Philadelphia 76ers,Minnesota Timberwolves
+2026-02-22,Orlando Magic,Los Angeles Clippers
+2026-02-22,Portland Trail Blazers,Phoenix Suns
+2026-02-22,Toronto Raptors,Milwaukee Bucks
+2026-02-23,San Antonio Spurs,Detroit Pistons
+2026-02-23,Sacramento Kings,Memphis Grizzlies
+2026-02-23,Utah Jazz,Houston Rockets
+2026-02-24,Golden State Warriors,New Orleans Pelicans
+2026-02-24,Miami Heat,Milwaukee Bucks
+2026-02-24,Orlando Magic,Los Angeles Lakers
+2026-02-24,Minnesota Timberwolves,Portland Trail Blazers
+2026-02-24,Boston Celtics,Phoenix Suns
+2026-02-24,New York Knicks,Cleveland Cavaliers
+2026-02-24,Dallas Mavericks,Brooklyn Nets
+2026-02-24,Washington Wizards,Atlanta Hawks
+2026-02-24,Philadelphia 76ers,Indiana Pacers
+2026-02-24,Oklahoma City Thunder,Toronto Raptors
+2026-02-24,Charlotte Hornets,Chicago Bulls
+2026-02-25,San Antonio Spurs,Toronto Raptors
+2026-02-25,Oklahoma City Thunder,Detroit Pistons
+2026-02-25,Golden State Warriors,Memphis Grizzlies
+2026-02-25,Sacramento Kings,Houston Rockets
+2026-02-25,Cleveland Cavaliers,Milwaukee Bucks
+2026-02-25,Boston Celtics,Denver Nuggets
+2026-02-26,Los Angeles Lakers,Phoenix Suns
+2026-02-26,Sacramento Kings,Dallas Mavericks
+2026-02-26,New Orleans Pelicans,Utah Jazz
+2026-02-26,Portland Trail Blazers,Chicago Bulls
+2026-02-26,Minnesota Timberwolves,Los Angeles Clippers
+2026-02-26,San Antonio Spurs,Brooklyn Nets
+2026-02-26,Charlotte Hornets,Indiana Pacers
+2026-02-26,Houston Rockets,Orlando Magic
+2026-02-26,Washington Wizards,Atlanta Hawks
+2026-02-26,Miami Heat,Philadelphia 76ers
+2026-02-27,Cleveland Cavaliers,Detroit Pistons
+2026-02-27,Brooklyn Nets,Boston Celtics
+2026-02-27,New York Knicks,Milwaukee Bucks
+2026-02-27,Denver Nuggets,Oklahoma City Thunder
+2026-02-27,Memphis Grizzlies,Dallas Mavericks
+2026-02-28,Portland Trail Blazers,Charlotte Hornets
+2026-02-28,Houston Rockets,Miami Heat
+2026-02-28,New Orleans Pelicans,Utah Jazz
+2026-02-28,Los Angeles Lakers,Golden State Warriors
+2026-02-28,Toronto Raptors,Washington Wizards
+2026-03-01,Sacramento Kings,Los Angeles Lakers
+2026-03-01,Oklahoma City Thunder,Dallas Mavericks
+2026-03-01,Detroit Pistons,Orlando Magic
+2026-03-01,Philadelphia 76ers,Boston Celtics
+2026-03-01,Portland Trail Blazers,Atlanta Hawks
+2026-03-01,Milwaukee Bucks,Chicago Bulls
+2026-03-01,Minnesota Timberwolves,Denver Nuggets
+2026-03-01,Cleveland Cavaliers,Brooklyn Nets
+2026-03-01,New Orleans Pelicans,Los Angeles Clippers
+2026-03-01,Memphis Grizzlies,Indiana Pacers
+2026-03-01,San Antonio Spurs,New York Knicks
+2026-03-02,Los Angeles Clippers,Golden State Warriors
+2026-03-02,Denver Nuggets,Utah Jazz
+2026-03-02,Houston Rockets,Washington Wizards
+2026-03-02,Boston Celtics,Milwaukee Bucks
+2026-03-03,New York Knicks,Toronto Raptors
+2026-03-03,New Orleans Pelicans,Los Angeles Lakers
+2026-03-03,Memphis Grizzlies,Minnesota Timberwolves
+2026-03-03,Oklahoma City Thunder,Chicago Bulls
+2026-03-03,Brooklyn Nets,Miami Heat
+2026-03-03,Detroit Pistons,Cleveland Cavaliers
+2026-03-03,Dallas Mavericks,Charlotte Hornets
+2026-03-03,San Antonio Spurs,Philadelphia 76ers
+2026-03-03,Phoenix Suns,Sacramento Kings
+2026-03-03,Washington Wizards,Orlando Magic
+2026-03-04,Oklahoma City Thunder,New York Knicks
+2026-03-04,Indiana Pacers,Los Angeles Clippers
+2026-03-04,Atlanta Hawks,Milwaukee Bucks
+2026-03-04,Utah Jazz,Philadelphia 76ers
+2026-03-04,Charlotte Hornets,Boston Celtics
+2026-03-04,Portland Trail Blazers,Memphis Grizzlies
+2026-03-05,New Orleans Pelicans,Sacramento Kings
+2026-03-05,Chicago Bulls,Phoenix Suns
+2026-03-05,Detroit Pistons,San Antonio Spurs
+2026-03-05,Toronto Raptors,Minnesota Timberwolves
+2026-03-05,Los Angeles Lakers,Denver Nuggets
+2026-03-05,Golden State Warriors,Houston Rockets
+2026-03-05,Utah Jazz,Washington Wizards
+2026-03-05,Dallas Mavericks,Orlando Magic
+2026-03-05,Brooklyn Nets,Miami Heat
+2026-03-06,Dallas Mavericks,Boston Celtics
+2026-03-06,Miami Heat,Charlotte Hornets
+2026-03-06,New Orleans Pelicans,Phoenix Suns
+2026-03-06,Portland Trail Blazers,Houston Rockets
+2026-03-06,Indiana Pacers,Los Angeles Lakers
+2026-03-06,New York Knicks,Denver Nuggets
+2026-03-06,Los Angeles Clippers,San Antonio Spurs
+2026-03-07,Orlando Magic,Minnesota Timberwolves
+2026-03-07,Brooklyn Nets,Detroit Pistons
+2026-03-07,Philadelphia 76ers,Atlanta Hawks
+2026-03-07,Los Angeles Clippers,Memphis Grizzlies
+2026-03-07,Utah Jazz,Milwaukee Bucks
+2026-03-07,Golden State Warriors,Oklahoma City Thunder
+2026-03-08,Houston Rockets,San Antonio Spurs
+2026-03-08,Chicago Bulls,Sacramento Kings
+2026-03-08,Indiana Pacers,Portland Trail Blazers
+2026-03-08,Orlando Magic,Milwaukee Bucks
+2026-03-08,Charlotte Hornets,Phoenix Suns
+2026-03-08,Boston Celtics,Cleveland Cavaliers
+2026-03-08,Dallas Mavericks,Toronto Raptors
+2026-03-08,Detroit Pistons,Miami Heat
+2026-03-08,New York Knicks,Los Angeles Lakers
+2026-03-08,Washington Wizards,New Orleans Pelicans
+2026-03-09,Golden State Warriors,Utah Jazz
+2026-03-09,Denver Nuggets,Oklahoma City Thunder
+2026-03-09,New York Knicks,Los Angeles Clippers
+2026-03-09,Memphis Grizzlies,Brooklyn Nets
+2026-03-09,Philadelphia 76ers,Cleveland Cavaliers
+2026-03-10,Minnesota Timberwolves,Los Angeles Lakers
+2026-03-10,Indiana Pacers,Sacramento Kings
+2026-03-10,Charlotte Hornets,Portland Trail Blazers
+2026-03-10,Chicago Bulls,Golden State Warriors
+2026-03-10,Boston Celtics,San Antonio Spurs
+2026-03-10,Dallas Mavericks,Atlanta Hawks
+2026-03-10,Toronto Raptors,Houston Rockets
+2026-03-10,Washington Wizards,Miami Heat
+2026-03-10,Detroit Pistons,Brooklyn Nets
+2026-03-10,Memphis Grizzlies,Philadelphia 76ers
+2026-03-10,Phoenix Suns,Milwaukee Bucks
+2026-03-11,Cleveland Cavaliers,Orlando Magic
+2026-03-11,Houston Rockets,Denver Nuggets
+2026-03-11,Toronto Raptors,New Orleans Pelicans
+2026-03-11,Minnesota Timberwolves,Los Angeles Clippers
+2026-03-11,Charlotte Hornets,Sacramento Kings
+2026-03-11,New York Knicks,Utah Jazz
+2026-03-12,Philadelphia 76ers,Detroit Pistons
+2026-03-12,Phoenix Suns,Indiana Pacers
+2026-03-12,Washington Wizards,Orlando Magic
+2026-03-12,Brooklyn Nets,Atlanta Hawks
+2026-03-12,Milwaukee Bucks,Miami Heat
+2026-03-12,Denver Nuggets,San Antonio Spurs
+2026-03-12,Boston Celtics,Oklahoma City Thunder
+2026-03-12,Chicago Bulls,Los Angeles Lakers
+2026-03-13,Utah Jazz,Portland Trail Blazers
+2026-03-13,New York Knicks,Indiana Pacers
+2026-03-13,Chicago Bulls,Los Angeles Clippers
+2026-03-13,Minnesota Timberwolves,Golden State Warriors
+2026-03-13,Cleveland Cavaliers,Dallas Mavericks
+2026-03-13,New Orleans Pelicans,Houston Rockets
+2026-03-13,Memphis Grizzlies,Detroit Pistons
+2026-03-13,Phoenix Suns,Toronto Raptors
+2026-03-14,Brooklyn Nets,Philadelphia 76ers
+2026-03-14,Milwaukee Bucks,Atlanta Hawks
+2026-03-14,Washington Wizards,Boston Celtics
+2026-03-14,Orlando Magic,Miami Heat
+2026-03-14,Charlotte Hornets,San Antonio Spurs
+2026-03-14,Denver Nuggets,Los Angeles Lakers
+2026-03-14,Sacramento Kings,Los Angeles Clippers
+2026-03-15,Detroit Pistons,Toronto Raptors
+2026-03-15,Minnesota Timberwolves,Oklahoma City Thunder
+2026-03-15,Dallas Mavericks,Cleveland Cavaliers
+2026-03-15,Indiana Pacers,Milwaukee Bucks
+2026-03-15,Golden State Warriors,New York Knicks
+2026-03-15,Utah Jazz,Sacramento Kings
+2026-03-15,Portland Trail Blazers,Philadelphia 76ers
+2026-03-16,Orlando Magic,Atlanta Hawks
+2026-03-16,Golden State Warriors,Washington Wizards
+2026-03-16,Portland Trail Blazers,Brooklyn Nets
+2026-03-16,Phoenix Suns,Boston Celtics
+2026-03-16,Memphis Grizzlies,Chicago Bulls
+2026-03-16,Dallas Mavericks,New Orleans Pelicans
+2026-03-16,Los Angeles Lakers,Houston Rockets
+2026-03-16,San Antonio Spurs,Los Angeles Clippers
+2026-03-17,Phoenix Suns,Minnesota Timberwolves
+2026-03-17,Philadelphia 76ers,Denver Nuggets
+2026-03-17,Indiana Pacers,New York Knicks
+2026-03-17,Cleveland Cavaliers,Milwaukee Bucks
+2026-03-17,Oklahoma City Thunder,Orlando Magic
+2026-03-17,San Antonio Spurs,Sacramento Kings
+2026-03-17,Detroit Pistons,Washington Wizards
+2026-03-17,Miami Heat,Charlotte Hornets
+2026-03-18,Golden State Warriors,Boston Celtics
+2026-03-18,Los Angeles Lakers,Houston Rockets
+2026-03-18,Atlanta Hawks,Dallas Mavericks
+2026-03-18,Los Angeles Clippers,New Orleans Pelicans
+2026-03-18,New York Knicks,Memphis Grizzlies
+2026-03-18,Utah Jazz,Minnesota Timberwolves
+2026-03-18,Portland Trail Blazers,Indiana Pacers
+2026-03-18,Oklahoma City Thunder,Brooklyn Nets
+2026-03-18,Toronto Raptors,Chicago Bulls
+2026-03-19,Los Angeles Lakers,Miami Heat
+2026-03-19,Philadelphia 76ers,Sacramento Kings
+2026-03-19,Milwaukee Bucks,Utah Jazz
+2026-03-19,Phoenix Suns,San Antonio Spurs
+2026-03-19,Detroit Pistons,Washington Wizards
+2026-03-19,Cleveland Cavaliers,Chicago Bulls
+2026-03-19,Orlando Magic,Charlotte Hornets
+2026-03-19,Los Angeles Clippers,New Orleans Pelicans
+2026-03-20,New York Knicks,Brooklyn Nets
+2026-03-20,Boston Celtics,Memphis Grizzlies
+2026-03-20,Toronto Raptors,Denver Nuggets
+2026-03-20,Atlanta Hawks,Houston Rockets
+2026-03-20,Portland Trail Blazers,Minnesota Timberwolves
+2026-03-20,Golden State Warriors,Detroit Pistons
+2026-03-21,Philadelphia 76ers,Utah Jazz
+2026-03-21,Indiana Pacers,San Antonio Spurs
+2026-03-21,Milwaukee Bucks,Phoenix Suns
+2026-03-21,Miami Heat,Houston Rockets
+2026-03-21,Los Angeles Clippers,Dallas Mavericks
+2026-03-21,Los Angeles Lakers,Orlando Magic
+2026-03-21,Cleveland Cavaliers,New Orleans Pelicans
+2026-03-21,Memphis Grizzlies,Charlotte Hornets
+2026-03-21,Oklahoma City Thunder,Washington Wizards
+2026-03-21,Golden State Warriors,Atlanta Hawks
+2026-03-22,Toronto Raptors,Phoenix Suns
+2026-03-22,Minnesota Timberwolves,Boston Celtics
+2026-03-22,Washington Wizards,New York Knicks
+2026-03-22,Portland Trail Blazers,Denver Nuggets
+2026-03-22,Brooklyn Nets,Sacramento Kings
+2026-03-23,Golden State Warriors,Dallas Mavericks
+2026-03-23,Brooklyn Nets,Portland Trail Blazers
+2026-03-23,Memphis Grizzlies,Atlanta Hawks
+2026-03-23,Los Angeles Lakers,Detroit Pistons
+2026-03-23,Indiana Pacers,Orlando Magic
+2026-03-23,Oklahoma City Thunder,Philadelphia 76ers
+2026-03-23,San Antonio Spurs,Miami Heat
+2026-03-23,Toronto Raptors,Utah Jazz
+2026-03-23,Milwaukee Bucks,Los Angeles Clippers
+2026-03-23,Houston Rockets,Chicago Bulls
+2026-03-24,Denver Nuggets,Phoenix Suns
+2026-03-24,Orlando Magic,Cleveland Cavaliers
+2026-03-24,New Orleans Pelicans,New York Knicks
+2026-03-24,Sacramento Kings,Charlotte Hornets
+2026-03-25,San Antonio Spurs,Memphis Grizzlies
+2026-03-25,Chicago Bulls,Philadelphia 76ers
+2026-03-25,Miami Heat,Cleveland Cavaliers
+2026-03-25,Atlanta Hawks,Detroit Pistons
+2026-03-25,Washington Wizards,Utah Jazz
+2026-03-25,Toronto Raptors,Los Angeles Clippers
+2026-03-25,Dallas Mavericks,Denver Nuggets
+2026-03-25,Brooklyn Nets,Golden State Warriors
+2026-03-25,Los Angeles Lakers,Indiana Pacers
+2026-03-25,Milwaukee Bucks,Portland Trail Blazers
+2026-03-25,Oklahoma City Thunder,Boston Celtics
+2026-03-25,Houston Rockets,Minnesota Timberwolves
+2026-03-26,Sacramento Kings,Orlando Magic
+2026-03-26,New York Knicks,Charlotte Hornets
+2026-03-26,New Orleans Pelicans,Detroit Pistons
+2026-03-27,Chicago Bulls,Oklahoma City Thunder
+2026-03-27,Brooklyn Nets,Los Angeles Lakers
+2026-03-27,Dallas Mavericks,Portland Trail Blazers
+2026-03-27,Washington Wizards,Golden State Warriors
+2026-03-27,New Orleans Pelicans,Toronto Raptors
+2026-03-27,Utah Jazz,Denver Nuggets
+2026-03-27,Houston Rockets,Memphis Grizzlies
+2026-03-27,Miami Heat,Cleveland Cavaliers
+2026-03-27,Atlanta Hawks,Boston Celtics
+2026-03-27,Los Angeles Clippers,Indiana Pacers
+2026-03-28,Utah Jazz,Phoenix Suns
+2026-03-28,Detroit Pistons,Minnesota Timberwolves
+2026-03-28,Chicago Bulls,Memphis Grizzlies
+2026-03-28,Philadelphia 76ers,Charlotte Hornets
+2026-03-28,San Antonio Spurs,Milwaukee Bucks
+2026-03-28,Sacramento Kings,Atlanta Hawks
+2026-03-29,Boston Celtics,Charlotte Hornets
+2026-03-29,Golden State Warriors,Denver Nuggets
+2026-03-29,New York Knicks,Oklahoma City Thunder
+2026-03-29,Houston Rockets,New Orleans Pelicans
+2026-03-29,Miami Heat,Indiana Pacers
+2026-03-29,Washington Wizards,Portland Trail Blazers
+2026-03-29,Los Angeles Clippers,Milwaukee Bucks
+2026-03-29,Sacramento Kings,Brooklyn Nets
+2026-03-29,Orlando Magic,Toronto Raptors
+2026-03-30,Boston Celtics,Atlanta Hawks
+2026-03-30,Chicago Bulls,San Antonio Spurs
+2026-03-30,Philadelphia 76ers,Miami Heat
+2026-03-30,Phoenix Suns,Memphis Grizzlies
+2026-03-30,Washington Wizards,Los Angeles Lakers
+2026-03-30,Minnesota Timberwolves,Dallas Mavericks
+2026-03-30,Cleveland Cavaliers,Utah Jazz
+2026-03-30,Detroit Pistons,Oklahoma City Thunder
+2026-03-31,Phoenix Suns,Orlando Magic
+2026-03-31,Toronto Raptors,Detroit Pistons
+2026-03-31,Charlotte Hornets,Brooklyn Nets
+2026-03-31,New York Knicks,Houston Rockets
+2026-03-31,Cleveland Cavaliers,Los Angeles Lakers
+2026-03-31,Portland Trail Blazers,Los Angeles Clippers
+2026-04-01,San Antonio Spurs,Golden State Warriors
+2026-04-01,Denver Nuggets,Utah Jazz
+2026-04-01,Sacramento Kings,Toronto Raptors
+2026-04-01,Dallas Mavericks,Memphis Grizzlies
+2026-04-01,Philadelphia 76ers,Washington Wizards
+2026-04-01,Indiana Pacers,Chicago Bulls
+2026-04-01,Atlanta Hawks,Orlando Magic
+2026-04-01,Boston Celtics,Miami Heat
+2026-04-01,Milwaukee Bucks,Houston Rockets
+2026-04-02,Phoenix Suns,Charlotte Hornets
+2026-04-02,Minnesota Timberwolves,Detroit Pistons
+2026-04-02,Los Angeles Lakers,Oklahoma City Thunder
+2026-04-02,Cleveland Cavaliers,Golden State Warriors
+2026-04-02,New Orleans Pelicans,Portland Trail Blazers
+2026-04-02,San Antonio Spurs,Los Angeles Clippers
+2026-04-03,Atlanta Hawks,Brooklyn Nets
+2026-04-03,Indiana Pacers,Charlotte Hornets
+2026-04-03,New Orleans Pelicans,Sacramento Kings
+2026-04-03,Minnesota Timberwolves,Philadelphia 76ers
+2026-04-03,Chicago Bulls,New York Knicks
+2026-04-03,Boston Celtics,Milwaukee Bucks
+2026-04-03,Orlando Magic,Dallas Mavericks
+2026-04-03,Utah Jazz,Houston Rockets
+2026-04-03,Toronto Raptors,Memphis Grizzlies
+2026-04-04,Detroit Pistons,Philadelphia 76ers
+2026-04-04,San Antonio Spurs,Denver Nuggets
+2026-04-04,Washington Wizards,Miami Heat
+2026-04-05,Washington Wizards,Brooklyn Nets
+2026-04-05,Indiana Pacers,Cleveland Cavaliers
+2026-04-05,Orlando Magic,New Orleans Pelicans
+2026-04-05,Toronto Raptors,Boston Celtics
+2026-04-05,Charlotte Hornets,Minnesota Timberwolves
+2026-04-05,Los Angeles Lakers,Dallas Mavericks
+2026-04-05,Utah Jazz,Oklahoma City Thunder
+2026-04-05,Memphis Grizzlies,Milwaukee Bucks
+2026-04-05,Los Angeles Clippers,Sacramento Kings
+2026-04-05,Houston Rockets,Golden State Warriors
+2026-04-05,Phoenix Suns,Chicago Bulls
+2026-04-06,New York Knicks,Atlanta Hawks
+2026-04-06,Philadelphia 76ers,San Antonio Spurs
+2026-04-06,Detroit Pistons,Orlando Magic
+2026-04-06,Cleveland Cavaliers,Memphis Grizzlies
+2026-04-06,Portland Trail Blazers,Denver Nuggets
+2026-04-07,Houston Rockets,Phoenix Suns
+2026-04-07,Chicago Bulls,Washington Wizards
+2026-04-07,Charlotte Hornets,Boston Celtics
+2026-04-07,Milwaukee Bucks,Brooklyn Nets
+2026-04-07,Miami Heat,Toronto Raptors
+2026-04-07,Oklahoma City Thunder,Los Angeles Lakers
+2026-04-07,Utah Jazz,New Orleans Pelicans
+2026-04-07,Sacramento Kings,Golden State Warriors
+2026-04-07,Dallas Mavericks,Los Angeles Clippers
+2026-04-07,Minnesota Timberwolves,Indiana Pacers
+2026-04-08,Atlanta Hawks,Cleveland Cavaliers
+2026-04-08,Portland Trail Blazers,San Antonio Spurs
+2026-04-08,Minnesota Timberwolves,Orlando Magic
+2026-04-08,Memphis Grizzlies,Denver Nuggets
+2026-04-08,Oklahoma City Thunder,Los Angeles Clippers
+2026-04-08,Dallas Mavericks,Phoenix Suns
+2026-04-08,Milwaukee Bucks,Detroit Pistons
+2026-04-09,Miami Heat,Toronto Raptors
+2026-04-09,Chicago Bulls,Washington Wizards
+2026-04-09,Indiana Pacers,Brooklyn Nets
+2026-04-09,Boston Celtics,New York Knicks
+2026-04-09,Philadelphia 76ers,Houston Rockets
+2026-04-09,Los Angeles Lakers,Golden State Warriors
+2026-04-10,Detroit Pistons,Charlotte Hornets
+2026-04-10,Cleveland Cavaliers,Atlanta Hawks
+2026-04-10,New Orleans Pelicans,Boston Celtics
+2026-04-10,Philadelphia 76ers,Indiana Pacers
+2026-04-10,Toronto Raptors,New York Knicks
+2026-04-10,Orlando Magic,Chicago Bulls
+2026-04-10,Phoenix Suns,Los Angeles Lakers
+2026-04-10,Minnesota Timberwolves,Houston Rockets
+2026-04-10,Oklahoma City Thunder,Denver Nuggets
+2026-04-10,Memphis Grizzlies,Utah Jazz
+2026-04-10,Los Angeles Clippers,Portland Trail Blazers
+2026-04-10,Golden State Warriors,Sacramento Kings
+2026-04-10,Miami Heat,Washington Wizards
+2026-04-10,Brooklyn Nets,Milwaukee Bucks
+2026-04-10,Dallas Mavericks,San Antonio Spurs
+2026-04-12,Brooklyn Nets,Toronto Raptors
+2026-04-12,Milwaukee Bucks,Philadelphia 76ers
+2026-04-12,Orlando Magic,Boston Celtics
+2026-04-12,Washington Wizards,Cleveland Cavaliers
+2026-04-12,Detroit Pistons,Indiana Pacers
+2026-04-12,Chicago Bulls,Dallas Mavericks
+2026-04-12,Memphis Grizzlies,Houston Rockets
+2026-04-12,Golden State Warriors,Los Angeles Clippers
+2026-04-12,Utah Jazz,Los Angeles Lakers
+2026-04-12,New Orleans Pelicans,Minnesota Timberwolves
+2026-04-12,Phoenix Suns,Oklahoma City Thunder
+2026-04-12,Sacramento Kings,Portland Trail Blazers
+2026-04-12,Denver Nuggets,San Antonio Spurs
+2026-04-12,Atlanta Hawks,Miami Heat
+2026-04-12,Charlotte Hornets,New York Knicks

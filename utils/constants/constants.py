@@ -3,7 +3,7 @@ TEAM_COLORS = {
     'ATL': ['#c8102e', '#ffcd00', '#FFFFFF'],  # Hawks: Red, Volt Green, Charcoal
     'BOS': ['#007A33', '#BA9653', '#000000'],  # Celtics: Green, Gold, Black
     'BRK': ['#000000', '#FFFFFF', '#707271'],  # Nets: Black, White, Gray
-    'CHA': ['#1D1160', '#00788C', '#A1A1A4'],  # Hornets: Purple, Teal, Gray
+    'CHO': ['#1D1160', '#00788C', '#A1A1A4'],  # Hornets: Purple, Teal, Gray
     'CHI': ['#CE1141', '#000000', '#FFFFFF'],  # Bulls: Red, Black, White
     'CLE': ['#860038', '#041e42', '#fdbb30'],  # Cavaliers: Wine, Gold, Navy
     'DAL': ['#00538C', '#002F5F', '#B8C4CA'],  # Mavericks: Blue, Navy, Silver

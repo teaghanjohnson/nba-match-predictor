@@ -1,0 +1,22 @@
+┌──────────────────────────────────────────────────────────────┐
+│  [Logo]  NBA MATCH PREDICTOR              Updated: Jan 22    │
+│          ML-Powered Game Predictions                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐     │
+│  │  MODEL   │  │  TOTAL   │  │   LIVE   │  │  GAMES   │     │
+│  │ ACCURACY │  │PREDICTED │  │ ACCURACY │  │  TODAY   │     │
+│  │  65.7%   │  │    48    │  │   42%    │  │    5     │     │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘     │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│  [Today] [This Week] [Model Performance] [All Predictions]   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  SIDEBAR:          │  MAIN CONTENT:                          │
+│  - Team filter     │  - Game cards (Today tab)               │
+│  - Date range      │  - Predictions table (Week tab)         │
+│  - Confidence      │  - Charts (Performance tab)             │
+│    slider          │  - Full data table (All tab)            │
+│                    │                                          │
+└──────────────────────────────────────────────────────────────┘
