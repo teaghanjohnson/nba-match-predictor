@@ -5,10 +5,11 @@ import numpy as np
 import altair as alt
 from utils.constants.constants import TEAM_COLORS, get_team_css
 
+
 col1, col2, col3 = st.columns([2, 5, 2])
 
 with col1:
-  st.image("images/nba-logo.png", use_container_width=True)
+  team_image = st.empty()  # placeholder for team image
 
 with col2:
   st.title("NBA MATCH PREDICTOR")
@@ -25,8 +26,13 @@ model, total, accuracy, games =  st.columns([3,3,3,3])
 prediction_history = pd.read_csv('data/prediction_history.csv')
 correct = len(prediction_history[prediction_history['result'] == 'correct'])
 incorrect = len(prediction_history[prediction_history['result'] == 'incorrect'])
+
 total_completed = correct + incorrect
 model_accuracy = correct / total_completed * 100 if total_completed > 0 else 0
+
+# get prediction history for specific team
+correct = len(prediction_history[prediction_history['result'] == 'correct'])
+incorrect = len(prediction_history[prediction_history['result'] == 'incorrect'])
 
 # load upcoming predictions
 predictions = pd.read_csv('data/predictions.csv')
@@ -47,6 +53,7 @@ with games:
 
 
 team = st.selectbox("Select Team", list(TEAM_COLORS.keys()))
+team_image.image(f"images/{team}.png", use_container_width=True)
 
 
 st.markdown(get_team_css(team), unsafe_allow_html=True)
@@ -63,6 +70,23 @@ else:
   st.write(team_predictions)
 
 st.divider()
+
+today, week, performance, all_guesses = st.columns([4,4,4,4])
+
+with today:
+   if st.button("Today"):
+     print('hello')
+def today_predictions():
+  return
+
+def week_predictions():
+  return
+
+def show_performance():
+  return
+
+def get_predictions():
+  return
 
 # MODEL PERFORMANCE CHARTS
 
