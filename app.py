@@ -59,7 +59,7 @@ team_image.image(f"images/{team}.png", use_container_width=True)
 st.markdown(get_team_css(team), unsafe_allow_html=True)
 
 # columns to display (hide abbreviations for cleaner view)
-display_cols = ['date', 'home', 'visitor', 'predicted_winner', 'confidence', 'result', 'actual_winner']
+display_cols = ['date', 'home', 'visitor', 'predicted_winner', 'confidence', 'result']
 
 # filter predictions by team if not NBA
 if team == 'NBA':
@@ -188,6 +188,17 @@ elif st.session_state.active_tab == 'performance':
   st.altair_chart(cumulative_chart, use_container_width=True)
 
 elif st.session_state.active_tab == 'all':
-  st.markdown('<div class="team-header"><h2>All Predictions</h2></div>', unsafe_allow_html=True)
-  st.dataframe(filtered_predictions[display_cols], use_container_width=True, hide_index=True)
+  st.markdown('<div class="team-header"><h2>Prediction History</h2></div>', unsafe_allow_html=True)
+  # Load prediction history (completed games with results)
+  all_history = pd.read_csv('data/prediction_history.csv')
+  # Filter by team if not NBA
+  if team == 'NBA':
+    filtered_history = all_history
+  else:
+    filtered_history = all_history[
+      (all_history['home_abbrev'] == team) |
+      (all_history['visitor_abbrev'] == team)
+    ]
+  filtered_history = filtered_history.sort_values('date', ascending=False)
+  st.dataframe(filtered_history[display_cols], use_container_width=True, hide_index=True)
 
