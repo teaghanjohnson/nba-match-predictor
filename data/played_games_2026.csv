@@ -1,83 +1,83 @@
 date,visitor,home,visitor_pts,home_pts,winner,box_score
 2025-10-21,Houston Rockets,Oklahoma City Thunder,124,125,Oklahoma City Thunder,/boxscores/202510210OKC.html
 2025-10-21,Golden State Warriors,Los Angeles Lakers,119,109,Golden State Warriors,/boxscores/202510210LAL.html
-2025-10-22,Washington Wizards,Milwaukee Bucks,120,133,Milwaukee Bucks,/boxscores/202510220MIL.html
-2025-10-22,Brooklyn Nets,Charlotte Hornets,117,136,Charlotte Hornets,/boxscores/202510220CHO.html
-2025-10-22,Cleveland Cavaliers,New York Knicks,111,119,New York Knicks,/boxscores/202510220NYK.html
-2025-10-22,Philadelphia 76ers,Boston Celtics,117,116,Philadelphia 76ers,/boxscores/202510220BOS.html
-2025-10-22,Toronto Raptors,Atlanta Hawks,138,118,Toronto Raptors,/boxscores/202510220ATL.html
+2025-10-22,New Orleans Pelicans,Memphis Grizzlies,122,128,Memphis Grizzlies,/boxscores/202510220MEM.html
 2025-10-22,Miami Heat,Orlando Magic,121,125,Orlando Magic,/boxscores/202510220ORL.html
+2025-10-22,Philadelphia 76ers,Boston Celtics,117,116,Philadelphia 76ers,/boxscores/202510220BOS.html
+2025-10-22,Detroit Pistons,Chicago Bulls,111,115,Chicago Bulls,/boxscores/202510220CHI.html
+2025-10-22,Minnesota Timberwolves,Portland Trail Blazers,118,114,Minnesota Timberwolves,/boxscores/202510220POR.html
+2025-10-22,Toronto Raptors,Atlanta Hawks,138,118,Toronto Raptors,/boxscores/202510220ATL.html
 2025-10-22,Los Angeles Clippers,Utah Jazz,108,129,Utah Jazz,/boxscores/202510220UTA.html
 2025-10-22,San Antonio Spurs,Dallas Mavericks,125,92,San Antonio Spurs,/boxscores/202510220DAL.html
-2025-10-22,Minnesota Timberwolves,Portland Trail Blazers,118,114,Minnesota Timberwolves,/boxscores/202510220POR.html
 2025-10-22,Sacramento Kings,Phoenix Suns,116,120,Phoenix Suns,/boxscores/202510220PHO.html
-2025-10-22,New Orleans Pelicans,Memphis Grizzlies,122,128,Memphis Grizzlies,/boxscores/202510220MEM.html
-2025-10-22,Detroit Pistons,Chicago Bulls,111,115,Chicago Bulls,/boxscores/202510220CHI.html
+2025-10-22,Brooklyn Nets,Charlotte Hornets,117,136,Charlotte Hornets,/boxscores/202510220CHO.html
+2025-10-22,Cleveland Cavaliers,New York Knicks,111,119,New York Knicks,/boxscores/202510220NYK.html
+2025-10-22,Washington Wizards,Milwaukee Bucks,120,133,Milwaukee Bucks,/boxscores/202510220MIL.html
 2025-10-23,Oklahoma City Thunder,Indiana Pacers,141,135,Oklahoma City Thunder,/boxscores/202510230IND.html
 2025-10-23,Denver Nuggets,Golden State Warriors,131,137,Golden State Warriors,/boxscores/202510230GSW.html
 2025-10-24,Cleveland Cavaliers,Brooklyn Nets,131,124,Cleveland Cavaliers,/boxscores/202510240BRK.html
 2025-10-24,Miami Heat,Memphis Grizzlies,146,114,Miami Heat,/boxscores/202510240MEM.html
 2025-10-24,Milwaukee Bucks,Toronto Raptors,122,116,Milwaukee Bucks,/boxscores/202510240TOR.html
 2025-10-24,Atlanta Hawks,Orlando Magic,111,107,Atlanta Hawks,/boxscores/202510240ORL.html
+2025-10-24,San Antonio Spurs,New Orleans Pelicans,120,116,San Antonio Spurs,/boxscores/202510240NOP.html
 2025-10-24,Detroit Pistons,Houston Rockets,115,111,Detroit Pistons,/boxscores/202510240HOU.html
-2025-10-24,Boston Celtics,New York Knicks,95,105,New York Knicks,/boxscores/202510240NYK.html
-2025-10-24,Golden State Warriors,Portland Trail Blazers,119,139,Portland Trail Blazers,/boxscores/202510240POR.html
 2025-10-24,Washington Wizards,Dallas Mavericks,117,107,Washington Wizards,/boxscores/202510240DAL.html
-2025-10-24,Minnesota Timberwolves,Los Angeles Lakers,110,128,Los Angeles Lakers,/boxscores/202510240LAL.html
+2025-10-24,Golden State Warriors,Portland Trail Blazers,119,139,Portland Trail Blazers,/boxscores/202510240POR.html
 2025-10-24,Utah Jazz,Sacramento Kings,104,105,Sacramento Kings,/boxscores/202510240SAC.html
 2025-10-24,Phoenix Suns,Los Angeles Clippers,102,129,Los Angeles Clippers,/boxscores/202510240LAC.html
-2025-10-24,San Antonio Spurs,New Orleans Pelicans,120,116,San Antonio Spurs,/boxscores/202510240NOP.html
-2025-10-25,Phoenix Suns,Denver Nuggets,111,133,Denver Nuggets,/boxscores/202510250DEN.html
-2025-10-25,Indiana Pacers,Memphis Grizzlies,103,128,Memphis Grizzlies,/boxscores/202510250MEM.html
-2025-10-25,Oklahoma City Thunder,Atlanta Hawks,117,100,Oklahoma City Thunder,/boxscores/202510250ATL.html
+2025-10-24,Minnesota Timberwolves,Los Angeles Lakers,110,128,Los Angeles Lakers,/boxscores/202510240LAL.html
+2025-10-24,Boston Celtics,New York Knicks,95,105,New York Knicks,/boxscores/202510240NYK.html
 2025-10-25,Chicago Bulls,Orlando Magic,110,98,Chicago Bulls,/boxscores/202510250ORL.html
+2025-10-25,Oklahoma City Thunder,Atlanta Hawks,117,100,Oklahoma City Thunder,/boxscores/202510250ATL.html
 2025-10-25,Charlotte Hornets,Philadelphia 76ers,121,125,Philadelphia 76ers,/boxscores/202510250PHI.html
-2025-10-26,Los Angeles Lakers,Sacramento Kings,127,120,Los Angeles Lakers,/boxscores/202510260SAC.html
-2025-10-26,Portland Trail Blazers,Los Angeles Clippers,107,114,Los Angeles Clippers,/boxscores/202510260LAC.html
-2025-10-26,Toronto Raptors,Dallas Mavericks,129,139,Dallas Mavericks,/boxscores/202510260DAL.html
-2025-10-26,Indiana Pacers,Minnesota Timberwolves,110,114,Minnesota Timberwolves,/boxscores/202510260MIN.html
+2025-10-25,Indiana Pacers,Memphis Grizzlies,103,128,Memphis Grizzlies,/boxscores/202510250MEM.html
+2025-10-25,Phoenix Suns,Denver Nuggets,111,133,Denver Nuggets,/boxscores/202510250DEN.html
 2025-10-26,Boston Celtics,Detroit Pistons,113,119,Detroit Pistons,/boxscores/202510260DET.html
-2025-10-26,New York Knicks,Miami Heat,107,115,Miami Heat,/boxscores/202510260MIA.html
-2025-10-26,Charlotte Hornets,Washington Wizards,139,113,Charlotte Hornets,/boxscores/202510260WAS.html
+2025-10-26,Los Angeles Lakers,Sacramento Kings,127,120,Los Angeles Lakers,/boxscores/202510260SAC.html
 2025-10-26,Brooklyn Nets,San Antonio Spurs,107,118,San Antonio Spurs,/boxscores/202510260SAS.html
+2025-10-26,New York Knicks,Miami Heat,107,115,Miami Heat,/boxscores/202510260MIA.html
+2025-10-26,Toronto Raptors,Dallas Mavericks,129,139,Dallas Mavericks,/boxscores/202510260DAL.html
+2025-10-26,Portland Trail Blazers,Los Angeles Clippers,107,114,Los Angeles Clippers,/boxscores/202510260LAC.html
 2025-10-26,Milwaukee Bucks,Cleveland Cavaliers,113,118,Cleveland Cavaliers,/boxscores/202510260CLE.html
+2025-10-26,Indiana Pacers,Minnesota Timberwolves,110,114,Minnesota Timberwolves,/boxscores/202510260MIN.html
+2025-10-26,Charlotte Hornets,Washington Wizards,139,113,Charlotte Hornets,/boxscores/202510260WAS.html
 2025-10-27,Brooklyn Nets,Houston Rockets,109,137,Houston Rockets,/boxscores/202510270HOU.html
-2025-10-27,Cleveland Cavaliers,Detroit Pistons,116,95,Cleveland Cavaliers,/boxscores/202510270DET.html
-2025-10-27,Oklahoma City Thunder,Dallas Mavericks,101,94,Oklahoma City Thunder,/boxscores/202510270DAL.html
+2025-10-27,Toronto Raptors,San Antonio Spurs,103,121,San Antonio Spurs,/boxscores/202510270SAS.html
+2025-10-27,Orlando Magic,Philadelphia 76ers,124,136,Philadelphia 76ers,/boxscores/202510270PHI.html
 2025-10-27,Atlanta Hawks,Chicago Bulls,123,128,Chicago Bulls,/boxscores/202510270CHI.html
 2025-10-27,Boston Celtics,New Orleans Pelicans,122,90,Boston Celtics,/boxscores/202510270NOP.html
 2025-10-27,Denver Nuggets,Minnesota Timberwolves,127,114,Denver Nuggets,/boxscores/202510270MIN.html
-2025-10-27,Orlando Magic,Philadelphia 76ers,124,136,Philadelphia 76ers,/boxscores/202510270PHI.html
+2025-10-27,Oklahoma City Thunder,Dallas Mavericks,101,94,Oklahoma City Thunder,/boxscores/202510270DAL.html
 2025-10-27,Phoenix Suns,Utah Jazz,134,138,Utah Jazz,/boxscores/202510270UTA.html
 2025-10-27,Memphis Grizzlies,Golden State Warriors,118,131,Golden State Warriors,/boxscores/202510270GSW.html
+2025-10-27,Cleveland Cavaliers,Detroit Pistons,116,95,Cleveland Cavaliers,/boxscores/202510270DET.html
 2025-10-27,Portland Trail Blazers,Los Angeles Lakers,122,108,Portland Trail Blazers,/boxscores/202510270LAL.html
-2025-10-27,Toronto Raptors,San Antonio Spurs,103,121,San Antonio Spurs,/boxscores/202510270SAS.html
-2025-10-28,Sacramento Kings,Oklahoma City Thunder,101,107,Oklahoma City Thunder,/boxscores/202510280OKC.html
-2025-10-28,Los Angeles Clippers,Golden State Warriors,79,98,Golden State Warriors,/boxscores/202510280GSW.html
+2025-10-28,Philadelphia 76ers,Washington Wizards,139,134,Philadelphia 76ers,/boxscores/202510280WAS.html
 2025-10-28,Charlotte Hornets,Miami Heat,117,144,Miami Heat,/boxscores/202510280MIA.html
 2025-10-28,New York Knicks,Milwaukee Bucks,111,121,Milwaukee Bucks,/boxscores/202510280MIL.html
-2025-10-28,Philadelphia 76ers,Washington Wizards,139,134,Philadelphia 76ers,/boxscores/202510280WAS.html
-2025-10-29,Atlanta Hawks,Brooklyn Nets,117,112,Atlanta Hawks,/boxscores/202510290BRK.html
-2025-10-29,Indiana Pacers,Dallas Mavericks,105,107,Dallas Mavericks,/boxscores/202510290DAL.html
-2025-10-29,Houston Rockets,Toronto Raptors,139,121,Houston Rockets,/boxscores/202510290TOR.html
-2025-10-29,Cleveland Cavaliers,Boston Celtics,105,125,Boston Celtics,/boxscores/202510290BOS.html
+2025-10-28,Sacramento Kings,Oklahoma City Thunder,101,107,Oklahoma City Thunder,/boxscores/202510280OKC.html
+2025-10-28,Los Angeles Clippers,Golden State Warriors,79,98,Golden State Warriors,/boxscores/202510280GSW.html
 2025-10-29,Orlando Magic,Detroit Pistons,116,135,Detroit Pistons,/boxscores/202510290DET.html
-2025-10-29,Memphis Grizzlies,Phoenix Suns,114,113,Memphis Grizzlies,/boxscores/202510290PHO.html
+2025-10-29,Cleveland Cavaliers,Boston Celtics,105,125,Boston Celtics,/boxscores/202510290BOS.html
+2025-10-29,Houston Rockets,Toronto Raptors,139,121,Houston Rockets,/boxscores/202510290TOR.html
+2025-10-29,Indiana Pacers,Dallas Mavericks,105,107,Dallas Mavericks,/boxscores/202510290DAL.html
+2025-10-29,Sacramento Kings,Chicago Bulls,113,126,Chicago Bulls,/boxscores/202510290CHI.html
 2025-10-29,New Orleans Pelicans,Denver Nuggets,88,122,Denver Nuggets,/boxscores/202510290DEN.html
 2025-10-29,Portland Trail Blazers,Utah Jazz,136,134,Portland Trail Blazers,/boxscores/202510290UTA.html
 2025-10-29,Los Angeles Lakers,Minnesota Timberwolves,116,115,Los Angeles Lakers,/boxscores/202510290MIN.html
-2025-10-29,Sacramento Kings,Chicago Bulls,113,126,Chicago Bulls,/boxscores/202510290CHI.html
+2025-10-29,Memphis Grizzlies,Phoenix Suns,114,113,Memphis Grizzlies,/boxscores/202510290PHO.html
+2025-10-29,Atlanta Hawks,Brooklyn Nets,117,112,Atlanta Hawks,/boxscores/202510290BRK.html
 2025-10-30,Miami Heat,San Antonio Spurs,101,107,San Antonio Spurs,/boxscores/202510300SAS.html
 2025-10-30,Washington Wizards,Oklahoma City Thunder,108,127,Oklahoma City Thunder,/boxscores/202510300OKC.html
 2025-10-30,Orlando Magic,Charlotte Hornets,123,107,Orlando Magic,/boxscores/202510300CHO.html
 2025-10-30,Golden State Warriors,Milwaukee Bucks,110,120,Milwaukee Bucks,/boxscores/202510300MIL.html
+2025-10-31,Atlanta Hawks,Indiana Pacers,128,108,Atlanta Hawks,/boxscores/202510310IND.html
 2025-10-31,New Orleans Pelicans,Los Angeles Clippers,124,126,Los Angeles Clippers,/boxscores/202510310LAC.html
 2025-10-31,Boston Celtics,Philadelphia 76ers,109,108,Boston Celtics,/boxscores/202510310PHI.html
 2025-10-31,Toronto Raptors,Cleveland Cavaliers,112,101,Toronto Raptors,/boxscores/202510310CLE.html
 2025-10-31,New York Knicks,Chicago Bulls,125,135,Chicago Bulls,/boxscores/202510310CHI.html
 2025-10-31,Los Angeles Lakers,Memphis Grizzlies,117,112,Los Angeles Lakers,/boxscores/202510310MEM.html
 2025-10-31,Utah Jazz,Phoenix Suns,96,118,Phoenix Suns,/boxscores/202510310PHO.html
-2025-10-31,Atlanta Hawks,Indiana Pacers,128,108,Atlanta Hawks,/boxscores/202510310IND.html
 2025-10-31,Denver Nuggets,Portland Trail Blazers,107,109,Portland Trail Blazers,/boxscores/202510310POR.html
 2025-11-01,Sacramento Kings,Milwaukee Bucks,135,133,Sacramento Kings,/boxscores/202511010MIL.html
 2025-11-01,Dallas Mavericks,Detroit Pistons,110,122,Detroit Pistons,/boxscores/202511010DET.html
@@ -86,18 +86,18 @@ date,visitor,home,visitor_pts,home_pts,winner,box_score
 2025-11-01,Houston Rockets,Boston Celtics,128,101,Houston Rockets,/boxscores/202511010BOS.html
 2025-11-01,Golden State Warriors,Indiana Pacers,109,114,Indiana Pacers,/boxscores/202511010IND.html
 2025-11-02,Philadelphia 76ers,Brooklyn Nets,129,105,Philadelphia 76ers,/boxscores/202511020BRK.html
-2025-11-02,Miami Heat,Los Angeles Lakers,120,130,Los Angeles Lakers,/boxscores/202511020LAL.html
 2025-11-02,New Orleans Pelicans,Oklahoma City Thunder,106,137,Oklahoma City Thunder,/boxscores/202511020OKC.html
+2025-11-02,Miami Heat,Los Angeles Lakers,120,130,Los Angeles Lakers,/boxscores/202511020LAL.html
 2025-11-02,San Antonio Spurs,Phoenix Suns,118,130,Phoenix Suns,/boxscores/202511020PHO.html
-2025-11-02,Atlanta Hawks,Cleveland Cavaliers,109,117,Cleveland Cavaliers,/boxscores/202511020CLE.html
-2025-11-02,Memphis Grizzlies,Toronto Raptors,104,117,Toronto Raptors,/boxscores/202511020TOR.html
 2025-11-02,Chicago Bulls,New York Knicks,116,128,New York Knicks,/boxscores/202511020NYK.html
+2025-11-02,Memphis Grizzlies,Toronto Raptors,104,117,Toronto Raptors,/boxscores/202511020TOR.html
+2025-11-02,Atlanta Hawks,Cleveland Cavaliers,109,117,Cleveland Cavaliers,/boxscores/202511020CLE.html
 2025-11-02,Utah Jazz,Charlotte Hornets,103,126,Charlotte Hornets,/boxscores/202511020CHO.html
-2025-11-03,Milwaukee Bucks,Indiana Pacers,117,115,Milwaukee Bucks,/boxscores/202511030IND.html
+2025-11-03,Detroit Pistons,Memphis Grizzlies,114,106,Detroit Pistons,/boxscores/202511030MEM.html
 2025-11-03,Minnesota Timberwolves,Brooklyn Nets,125,109,Minnesota Timberwolves,/boxscores/202511030BRK.html
 2025-11-03,Utah Jazz,Boston Celtics,105,103,Utah Jazz,/boxscores/202511030BOS.html
 2025-11-03,Washington Wizards,New York Knicks,102,119,New York Knicks,/boxscores/202511030NYK.html
-2025-11-03,Detroit Pistons,Memphis Grizzlies,114,106,Detroit Pistons,/boxscores/202511030MEM.html
+2025-11-03,Milwaukee Bucks,Indiana Pacers,117,115,Milwaukee Bucks,/boxscores/202511030IND.html
 2025-11-03,Miami Heat,Los Angeles Clippers,120,119,Miami Heat,/boxscores/202511030LAC.html
 2025-11-03,Sacramento Kings,Denver Nuggets,124,130,Denver Nuggets,/boxscores/202511030DEN.html
 2025-11-03,Los Angeles Lakers,Portland Trail Blazers,123,115,Los Angeles Lakers,/boxscores/202511030POR.html
@@ -113,32 +113,32 @@ date,visitor,home,visitor_pts,home_pts,winner,box_score
 2025-11-05,Utah Jazz,Detroit Pistons,103,114,Detroit Pistons,/boxscores/202511050DET.html
 2025-11-05,Oklahoma City Thunder,Portland Trail Blazers,119,121,Portland Trail Blazers,/boxscores/202511050POR.html
 2025-11-05,Miami Heat,Denver Nuggets,112,122,Denver Nuggets,/boxscores/202511050DEN.html
-2025-11-05,Houston Rockets,Memphis Grizzlies,124,109,Houston Rockets,/boxscores/202511050MEM.html
 2025-11-05,Minnesota Timberwolves,New York Knicks,114,137,New York Knicks,/boxscores/202511050NYK.html
+2025-11-05,Houston Rockets,Memphis Grizzlies,124,109,Houston Rockets,/boxscores/202511050MEM.html
 2025-11-05,Washington Wizards,Boston Celtics,107,136,Boston Celtics,/boxscores/202511050BOS.html
 2025-11-05,Brooklyn Nets,Indiana Pacers,112,103,Brooklyn Nets,/boxscores/202511050IND.html
 2025-11-05,Philadelphia 76ers,Cleveland Cavaliers,121,132,Cleveland Cavaliers,/boxscores/202511050CLE.html
 2025-11-05,New Orleans Pelicans,Dallas Mavericks,101,99,New Orleans Pelicans,/boxscores/202511050DAL.html
 2025-11-06,Los Angeles Clippers,Phoenix Suns,102,115,Phoenix Suns,/boxscores/202511060PHO.html
-2025-11-07,Chicago Bulls,Milwaukee Bucks,110,126,Milwaukee Bucks,/boxscores/202511070MIL.html
+2025-11-07,Toronto Raptors,Atlanta Hawks,109,97,Toronto Raptors,/boxscores/202511070ATL.html
 2025-11-07,Charlotte Hornets,Miami Heat,108,126,Miami Heat,/boxscores/202511070MIA.html
 2025-11-07,Detroit Pistons,Brooklyn Nets,125,107,Detroit Pistons,/boxscores/202511070BRK.html
 2025-11-07,Houston Rockets,San Antonio Spurs,110,121,San Antonio Spurs,/boxscores/202511070SAS.html
 2025-11-07,Dallas Mavericks,Memphis Grizzlies,104,118,Memphis Grizzlies,/boxscores/202511070MEM.html
-2025-11-07,Golden State Warriors,Denver Nuggets,104,129,Denver Nuggets,/boxscores/202511070DEN.html
+2025-11-07,Chicago Bulls,Milwaukee Bucks,110,126,Milwaukee Bucks,/boxscores/202511070MIL.html
 2025-11-07,Utah Jazz,Minnesota Timberwolves,97,137,Minnesota Timberwolves,/boxscores/202511070MIN.html
-2025-11-07,Toronto Raptors,Atlanta Hawks,109,97,Toronto Raptors,/boxscores/202511070ATL.html
+2025-11-07,Golden State Warriors,Denver Nuggets,104,129,Denver Nuggets,/boxscores/202511070DEN.html
 2025-11-07,Oklahoma City Thunder,Sacramento Kings,132,101,Oklahoma City Thunder,/boxscores/202511070SAC.html
 2025-11-07,Cleveland Cavaliers,Washington Wizards,148,115,Cleveland Cavaliers,/boxscores/202511070WAS.html
 2025-11-07,Boston Celtics,Orlando Magic,110,123,Orlando Magic,/boxscores/202511070ORL.html
-2025-11-08,Portland Trail Blazers,Miami Heat,131,136,Miami Heat,/boxscores/202511080MIA.html
 2025-11-08,Toronto Raptors,Philadelphia 76ers,120,130,Philadelphia 76ers,/boxscores/202511080PHI.html
 2025-11-08,Dallas Mavericks,Washington Wizards,111,105,Dallas Mavericks,/boxscores/202511080WAS.html
-2025-11-08,Los Angeles Lakers,Atlanta Hawks,102,122,Atlanta Hawks,/boxscores/202511080ATL.html
-2025-11-08,Indiana Pacers,Denver Nuggets,100,117,Denver Nuggets,/boxscores/202511080DEN.html
-2025-11-08,Phoenix Suns,Los Angeles Clippers,114,103,Phoenix Suns,/boxscores/202511080LAC.html
-2025-11-08,New Orleans Pelicans,San Antonio Spurs,119,126,San Antonio Spurs,/boxscores/202511080SAS.html
+2025-11-08,Portland Trail Blazers,Miami Heat,131,136,Miami Heat,/boxscores/202511080MIA.html
 2025-11-08,Chicago Bulls,Cleveland Cavaliers,122,128,Cleveland Cavaliers,/boxscores/202511080CLE.html
+2025-11-08,New Orleans Pelicans,San Antonio Spurs,119,126,San Antonio Spurs,/boxscores/202511080SAS.html
+2025-11-08,Phoenix Suns,Los Angeles Clippers,114,103,Phoenix Suns,/boxscores/202511080LAC.html
+2025-11-08,Indiana Pacers,Denver Nuggets,100,117,Denver Nuggets,/boxscores/202511080DEN.html
+2025-11-08,Los Angeles Lakers,Atlanta Hawks,102,122,Atlanta Hawks,/boxscores/202511080ATL.html
 2025-11-09,Minnesota Timberwolves,Sacramento Kings,144,117,Minnesota Timberwolves,/boxscores/202511090SAC.html
 2025-11-09,Indiana Pacers,Golden State Warriors,83,114,Golden State Warriors,/boxscores/202511090GSW.html
 2025-11-09,Boston Celtics,Orlando Magic,111,107,Boston Celtics,/boxscores/202511090ORL.html
@@ -146,554 +146,596 @@ date,visitor,home,visitor_pts,home_pts,winner,box_score
 2025-11-09,Oklahoma City Thunder,Memphis Grizzlies,114,100,Oklahoma City Thunder,/boxscores/202511090MEM.html
 2025-11-09,Houston Rockets,Milwaukee Bucks,122,115,Houston Rockets,/boxscores/202511090MIL.html
 2025-11-09,Detroit Pistons,Philadelphia 76ers,111,108,Detroit Pistons,/boxscores/202511090PHI.html
+2025-11-10,Los Angeles Lakers,Charlotte Hornets,121,111,Los Angeles Lakers,/boxscores/202511100CHO.html
 2025-11-10,Atlanta Hawks,Los Angeles Clippers,105,102,Atlanta Hawks,/boxscores/202511100LAC.html
 2025-11-10,Minnesota Timberwolves,Utah Jazz,120,113,Minnesota Timberwolves,/boxscores/202511100UTA.html
 2025-11-10,New Orleans Pelicans,Phoenix Suns,98,121,Phoenix Suns,/boxscores/202511100PHO.html
-2025-11-10,Milwaukee Bucks,Dallas Mavericks,116,114,Milwaukee Bucks,/boxscores/202511100DAL.html
-2025-11-10,Los Angeles Lakers,Charlotte Hornets,121,111,Los Angeles Lakers,/boxscores/202511100CHO.html
-2025-11-10,Cleveland Cavaliers,Miami Heat,138,140,Miami Heat,/boxscores/202511100MIA.html
-2025-11-10,Portland Trail Blazers,Orlando Magic,112,115,Orlando Magic,/boxscores/202511100ORL.html
 2025-11-10,Washington Wizards,Detroit Pistons,135,137,Detroit Pistons,/boxscores/202511100DET.html
 2025-11-10,San Antonio Spurs,Chicago Bulls,121,117,San Antonio Spurs,/boxscores/202511100CHI.html
-2025-11-11,Denver Nuggets,Sacramento Kings,122,108,Denver Nuggets,/boxscores/202511110SAC.html
-2025-11-11,Indiana Pacers,Utah Jazz,128,152,Utah Jazz,/boxscores/202511110UTA.html
-2025-11-11,Toronto Raptors,Brooklyn Nets,119,109,Toronto Raptors,/boxscores/202511110BRK.html
-2025-11-11,Boston Celtics,Philadelphia 76ers,100,102,Philadelphia 76ers,/boxscores/202511110PHI.html
-2025-11-11,Memphis Grizzlies,New York Knicks,120,133,New York Knicks,/boxscores/202511110NYK.html
+2025-11-10,Cleveland Cavaliers,Miami Heat,138,140,Miami Heat,/boxscores/202511100MIA.html
+2025-11-10,Portland Trail Blazers,Orlando Magic,112,115,Orlando Magic,/boxscores/202511100ORL.html
+2025-11-10,Milwaukee Bucks,Dallas Mavericks,116,114,Milwaukee Bucks,/boxscores/202511100DAL.html
 2025-11-11,Golden State Warriors,Oklahoma City Thunder,102,126,Oklahoma City Thunder,/boxscores/202511110OKC.html
-2025-11-12,Phoenix Suns,Dallas Mavericks,123,114,Phoenix Suns,/boxscores/202511120DAL.html
-2025-11-12,Chicago Bulls,Detroit Pistons,113,124,Detroit Pistons,/boxscores/202511120DET.html
-2025-11-12,Portland Trail Blazers,New Orleans Pelicans,125,117,Portland Trail Blazers,/boxscores/202511120NOP.html
-2025-11-12,Golden State Warriors,San Antonio Spurs,125,120,Golden State Warriors,/boxscores/202511120SAS.html
-2025-11-12,Milwaukee Bucks,Charlotte Hornets,100,111,Charlotte Hornets,/boxscores/202511120CHO.html
-2025-11-12,Memphis Grizzlies,Boston Celtics,95,131,Boston Celtics,/boxscores/202511120BOS.html
-2025-11-12,Atlanta Hawks,Sacramento Kings,133,100,Atlanta Hawks,/boxscores/202511120SAC.html
+2025-11-11,Memphis Grizzlies,New York Knicks,120,133,New York Knicks,/boxscores/202511110NYK.html
+2025-11-11,Boston Celtics,Philadelphia 76ers,100,102,Philadelphia 76ers,/boxscores/202511110PHI.html
+2025-11-11,Indiana Pacers,Utah Jazz,128,152,Utah Jazz,/boxscores/202511110UTA.html
+2025-11-11,Denver Nuggets,Sacramento Kings,122,108,Denver Nuggets,/boxscores/202511110SAC.html
+2025-11-11,Toronto Raptors,Brooklyn Nets,119,109,Toronto Raptors,/boxscores/202511110BRK.html
 2025-11-12,Denver Nuggets,Los Angeles Clippers,130,116,Denver Nuggets,/boxscores/202511120LAC.html
-2025-11-12,Washington Wizards,Houston Rockets,112,135,Houston Rockets,/boxscores/202511120HOU.html
-2025-11-12,Cleveland Cavaliers,Miami Heat,130,116,Cleveland Cavaliers,/boxscores/202511120MIA.html
-2025-11-12,Orlando Magic,New York Knicks,124,107,Orlando Magic,/boxscores/202511120NYK.html
+2025-11-12,Atlanta Hawks,Sacramento Kings,133,100,Atlanta Hawks,/boxscores/202511120SAC.html
 2025-11-12,Los Angeles Lakers,Oklahoma City Thunder,92,121,Oklahoma City Thunder,/boxscores/202511120OKC.html
-2025-11-13,Atlanta Hawks,Utah Jazz,132,122,Atlanta Hawks,/boxscores/202511130UTA.html
+2025-11-12,Golden State Warriors,San Antonio Spurs,125,120,Golden State Warriors,/boxscores/202511120SAS.html
+2025-11-12,Portland Trail Blazers,New Orleans Pelicans,125,117,Portland Trail Blazers,/boxscores/202511120NOP.html
+2025-11-12,Washington Wizards,Houston Rockets,112,135,Houston Rockets,/boxscores/202511120HOU.html
+2025-11-12,Memphis Grizzlies,Boston Celtics,95,131,Boston Celtics,/boxscores/202511120BOS.html
+2025-11-12,Orlando Magic,New York Knicks,124,107,Orlando Magic,/boxscores/202511120NYK.html
+2025-11-12,Chicago Bulls,Detroit Pistons,113,124,Detroit Pistons,/boxscores/202511120DET.html
+2025-11-12,Milwaukee Bucks,Charlotte Hornets,100,111,Charlotte Hornets,/boxscores/202511120CHO.html
+2025-11-12,Phoenix Suns,Dallas Mavericks,123,114,Phoenix Suns,/boxscores/202511120DAL.html
+2025-11-12,Cleveland Cavaliers,Miami Heat,130,116,Cleveland Cavaliers,/boxscores/202511120MIA.html
 2025-11-13,Toronto Raptors,Cleveland Cavaliers,126,113,Toronto Raptors,/boxscores/202511130CLE.html
+2025-11-13,Atlanta Hawks,Utah Jazz,132,122,Atlanta Hawks,/boxscores/202511130UTA.html
 2025-11-13,Indiana Pacers,Phoenix Suns,98,133,Phoenix Suns,/boxscores/202511130PHO.html
-2025-11-14,Sacramento Kings,Minnesota Timberwolves,110,124,Minnesota Timberwolves,/boxscores/202511140MIN.html
 2025-11-14,Miami Heat,New York Knicks,132,140,New York Knicks,/boxscores/202511140NYK.html
 2025-11-14,Philadelphia 76ers,Detroit Pistons,105,114,Detroit Pistons,/boxscores/202511140DET.html
 2025-11-14,Portland Trail Blazers,Houston Rockets,116,140,Houston Rockets,/boxscores/202511140HOU.html
-2025-11-14,Brooklyn Nets,Orlando Magic,98,105,Orlando Magic,/boxscores/202511140ORL.html
-2025-11-14,Los Angeles Lakers,New Orleans Pelicans,118,104,Los Angeles Lakers,/boxscores/202511140NOP.html
-2025-11-14,Los Angeles Clippers,Dallas Mavericks,133,127,Los Angeles Clippers,/boxscores/202511140DAL.html
-2025-11-14,Golden State Warriors,San Antonio Spurs,109,108,Golden State Warriors,/boxscores/202511140SAS.html
 2025-11-14,Charlotte Hornets,Milwaukee Bucks,134,147,Milwaukee Bucks,/boxscores/202511140MIL.html
+2025-11-14,Brooklyn Nets,Orlando Magic,98,105,Orlando Magic,/boxscores/202511140ORL.html
+2025-11-14,Golden State Warriors,San Antonio Spurs,109,108,Golden State Warriors,/boxscores/202511140SAS.html
+2025-11-14,Sacramento Kings,Minnesota Timberwolves,110,124,Minnesota Timberwolves,/boxscores/202511140MIN.html
+2025-11-14,Los Angeles Clippers,Dallas Mavericks,133,127,Los Angeles Clippers,/boxscores/202511140DAL.html
+2025-11-14,Los Angeles Lakers,New Orleans Pelicans,118,104,Los Angeles Lakers,/boxscores/202511140NOP.html
 2025-11-15,Denver Nuggets,Minnesota Timberwolves,123,112,Denver Nuggets,/boxscores/202511150MIN.html
-2025-11-15,Oklahoma City Thunder,Charlotte Hornets,109,96,Oklahoma City Thunder,/boxscores/202511150CHO.html
+2025-11-15,Los Angeles Lakers,Milwaukee Bucks,119,95,Los Angeles Lakers,/boxscores/202511150MIL.html
 2025-11-15,Toronto Raptors,Indiana Pacers,129,111,Toronto Raptors,/boxscores/202511150IND.html
 2025-11-15,Memphis Grizzlies,Cleveland Cavaliers,100,108,Cleveland Cavaliers,/boxscores/202511150CLE.html
-2025-11-15,Los Angeles Lakers,Milwaukee Bucks,119,95,Los Angeles Lakers,/boxscores/202511150MIL.html
+2025-11-15,Oklahoma City Thunder,Charlotte Hornets,109,96,Oklahoma City Thunder,/boxscores/202511150CHO.html
 2025-11-16,Chicago Bulls,Utah Jazz,147,150,Utah Jazz,/boxscores/202511160UTA.html
-2025-11-16,Sacramento Kings,San Antonio Spurs,110,123,San Antonio Spurs,/boxscores/202511160SAS.html
-2025-11-16,Portland Trail Blazers,Dallas Mavericks,133,138,Dallas Mavericks,/boxscores/202511160DAL.html
 2025-11-16,Atlanta Hawks,Phoenix Suns,124,122,Atlanta Hawks,/boxscores/202511160PHO.html
-2025-11-16,Orlando Magic,Houston Rockets,113,117,Houston Rockets,/boxscores/202511160HOU.html
-2025-11-16,Brooklyn Nets,Washington Wizards,129,106,Brooklyn Nets,/boxscores/202511160WAS.html
-2025-11-16,Los Angeles Clippers,Boston Celtics,118,121,Boston Celtics,/boxscores/202511160BOS.html
+2025-11-16,Portland Trail Blazers,Dallas Mavericks,133,138,Dallas Mavericks,/boxscores/202511160DAL.html
 2025-11-16,Golden State Warriors,New Orleans Pelicans,124,106,Golden State Warriors,/boxscores/202511160NOP.html
+2025-11-16,Los Angeles Clippers,Boston Celtics,118,121,Boston Celtics,/boxscores/202511160BOS.html
+2025-11-16,Brooklyn Nets,Washington Wizards,129,106,Brooklyn Nets,/boxscores/202511160WAS.html
+2025-11-16,Sacramento Kings,San Antonio Spurs,110,123,San Antonio Spurs,/boxscores/202511160SAS.html
+2025-11-16,Orlando Magic,Houston Rockets,113,117,Houston Rockets,/boxscores/202511160HOU.html
+2025-11-17,Milwaukee Bucks,Cleveland Cavaliers,106,118,Cleveland Cavaliers,/boxscores/202511170CLE.html
+2025-11-17,Los Angeles Clippers,Philadelphia 76ers,108,110,Philadelphia 76ers,/boxscores/202511170PHI.html
+2025-11-17,New York Knicks,Miami Heat,113,115,Miami Heat,/boxscores/202511170MIA.html
+2025-11-17,Indiana Pacers,Detroit Pistons,112,127,Detroit Pistons,/boxscores/202511170DET.html
 2025-11-17,Dallas Mavericks,Minnesota Timberwolves,96,120,Minnesota Timberwolves,/boxscores/202511170MIN.html
 2025-11-17,Charlotte Hornets,Toronto Raptors,108,110,Toronto Raptors,/boxscores/202511170TOR.html
 2025-11-17,Chicago Bulls,Denver Nuggets,130,127,Chicago Bulls,/boxscores/202511170DEN.html
 2025-11-17,Oklahoma City Thunder,New Orleans Pelicans,126,109,Oklahoma City Thunder,/boxscores/202511170NOP.html
-2025-11-17,New York Knicks,Miami Heat,113,115,Miami Heat,/boxscores/202511170MIA.html
-2025-11-17,Indiana Pacers,Detroit Pistons,112,127,Detroit Pistons,/boxscores/202511170DET.html
-2025-11-17,Milwaukee Bucks,Cleveland Cavaliers,106,118,Cleveland Cavaliers,/boxscores/202511170CLE.html
-2025-11-17,Los Angeles Clippers,Philadelphia 76ers,108,110,Philadelphia 76ers,/boxscores/202511170PHI.html
-2025-11-18,Golden State Warriors,Orlando Magic,113,121,Orlando Magic,/boxscores/202511180ORL.html
-2025-11-18,Detroit Pistons,Atlanta Hawks,120,112,Detroit Pistons,/boxscores/202511180ATL.html
-2025-11-18,Boston Celtics,Brooklyn Nets,113,99,Boston Celtics,/boxscores/202511180BRK.html
-2025-11-18,Memphis Grizzlies,San Antonio Spurs,101,111,San Antonio Spurs,/boxscores/202511180SAS.html
 2025-11-18,Utah Jazz,Los Angeles Lakers,126,140,Los Angeles Lakers,/boxscores/202511180LAL.html
 2025-11-18,Phoenix Suns,Portland Trail Blazers,127,110,Phoenix Suns,/boxscores/202511180POR.html
-2025-11-19,Charlotte Hornets,Indiana Pacers,118,127,Indiana Pacers,/boxscores/202511190IND.html
-2025-11-19,Washington Wizards,Minnesota Timberwolves,109,120,Minnesota Timberwolves,/boxscores/202511190MIN.html
-2025-11-19,Houston Rockets,Cleveland Cavaliers,114,104,Houston Rockets,/boxscores/202511190CLE.html
-2025-11-19,Golden State Warriors,Miami Heat,96,110,Miami Heat,/boxscores/202511190MIA.html
+2025-11-18,Boston Celtics,Brooklyn Nets,113,99,Boston Celtics,/boxscores/202511180BRK.html
+2025-11-18,Golden State Warriors,Orlando Magic,113,121,Orlando Magic,/boxscores/202511180ORL.html
+2025-11-18,Detroit Pistons,Atlanta Hawks,120,112,Detroit Pistons,/boxscores/202511180ATL.html
+2025-11-18,Memphis Grizzlies,San Antonio Spurs,101,111,San Antonio Spurs,/boxscores/202511180SAS.html
 2025-11-19,Toronto Raptors,Philadelphia 76ers,121,112,Toronto Raptors,/boxscores/202511190PHI.html
-2025-11-19,New York Knicks,Dallas Mavericks,113,111,New York Knicks,/boxscores/202511190DAL.html
+2025-11-19,Houston Rockets,Cleveland Cavaliers,114,104,Houston Rockets,/boxscores/202511190CLE.html
 2025-11-19,Denver Nuggets,New Orleans Pelicans,125,118,Denver Nuggets,/boxscores/202511190NOP.html
-2025-11-19,Sacramento Kings,Oklahoma City Thunder,99,113,Oklahoma City Thunder,/boxscores/202511190OKC.html
+2025-11-19,Charlotte Hornets,Indiana Pacers,118,127,Indiana Pacers,/boxscores/202511190IND.html
+2025-11-19,Golden State Warriors,Miami Heat,96,110,Miami Heat,/boxscores/202511190MIA.html
+2025-11-19,New York Knicks,Dallas Mavericks,113,111,New York Knicks,/boxscores/202511190DAL.html
 2025-11-19,Chicago Bulls,Portland Trail Blazers,122,121,Chicago Bulls,/boxscores/202511190POR.html
-2025-11-20,Atlanta Hawks,San Antonio Spurs,126,135,San Antonio Spurs,/boxscores/202511200SAS.html
+2025-11-19,Sacramento Kings,Oklahoma City Thunder,99,113,Oklahoma City Thunder,/boxscores/202511190OKC.html
+2025-11-19,Washington Wizards,Minnesota Timberwolves,109,120,Minnesota Timberwolves,/boxscores/202511190MIN.html
 2025-11-20,Los Angeles Clippers,Orlando Magic,101,129,Orlando Magic,/boxscores/202511200ORL.html
 2025-11-20,Sacramento Kings,Memphis Grizzlies,96,137,Memphis Grizzlies,/boxscores/202511200MEM.html
 2025-11-20,Philadelphia 76ers,Milwaukee Bucks,123,114,Philadelphia 76ers,/boxscores/202511200MIL.html
-2025-11-21,Washington Wizards,Toronto Raptors,110,140,Toronto Raptors,/boxscores/202511210TOR.html
+2025-11-20,Atlanta Hawks,San Antonio Spurs,126,135,San Antonio Spurs,/boxscores/202511200SAS.html
 2025-11-21,Oklahoma City Thunder,Utah Jazz,144,112,Oklahoma City Thunder,/boxscores/202511210UTA.html
-2025-11-21,Portland Trail Blazers,Golden State Warriors,127,123,Portland Trail Blazers,/boxscores/202511210GSW.html
-2025-11-21,Denver Nuggets,Houston Rockets,112,109,Denver Nuggets,/boxscores/202511210HOU.html
-2025-11-21,Brooklyn Nets,Boston Celtics,113,105,Brooklyn Nets,/boxscores/202511210BOS.html
+2025-11-21,Washington Wizards,Toronto Raptors,110,140,Toronto Raptors,/boxscores/202511210TOR.html
 2025-11-21,New Orleans Pelicans,Dallas Mavericks,115,118,Dallas Mavericks,/boxscores/202511210DAL.html
-2025-11-21,Miami Heat,Chicago Bulls,143,107,Miami Heat,/boxscores/202511210CHI.html
-2025-11-21,Indiana Pacers,Cleveland Cavaliers,109,120,Cleveland Cavaliers,/boxscores/202511210CLE.html
+2025-11-21,Portland Trail Blazers,Golden State Warriors,127,123,Portland Trail Blazers,/boxscores/202511210GSW.html
 2025-11-21,Minnesota Timberwolves,Phoenix Suns,113,114,Phoenix Suns,/boxscores/202511210PHO.html
-2025-11-22,Sacramento Kings,Denver Nuggets,128,123,Sacramento Kings,/boxscores/202511220DEN.html
-2025-11-22,Washington Wizards,Chicago Bulls,120,121,Chicago Bulls,/boxscores/202511220CHI.html
-2025-11-22,Atlanta Hawks,New Orleans Pelicans,115,98,Atlanta Hawks,/boxscores/202511220NOP.html
-2025-11-22,Memphis Grizzlies,Dallas Mavericks,102,96,Memphis Grizzlies,/boxscores/202511220DAL.html
-2025-11-22,Los Angeles Clippers,Charlotte Hornets,131,116,Los Angeles Clippers,/boxscores/202511220CHO.html
+2025-11-21,Miami Heat,Chicago Bulls,143,107,Miami Heat,/boxscores/202511210CHI.html
+2025-11-21,Brooklyn Nets,Boston Celtics,113,105,Brooklyn Nets,/boxscores/202511210BOS.html
+2025-11-21,Indiana Pacers,Cleveland Cavaliers,109,120,Cleveland Cavaliers,/boxscores/202511210CLE.html
+2025-11-21,Denver Nuggets,Houston Rockets,112,109,Denver Nuggets,/boxscores/202511210HOU.html
 2025-11-22,Detroit Pistons,Milwaukee Bucks,129,116,Detroit Pistons,/boxscores/202511220MIL.html
+2025-11-22,Sacramento Kings,Denver Nuggets,128,123,Sacramento Kings,/boxscores/202511220DEN.html
+2025-11-22,Los Angeles Clippers,Charlotte Hornets,131,116,Los Angeles Clippers,/boxscores/202511220CHO.html
 2025-11-22,New York Knicks,Orlando Magic,121,133,Orlando Magic,/boxscores/202511220ORL.html
-2025-11-23,Miami Heat,Philadelphia 76ers,127,117,Miami Heat,/boxscores/202511230PHI.html
-2025-11-23,Brooklyn Nets,Toronto Raptors,109,119,Toronto Raptors,/boxscores/202511230TOR.html
+2025-11-22,Atlanta Hawks,New Orleans Pelicans,115,98,Atlanta Hawks,/boxscores/202511220NOP.html
+2025-11-22,Washington Wizards,Chicago Bulls,120,121,Chicago Bulls,/boxscores/202511220CHI.html
+2025-11-22,Memphis Grizzlies,Dallas Mavericks,102,96,Memphis Grizzlies,/boxscores/202511220DAL.html
 2025-11-23,San Antonio Spurs,Phoenix Suns,102,111,Phoenix Suns,/boxscores/202511230PHO.html
-2025-11-23,Charlotte Hornets,Atlanta Hawks,110,113,Atlanta Hawks,/boxscores/202511230ATL.html
-2025-11-23,Orlando Magic,Boston Celtics,129,138,Boston Celtics,/boxscores/202511230BOS.html
-2025-11-23,Los Angeles Clippers,Cleveland Cavaliers,105,120,Cleveland Cavaliers,/boxscores/202511230CLE.html
-2025-11-23,Los Angeles Lakers,Utah Jazz,108,106,Los Angeles Lakers,/boxscores/202511230UTA.html
 2025-11-23,Portland Trail Blazers,Oklahoma City Thunder,95,122,Oklahoma City Thunder,/boxscores/202511230OKC.html
-2025-11-24,Dallas Mavericks,Miami Heat,102,106,Miami Heat,/boxscores/202511240MIA.html
+2025-11-23,Brooklyn Nets,Toronto Raptors,109,119,Toronto Raptors,/boxscores/202511230TOR.html
+2025-11-23,Miami Heat,Philadelphia 76ers,127,117,Miami Heat,/boxscores/202511230PHI.html
+2025-11-23,Orlando Magic,Boston Celtics,129,138,Boston Celtics,/boxscores/202511230BOS.html
+2025-11-23,Charlotte Hornets,Atlanta Hawks,110,113,Atlanta Hawks,/boxscores/202511230ATL.html
+2025-11-23,Los Angeles Lakers,Utah Jazz,108,106,Los Angeles Lakers,/boxscores/202511230UTA.html
+2025-11-23,Los Angeles Clippers,Cleveland Cavaliers,105,120,Cleveland Cavaliers,/boxscores/202511230CLE.html
 2025-11-24,Cleveland Cavaliers,Toronto Raptors,99,110,Toronto Raptors,/boxscores/202511240TOR.html
-2025-11-24,New York Knicks,Brooklyn Nets,113,100,New York Knicks,/boxscores/202511240BRK.html
+2025-11-24,Houston Rockets,Phoenix Suns,114,92,Houston Rockets,/boxscores/202511240PHO.html
 2025-11-24,Denver Nuggets,Memphis Grizzlies,125,115,Denver Nuggets,/boxscores/202511240MEM.html
 2025-11-24,Detroit Pistons,Indiana Pacers,122,117,Detroit Pistons,/boxscores/202511240IND.html
-2025-11-24,Chicago Bulls,New Orleans Pelicans,130,143,New Orleans Pelicans,/boxscores/202511240NOP.html
-2025-11-24,Houston Rockets,Phoenix Suns,114,92,Houston Rockets,/boxscores/202511240PHO.html
-2025-11-24,Utah Jazz,Golden State Warriors,117,134,Golden State Warriors,/boxscores/202511240GSW.html
+2025-11-24,Dallas Mavericks,Miami Heat,102,106,Miami Heat,/boxscores/202511240MIA.html
 2025-11-24,Minnesota Timberwolves,Sacramento Kings,112,117,Sacramento Kings,/boxscores/202511240SAC.html
+2025-11-24,Chicago Bulls,New Orleans Pelicans,130,143,New Orleans Pelicans,/boxscores/202511240NOP.html
+2025-11-24,Utah Jazz,Golden State Warriors,117,134,Golden State Warriors,/boxscores/202511240GSW.html
 2025-11-24,Portland Trail Blazers,Milwaukee Bucks,115,103,Portland Trail Blazers,/boxscores/202511240MIL.html
+2025-11-24,New York Knicks,Brooklyn Nets,113,100,New York Knicks,/boxscores/202511240BRK.html
 2025-11-25,Los Angeles Clippers,Los Angeles Lakers,118,135,Los Angeles Lakers,/boxscores/202511250LAL.html
-2025-11-25,Orlando Magic,Philadelphia 76ers,144,103,Orlando Magic,/boxscores/202511250PHI.html
 2025-11-25,Atlanta Hawks,Washington Wizards,113,132,Washington Wizards,/boxscores/202511250WAS.html
-2025-11-26,Phoenix Suns,Sacramento Kings,112,100,Phoenix Suns,/boxscores/202511260SAC.html
-2025-11-26,San Antonio Spurs,Portland Trail Blazers,115,102,San Antonio Spurs,/boxscores/202511260POR.html
+2025-11-25,Orlando Magic,Philadelphia 76ers,144,103,Orlando Magic,/boxscores/202511250PHI.html
 2025-11-26,Houston Rockets,Golden State Warriors,104,100,Houston Rockets,/boxscores/202511260GSW.html
 2025-11-26,Memphis Grizzlies,New Orleans Pelicans,133,128,Memphis Grizzlies,/boxscores/202511260NOP.html
 2025-11-26,New York Knicks,Charlotte Hornets,129,101,New York Knicks,/boxscores/202511260CHO.html
-2025-11-26,Minnesota Timberwolves,Oklahoma City Thunder,105,113,Oklahoma City Thunder,/boxscores/202511260OKC.html
-2025-11-26,Milwaukee Bucks,Miami Heat,103,106,Miami Heat,/boxscores/202511260MIA.html
-2025-11-26,Detroit Pistons,Boston Celtics,114,117,Boston Celtics,/boxscores/202511260BOS.html
 2025-11-26,Indiana Pacers,Toronto Raptors,95,97,Toronto Raptors,/boxscores/202511260TOR.html
+2025-11-26,Milwaukee Bucks,Miami Heat,103,106,Miami Heat,/boxscores/202511260MIA.html
+2025-11-26,San Antonio Spurs,Portland Trail Blazers,115,102,San Antonio Spurs,/boxscores/202511260POR.html
+2025-11-26,Minnesota Timberwolves,Oklahoma City Thunder,105,113,Oklahoma City Thunder,/boxscores/202511260OKC.html
+2025-11-26,Phoenix Suns,Sacramento Kings,112,100,Phoenix Suns,/boxscores/202511260SAC.html
+2025-11-26,Detroit Pistons,Boston Celtics,114,117,Boston Celtics,/boxscores/202511260BOS.html
+2025-11-28,Dallas Mavericks,Los Angeles Lakers,119,129,Los Angeles Lakers,/boxscores/202511280LAL.html
+2025-11-28,Phoenix Suns,Oklahoma City Thunder,119,123,Oklahoma City Thunder,/boxscores/202511280OKC.html
 2025-11-28,Memphis Grizzlies,Los Angeles Clippers,112,107,Memphis Grizzlies,/boxscores/202511280LAC.html
 2025-11-28,Sacramento Kings,Utah Jazz,119,128,Utah Jazz,/boxscores/202511280UTA.html
-2025-11-28,Phoenix Suns,Oklahoma City Thunder,119,123,Oklahoma City Thunder,/boxscores/202511280OKC.html
 2025-11-28,San Antonio Spurs,Denver Nuggets,139,136,San Antonio Spurs,/boxscores/202511280DEN.html
-2025-11-28,Milwaukee Bucks,New York Knicks,109,118,New York Knicks,/boxscores/202511280NYK.html
-2025-11-28,Dallas Mavericks,Los Angeles Lakers,119,129,Los Angeles Lakers,/boxscores/202511280LAL.html
-2025-11-28,Orlando Magic,Detroit Pistons,112,109,Orlando Magic,/boxscores/202511280DET.html
 2025-11-28,Chicago Bulls,Charlotte Hornets,116,123,Charlotte Hornets,/boxscores/202511280CHO.html
+2025-11-28,Washington Wizards,Indiana Pacers,86,119,Indiana Pacers,/boxscores/202511280IND.html
+2025-11-28,Orlando Magic,Detroit Pistons,112,109,Orlando Magic,/boxscores/202511280DET.html
 2025-11-28,Philadelphia 76ers,Brooklyn Nets,115,103,Philadelphia 76ers,/boxscores/202511280BRK.html
 2025-11-28,Cleveland Cavaliers,Atlanta Hawks,123,130,Atlanta Hawks,/boxscores/202511280ATL.html
-2025-11-28,Washington Wizards,Indiana Pacers,86,119,Indiana Pacers,/boxscores/202511280IND.html
-2025-11-29,Brooklyn Nets,Milwaukee Bucks,99,116,Milwaukee Bucks,/boxscores/202511290MIL.html
-2025-11-29,Chicago Bulls,Indiana Pacers,101,103,Indiana Pacers,/boxscores/202511290IND.html
+2025-11-28,Milwaukee Bucks,New York Knicks,109,118,New York Knicks,/boxscores/202511280NYK.html
+2025-11-29,Dallas Mavericks,Los Angeles Clippers,114,110,Dallas Mavericks,/boxscores/202511290LAC.html
 2025-11-29,Denver Nuggets,Phoenix Suns,130,112,Denver Nuggets,/boxscores/202511290PHO.html
 2025-11-29,New Orleans Pelicans,Golden State Warriors,96,104,Golden State Warriors,/boxscores/202511290GSW.html
-2025-11-29,Detroit Pistons,Miami Heat,138,135,Detroit Pistons,/boxscores/202511290MIA.html
-2025-11-29,Boston Celtics,Minnesota Timberwolves,115,119,Minnesota Timberwolves,/boxscores/202511290MIN.html
+2025-11-29,Brooklyn Nets,Milwaukee Bucks,99,116,Milwaukee Bucks,/boxscores/202511290MIL.html
 2025-11-29,Toronto Raptors,Charlotte Hornets,111,118,Charlotte Hornets,/boxscores/202511290CHO.html
-2025-11-29,Dallas Mavericks,Los Angeles Clippers,114,110,Dallas Mavericks,/boxscores/202511290LAC.html
-2025-11-30,Houston Rockets,Utah Jazz,129,101,Houston Rockets,/boxscores/202511300UTA.html
-2025-11-30,Boston Celtics,Cleveland Cavaliers,117,115,Boston Celtics,/boxscores/202511300CLE.html
-2025-11-30,Toronto Raptors,New York Knicks,94,116,New York Knicks,/boxscores/202511300NYK.html
-2025-11-30,Oklahoma City Thunder,Portland Trail Blazers,123,115,Oklahoma City Thunder,/boxscores/202511300POR.html
-2025-11-30,San Antonio Spurs,Minnesota Timberwolves,112,125,Minnesota Timberwolves,/boxscores/202511300MIN.html
+2025-11-29,Chicago Bulls,Indiana Pacers,101,103,Indiana Pacers,/boxscores/202511290IND.html
+2025-11-29,Boston Celtics,Minnesota Timberwolves,115,119,Minnesota Timberwolves,/boxscores/202511290MIN.html
+2025-11-29,Detroit Pistons,Miami Heat,138,135,Detroit Pistons,/boxscores/202511290MIA.html
 2025-11-30,Memphis Grizzlies,Sacramento Kings,115,107,Memphis Grizzlies,/boxscores/202511300SAC.html
-2025-11-30,New Orleans Pelicans,Los Angeles Lakers,121,133,Los Angeles Lakers,/boxscores/202511300LAL.html
+2025-11-30,Oklahoma City Thunder,Portland Trail Blazers,123,115,Oklahoma City Thunder,/boxscores/202511300POR.html
 2025-11-30,Atlanta Hawks,Philadelphia 76ers,142,134,Atlanta Hawks,/boxscores/202511300PHI.html
-2025-12-01,Cleveland Cavaliers,Indiana Pacers,135,119,Cleveland Cavaliers,/boxscores/202512010IND.html
-2025-12-01,Los Angeles Clippers,Miami Heat,123,140,Miami Heat,/boxscores/202512010MIA.html
-2025-12-01,Atlanta Hawks,Detroit Pistons,98,99,Detroit Pistons,/boxscores/202512010DET.html
-2025-12-01,Charlotte Hornets,Brooklyn Nets,103,116,Brooklyn Nets,/boxscores/202512010BRK.html
-2025-12-01,Milwaukee Bucks,Washington Wizards,126,129,Washington Wizards,/boxscores/202512010WAS.html
-2025-12-01,Chicago Bulls,Orlando Magic,120,125,Orlando Magic,/boxscores/202512010ORL.html
-2025-12-01,Houston Rockets,Utah Jazz,125,133,Utah Jazz,/boxscores/202512010UTA.html
+2025-11-30,San Antonio Spurs,Minnesota Timberwolves,112,125,Minnesota Timberwolves,/boxscores/202511300MIN.html
+2025-11-30,Boston Celtics,Cleveland Cavaliers,117,115,Boston Celtics,/boxscores/202511300CLE.html
+2025-11-30,Houston Rockets,Utah Jazz,129,101,Houston Rockets,/boxscores/202511300UTA.html
+2025-11-30,New Orleans Pelicans,Los Angeles Lakers,121,133,Los Angeles Lakers,/boxscores/202511300LAL.html
+2025-11-30,Toronto Raptors,New York Knicks,94,116,New York Knicks,/boxscores/202511300NYK.html
 2025-12-01,Phoenix Suns,Los Angeles Lakers,125,108,Phoenix Suns,/boxscores/202512010LAL.html
 2025-12-01,Dallas Mavericks,Denver Nuggets,131,121,Dallas Mavericks,/boxscores/202512010DEN.html
-2025-12-02,Memphis Grizzlies,San Antonio Spurs,119,126,San Antonio Spurs,/boxscores/202512020SAS.html
-2025-12-02,Minnesota Timberwolves,New Orleans Pelicans,149,142,Minnesota Timberwolves,/boxscores/202512020NOP.html
-2025-12-02,Oklahoma City Thunder,Golden State Warriors,124,112,Oklahoma City Thunder,/boxscores/202512020GSW.html
-2025-12-02,Portland Trail Blazers,Toronto Raptors,118,121,Toronto Raptors,/boxscores/202512020TOR.html
+2025-12-01,Los Angeles Clippers,Miami Heat,123,140,Miami Heat,/boxscores/202512010MIA.html
+2025-12-01,Charlotte Hornets,Brooklyn Nets,103,116,Brooklyn Nets,/boxscores/202512010BRK.html
+2025-12-01,Houston Rockets,Utah Jazz,125,133,Utah Jazz,/boxscores/202512010UTA.html
+2025-12-01,Cleveland Cavaliers,Indiana Pacers,135,119,Cleveland Cavaliers,/boxscores/202512010IND.html
+2025-12-01,Atlanta Hawks,Detroit Pistons,98,99,Detroit Pistons,/boxscores/202512010DET.html
+2025-12-01,Chicago Bulls,Orlando Magic,120,125,Orlando Magic,/boxscores/202512010ORL.html
+2025-12-01,Milwaukee Bucks,Washington Wizards,126,129,Washington Wizards,/boxscores/202512010WAS.html
 2025-12-02,Washington Wizards,Philadelphia 76ers,102,121,Philadelphia 76ers,/boxscores/202512020PHI.html
+2025-12-02,Portland Trail Blazers,Toronto Raptors,118,121,Toronto Raptors,/boxscores/202512020TOR.html
 2025-12-02,New York Knicks,Boston Celtics,117,123,Boston Celtics,/boxscores/202512020BOS.html
-2025-12-03,Detroit Pistons,Milwaukee Bucks,109,113,Milwaukee Bucks,/boxscores/202512030MIL.html
-2025-12-03,Sacramento Kings,Houston Rockets,95,121,Houston Rockets,/boxscores/202512030HOU.html
-2025-12-03,Brooklyn Nets,Chicago Bulls,113,103,Brooklyn Nets,/boxscores/202512030CHI.html
-2025-12-03,Charlotte Hornets,New York Knicks,104,119,New York Knicks,/boxscores/202512030NYK.html
-2025-12-03,Miami Heat,Dallas Mavericks,108,118,Dallas Mavericks,/boxscores/202512030DAL.html
-2025-12-03,San Antonio Spurs,Orlando Magic,114,112,San Antonio Spurs,/boxscores/202512030ORL.html
+2025-12-02,Minnesota Timberwolves,New Orleans Pelicans,149,142,Minnesota Timberwolves,/boxscores/202512020NOP.html
+2025-12-02,Memphis Grizzlies,San Antonio Spurs,119,126,San Antonio Spurs,/boxscores/202512020SAS.html
+2025-12-02,Oklahoma City Thunder,Golden State Warriors,124,112,Oklahoma City Thunder,/boxscores/202512020GSW.html
 2025-12-03,Denver Nuggets,Indiana Pacers,135,120,Denver Nuggets,/boxscores/202512030IND.html
-2025-12-03,Los Angeles Clippers,Atlanta Hawks,115,92,Los Angeles Clippers,/boxscores/202512030ATL.html
 2025-12-03,Portland Trail Blazers,Cleveland Cavaliers,122,110,Portland Trail Blazers,/boxscores/202512030CLE.html
-2025-12-04,Minnesota Timberwolves,New Orleans Pelicans,125,116,Minnesota Timberwolves,/boxscores/202512040NOP.html
+2025-12-03,San Antonio Spurs,Orlando Magic,114,112,San Antonio Spurs,/boxscores/202512030ORL.html
+2025-12-03,Charlotte Hornets,New York Knicks,104,119,New York Knicks,/boxscores/202512030NYK.html
+2025-12-03,Los Angeles Clippers,Atlanta Hawks,115,92,Los Angeles Clippers,/boxscores/202512030ATL.html
+2025-12-03,Brooklyn Nets,Chicago Bulls,113,103,Brooklyn Nets,/boxscores/202512030CHI.html
+2025-12-03,Detroit Pistons,Milwaukee Bucks,109,113,Milwaukee Bucks,/boxscores/202512030MIL.html
+2025-12-03,Miami Heat,Dallas Mavericks,108,118,Dallas Mavericks,/boxscores/202512030DAL.html
+2025-12-03,Sacramento Kings,Houston Rockets,95,121,Houston Rockets,/boxscores/202512030HOU.html
+2025-12-04,Golden State Warriors,Philadelphia 76ers,98,99,Philadelphia 76ers,/boxscores/202512040PHI.html
 2025-12-04,Boston Celtics,Washington Wizards,146,101,Boston Celtics,/boxscores/202512040WAS.html
 2025-12-04,Utah Jazz,Brooklyn Nets,123,110,Utah Jazz,/boxscores/202512040BRK.html
-2025-12-04,Golden State Warriors,Philadelphia 76ers,98,99,Philadelphia 76ers,/boxscores/202512040PHI.html
 2025-12-04,Los Angeles Lakers,Toronto Raptors,123,120,Los Angeles Lakers,/boxscores/202512040TOR.html
+2025-12-04,Minnesota Timberwolves,New Orleans Pelicans,125,116,Minnesota Timberwolves,/boxscores/202512040NOP.html
+2025-12-05,Phoenix Suns,Houston Rockets,98,117,Houston Rockets,/boxscores/202512050HOU.html
+2025-12-05,Portland Trail Blazers,Detroit Pistons,116,122,Detroit Pistons,/boxscores/202512050DET.html
+2025-12-05,Los Angeles Lakers,Boston Celtics,105,126,Boston Celtics,/boxscores/202512050BOS.html
+2025-12-05,Miami Heat,Orlando Magic,105,106,Orlando Magic,/boxscores/202512050ORL.html
+2025-12-05,Denver Nuggets,Atlanta Hawks,134,133,Denver Nuggets,/boxscores/202512050ATL.html
 2025-12-05,San Antonio Spurs,Cleveland Cavaliers,117,130,Cleveland Cavaliers,/boxscores/202512050CLE.html
 2025-12-05,Philadelphia 76ers,Milwaukee Bucks,116,101,Philadelphia 76ers,/boxscores/202512050MIL.html
-2025-12-05,Dallas Mavericks,Oklahoma City Thunder,111,132,Oklahoma City Thunder,/boxscores/202512050OKC.html
-2025-12-05,Phoenix Suns,Houston Rockets,98,117,Houston Rockets,/boxscores/202512050HOU.html
-2025-12-05,Indiana Pacers,Chicago Bulls,120,105,Indiana Pacers,/boxscores/202512050CHI.html
-2025-12-05,Charlotte Hornets,Toronto Raptors,111,86,Charlotte Hornets,/boxscores/202512050TOR.html
-2025-12-05,Los Angeles Clippers,Memphis Grizzlies,98,107,Memphis Grizzlies,/boxscores/202512050MEM.html
-2025-12-05,Portland Trail Blazers,Detroit Pistons,116,122,Detroit Pistons,/boxscores/202512050DET.html
-2025-12-05,Denver Nuggets,Atlanta Hawks,134,133,Denver Nuggets,/boxscores/202512050ATL.html
-2025-12-05,Miami Heat,Orlando Magic,105,106,Orlando Magic,/boxscores/202512050ORL.html
-2025-12-05,Los Angeles Lakers,Boston Celtics,105,126,Boston Celtics,/boxscores/202512050BOS.html
 2025-12-05,Utah Jazz,New York Knicks,112,146,New York Knicks,/boxscores/202512050NYK.html
-2025-12-06,Milwaukee Bucks,Detroit Pistons,112,124,Detroit Pistons,/boxscores/202512060DET.html
+2025-12-05,Los Angeles Clippers,Memphis Grizzlies,98,107,Memphis Grizzlies,/boxscores/202512050MEM.html
+2025-12-05,Charlotte Hornets,Toronto Raptors,111,86,Charlotte Hornets,/boxscores/202512050TOR.html
+2025-12-05,Dallas Mavericks,Oklahoma City Thunder,111,132,Oklahoma City Thunder,/boxscores/202512050OKC.html
+2025-12-05,Indiana Pacers,Chicago Bulls,120,105,Indiana Pacers,/boxscores/202512050CHI.html
+2025-12-06,Atlanta Hawks,Washington Wizards,131,116,Atlanta Hawks,/boxscores/202512060WAS.html
+2025-12-06,New Orleans Pelicans,Brooklyn Nets,101,119,Brooklyn Nets,/boxscores/202512060BRK.html
 2025-12-06,Golden State Warriors,Cleveland Cavaliers,99,94,Golden State Warriors,/boxscores/202512060CLE.html
 2025-12-06,Sacramento Kings,Miami Heat,127,111,Sacramento Kings,/boxscores/202512060MIA.html
-2025-12-06,New Orleans Pelicans,Brooklyn Nets,101,119,Brooklyn Nets,/boxscores/202512060BRK.html
 2025-12-06,Los Angeles Clippers,Minnesota Timberwolves,106,109,Minnesota Timberwolves,/boxscores/202512060MIN.html
-2025-12-06,Atlanta Hawks,Washington Wizards,131,116,Atlanta Hawks,/boxscores/202512060WAS.html
 2025-12-06,Houston Rockets,Dallas Mavericks,109,122,Dallas Mavericks,/boxscores/202512060DAL.html
-2025-12-07,Boston Celtics,Toronto Raptors,121,113,Boston Celtics,/boxscores/202512070TOR.html
+2025-12-06,Milwaukee Bucks,Detroit Pistons,112,124,Detroit Pistons,/boxscores/202512060DET.html
 2025-12-07,Orlando Magic,New York Knicks,100,106,New York Knicks,/boxscores/202512070NYK.html
+2025-12-07,Boston Celtics,Toronto Raptors,121,113,Boston Celtics,/boxscores/202512070TOR.html
 2025-12-07,Denver Nuggets,Charlotte Hornets,115,106,Denver Nuggets,/boxscores/202512070CHO.html
 2025-12-07,Portland Trail Blazers,Memphis Grizzlies,96,119,Memphis Grizzlies,/boxscores/202512070MEM.html
+2025-12-07,Golden State Warriors,Chicago Bulls,123,91,Golden State Warriors,/boxscores/202512070CHI.html
 2025-12-07,Los Angeles Lakers,Philadelphia 76ers,112,108,Los Angeles Lakers,/boxscores/202512070PHI.html
 2025-12-07,Oklahoma City Thunder,Utah Jazz,131,101,Oklahoma City Thunder,/boxscores/202512070UTA.html
-2025-12-07,Golden State Warriors,Chicago Bulls,123,91,Golden State Warriors,/boxscores/202512070CHI.html
-2025-12-08,Sacramento Kings,Indiana Pacers,105,116,Indiana Pacers,/boxscores/202512080IND.html
-2025-12-08,Phoenix Suns,Minnesota Timberwolves,108,105,Phoenix Suns,/boxscores/202512080MIN.html
 2025-12-08,San Antonio Spurs,New Orleans Pelicans,135,132,San Antonio Spurs,/boxscores/202512080NOP.html
-2025-12-09,Miami Heat,Orlando Magic,108,117,Orlando Magic,/boxscores/202512090ORL.html
+2025-12-08,Phoenix Suns,Minnesota Timberwolves,108,105,Phoenix Suns,/boxscores/202512080MIN.html
+2025-12-08,Sacramento Kings,Indiana Pacers,105,116,Indiana Pacers,/boxscores/202512080IND.html
 2025-12-09,New York Knicks,Toronto Raptors,117,101,New York Knicks,/boxscores/202512090TOR.html
-2025-12-10,San Antonio Spurs,Los Angeles Lakers,132,119,San Antonio Spurs,/boxscores/202512100LAL.html
+2025-12-09,Miami Heat,Orlando Magic,108,117,Orlando Magic,/boxscores/202512090ORL.html
 2025-12-10,Phoenix Suns,Oklahoma City Thunder,89,138,Oklahoma City Thunder,/boxscores/202512100OKC.html
+2025-12-10,San Antonio Spurs,Los Angeles Lakers,132,119,San Antonio Spurs,/boxscores/202512100LAL.html
 2025-12-11,Los Angeles Clippers,Houston Rockets,113,115,Houston Rockets,/boxscores/202512110HOU.html
 2025-12-11,Boston Celtics,Milwaukee Bucks,101,116,Milwaukee Bucks,/boxscores/202512110MIL.html
 2025-12-11,Portland Trail Blazers,New Orleans Pelicans,120,143,New Orleans Pelicans,/boxscores/202512110NOP.html
 2025-12-11,Denver Nuggets,Sacramento Kings,136,105,Denver Nuggets,/boxscores/202512110SAC.html
-2025-12-12,Brooklyn Nets,Dallas Mavericks,111,119,Dallas Mavericks,/boxscores/202512120DAL.html
-2025-12-12,Atlanta Hawks,Detroit Pistons,115,142,Detroit Pistons,/boxscores/202512120DET.html
-2025-12-12,Minnesota Timberwolves,Golden State Warriors,127,120,Minnesota Timberwolves,/boxscores/202512120GSW.html
-2025-12-12,Cleveland Cavaliers,Washington Wizards,130,126,Cleveland Cavaliers,/boxscores/202512120WAS.html
 2025-12-12,Utah Jazz,Memphis Grizzlies,130,126,Utah Jazz,/boxscores/202512120MEM.html
+2025-12-12,Brooklyn Nets,Dallas Mavericks,111,119,Dallas Mavericks,/boxscores/202512120DAL.html
 2025-12-12,Indiana Pacers,Philadelphia 76ers,105,115,Philadelphia 76ers,/boxscores/202512120PHI.html
+2025-12-12,Cleveland Cavaliers,Washington Wizards,130,126,Cleveland Cavaliers,/boxscores/202512120WAS.html
+2025-12-12,Atlanta Hawks,Detroit Pistons,115,142,Detroit Pistons,/boxscores/202512120DET.html
 2025-12-12,Chicago Bulls,Charlotte Hornets,129,126,Chicago Bulls,/boxscores/202512120CHO.html
+2025-12-12,Minnesota Timberwolves,Golden State Warriors,127,120,Minnesota Timberwolves,/boxscores/202512120GSW.html
 2025-12-13,New York Knicks,Orlando Magic,132,120,New York Knicks,/boxscores/202512130ORL.html
 2025-12-13,San Antonio Spurs,Oklahoma City Thunder,111,109,San Antonio Spurs,/boxscores/202512130OKC.html
-2025-12-14,Sacramento Kings,Minnesota Timberwolves,103,117,Minnesota Timberwolves,/boxscores/202512140MIN.html
-2025-12-14,Golden State Warriors,Portland Trail Blazers,131,136,Portland Trail Blazers,/boxscores/202512140POR.html
-2025-12-14,Los Angeles Lakers,Phoenix Suns,116,114,Los Angeles Lakers,/boxscores/202512140PHO.html
-2025-12-14,New Orleans Pelicans,Chicago Bulls,114,104,New Orleans Pelicans,/boxscores/202512140CHI.html
-2025-12-14,Washington Wizards,Indiana Pacers,108,89,Washington Wizards,/boxscores/202512140IND.html
 2025-12-14,Philadelphia 76ers,Atlanta Hawks,117,120,Atlanta Hawks,/boxscores/202512140ATL.html
 2025-12-14,Charlotte Hornets,Cleveland Cavaliers,119,111,Charlotte Hornets,/boxscores/202512140CLE.html
 2025-12-14,Milwaukee Bucks,Brooklyn Nets,82,127,Brooklyn Nets,/boxscores/202512140BRK.html
+2025-12-14,Los Angeles Lakers,Phoenix Suns,116,114,Los Angeles Lakers,/boxscores/202512140PHO.html
+2025-12-14,Washington Wizards,Indiana Pacers,108,89,Washington Wizards,/boxscores/202512140IND.html
+2025-12-14,Golden State Warriors,Portland Trail Blazers,131,136,Portland Trail Blazers,/boxscores/202512140POR.html
+2025-12-14,Sacramento Kings,Minnesota Timberwolves,103,117,Minnesota Timberwolves,/boxscores/202512140MIN.html
+2025-12-14,New Orleans Pelicans,Chicago Bulls,114,104,New Orleans Pelicans,/boxscores/202512140CHI.html
 2025-12-15,Memphis Grizzlies,Los Angeles Clippers,121,103,Memphis Grizzlies,/boxscores/202512150LAC.html
-2025-12-15,Dallas Mavericks,Utah Jazz,133,140,Utah Jazz,/boxscores/202512150UTA.html
-2025-12-15,Houston Rockets,Denver Nuggets,125,128,Denver Nuggets,/boxscores/202512150DEN.html
 2025-12-15,Detroit Pistons,Boston Celtics,112,105,Detroit Pistons,/boxscores/202512150BOS.html
 2025-12-15,Toronto Raptors,Miami Heat,106,96,Toronto Raptors,/boxscores/202512150MIA.html
+2025-12-15,Dallas Mavericks,Utah Jazz,133,140,Utah Jazz,/boxscores/202512150UTA.html
+2025-12-15,Houston Rockets,Denver Nuggets,125,128,Denver Nuggets,/boxscores/202512150DEN.html
 2025-12-16,San Antonio Spurs,New York Knicks,113,124,New York Knicks,/boxscores/202512160NYK.html
-2025-12-17,Cleveland Cavaliers,Chicago Bulls,111,127,Chicago Bulls,/boxscores/202512170CHI.html
 2025-12-17,Memphis Grizzlies,Minnesota Timberwolves,116,110,Memphis Grizzlies,/boxscores/202512170MIN.html
-2025-12-18,Atlanta Hawks,Charlotte Hornets,126,133,Charlotte Hornets,/boxscores/202512180CHO.html
+2025-12-17,Cleveland Cavaliers,Chicago Bulls,111,127,Chicago Bulls,/boxscores/202512170CHI.html
 2025-12-18,New York Knicks,Indiana Pacers,114,113,New York Knicks,/boxscores/202512180IND.html
+2025-12-18,Atlanta Hawks,Charlotte Hornets,126,133,Charlotte Hornets,/boxscores/202512180CHO.html
 2025-12-18,Los Angeles Clippers,Oklahoma City Thunder,101,122,Oklahoma City Thunder,/boxscores/202512180OKC.html
-2025-12-18,Miami Heat,Brooklyn Nets,106,95,Miami Heat,/boxscores/202512180BRK.html
 2025-12-18,Toronto Raptors,Milwaukee Bucks,111,105,Toronto Raptors,/boxscores/202512180MIL.html
 2025-12-18,Houston Rockets,New Orleans Pelicans,128,133,New Orleans Pelicans,/boxscores/202512180NOP.html
+2025-12-18,Miami Heat,Brooklyn Nets,106,95,Miami Heat,/boxscores/202512180BRK.html
 2025-12-18,Washington Wizards,San Antonio Spurs,94,119,San Antonio Spurs,/boxscores/202512180SAS.html
 2025-12-18,Orlando Magic,Denver Nuggets,115,126,Denver Nuggets,/boxscores/202512180DEN.html
+2025-12-18,Golden State Warriors,Phoenix Suns,98,99,Phoenix Suns,/boxscores/202512180PHO.html
 2025-12-18,Los Angeles Lakers,Utah Jazz,143,135,Los Angeles Lakers,/boxscores/202512180UTA.html
 2025-12-18,Sacramento Kings,Portland Trail Blazers,133,134,Portland Trail Blazers,/boxscores/202512180POR.html
 2025-12-18,Detroit Pistons,Dallas Mavericks,114,116,Dallas Mavericks,/boxscores/202512180DAL.html
-2025-12-18,Golden State Warriors,Phoenix Suns,98,99,Phoenix Suns,/boxscores/202512180PHO.html
 2025-12-19,Oklahoma City Thunder,Minnesota Timberwolves,107,112,Minnesota Timberwolves,/boxscores/202512190MIN.html
 2025-12-19,Chicago Bulls,Cleveland Cavaliers,136,125,Chicago Bulls,/boxscores/202512190CLE.html
-2025-12-19,San Antonio Spurs,Atlanta Hawks,126,98,San Antonio Spurs,/boxscores/202512190ATL.html
-2025-12-19,Philadelphia 76ers,New York Knicks,116,107,Philadelphia 76ers,/boxscores/202512190NYK.html
 2025-12-19,Miami Heat,Boston Celtics,116,129,Boston Celtics,/boxscores/202512190BOS.html
-2025-12-20,Indiana Pacers,New Orleans Pelicans,109,128,New Orleans Pelicans,/boxscores/202512200NOP.html
-2025-12-20,Houston Rockets,Denver Nuggets,115,101,Houston Rockets,/boxscores/202512200DEN.html
+2025-12-19,Philadelphia 76ers,New York Knicks,116,107,Philadelphia 76ers,/boxscores/202512190NYK.html
+2025-12-19,San Antonio Spurs,Atlanta Hawks,126,98,San Antonio Spurs,/boxscores/202512190ATL.html
 2025-12-20,Los Angeles Lakers,Los Angeles Clippers,88,103,Los Angeles Clippers,/boxscores/202512200LAC.html
-2025-12-20,Portland Trail Blazers,Sacramento Kings,98,93,Portland Trail Blazers,/boxscores/202512200SAC.html
-2025-12-20,Dallas Mavericks,Philadelphia 76ers,114,121,Philadelphia 76ers,/boxscores/202512200PHI.html
-2025-12-20,Phoenix Suns,Golden State Warriors,116,119,Golden State Warriors,/boxscores/202512200GSW.html
-2025-12-20,Boston Celtics,Toronto Raptors,112,96,Boston Celtics,/boxscores/202512200TOR.html
-2025-12-20,Washington Wizards,Memphis Grizzlies,130,122,Washington Wizards,/boxscores/202512200MEM.html
-2025-12-20,Charlotte Hornets,Detroit Pistons,86,112,Detroit Pistons,/boxscores/202512200DET.html
 2025-12-20,Orlando Magic,Utah Jazz,128,127,Orlando Magic,/boxscores/202512200UTA.html
+2025-12-20,Phoenix Suns,Golden State Warriors,116,119,Golden State Warriors,/boxscores/202512200GSW.html
+2025-12-20,Dallas Mavericks,Philadelphia 76ers,114,121,Philadelphia 76ers,/boxscores/202512200PHI.html
+2025-12-20,Portland Trail Blazers,Sacramento Kings,98,93,Portland Trail Blazers,/boxscores/202512200SAC.html
+2025-12-20,Indiana Pacers,New Orleans Pelicans,109,128,New Orleans Pelicans,/boxscores/202512200NOP.html
+2025-12-20,Charlotte Hornets,Detroit Pistons,86,112,Detroit Pistons,/boxscores/202512200DET.html
+2025-12-20,Houston Rockets,Denver Nuggets,115,101,Houston Rockets,/boxscores/202512200DEN.html
+2025-12-20,Washington Wizards,Memphis Grizzlies,130,122,Washington Wizards,/boxscores/202512200MEM.html
+2025-12-20,Boston Celtics,Toronto Raptors,112,96,Boston Celtics,/boxscores/202512200TOR.html
+2025-12-21,Chicago Bulls,Atlanta Hawks,152,150,Chicago Bulls,/boxscores/202512210ATL.html
+2025-12-21,Toronto Raptors,Brooklyn Nets,81,96,Brooklyn Nets,/boxscores/202512210BRK.html
+2025-12-21,Miami Heat,New York Knicks,125,132,New York Knicks,/boxscores/202512210NYK.html
+2025-12-21,Milwaukee Bucks,Minnesota Timberwolves,100,103,Minnesota Timberwolves,/boxscores/202512210MIN.html
 2025-12-21,San Antonio Spurs,Washington Wizards,124,113,San Antonio Spurs,/boxscores/202512210WAS.html
 2025-12-21,Houston Rockets,Sacramento Kings,124,125,Sacramento Kings,/boxscores/202512210SAC.html
-2025-12-21,Chicago Bulls,Atlanta Hawks,152,150,Chicago Bulls,/boxscores/202512210ATL.html
-2025-12-21,Miami Heat,New York Knicks,125,132,New York Knicks,/boxscores/202512210NYK.html
-2025-12-21,Toronto Raptors,Brooklyn Nets,81,96,Brooklyn Nets,/boxscores/202512210BRK.html
-2025-12-21,Milwaukee Bucks,Minnesota Timberwolves,100,103,Minnesota Timberwolves,/boxscores/202512210MIN.html
-2025-12-22,Orlando Magic,Golden State Warriors,97,120,Golden State Warriors,/boxscores/202512220GSW.html
+2025-12-22,Memphis Grizzlies,Oklahoma City Thunder,103,119,Oklahoma City Thunder,/boxscores/202512220OKC.html
 2025-12-22,Charlotte Hornets,Cleveland Cavaliers,132,139,Cleveland Cavaliers,/boxscores/202512220CLE.html
 2025-12-22,Indiana Pacers,Boston Celtics,95,103,Boston Celtics,/boxscores/202512220BOS.html
 2025-12-22,Dallas Mavericks,New Orleans Pelicans,113,119,New Orleans Pelicans,/boxscores/202512220NOP.html
-2025-12-22,Utah Jazz,Denver Nuggets,112,135,Denver Nuggets,/boxscores/202512220DEN.html
-2025-12-22,Memphis Grizzlies,Oklahoma City Thunder,103,119,Oklahoma City Thunder,/boxscores/202512220OKC.html
+2025-12-22,Orlando Magic,Golden State Warriors,97,120,Golden State Warriors,/boxscores/202512220GSW.html
 2025-12-22,Detroit Pistons,Portland Trail Blazers,110,102,Detroit Pistons,/boxscores/202512220POR.html
-2025-12-23,Chicago Bulls,Atlanta Hawks,126,123,Chicago Bulls,/boxscores/202512230ATL.html
-2025-12-23,Brooklyn Nets,Philadelphia 76ers,114,106,Brooklyn Nets,/boxscores/202512230PHI.html
-2025-12-23,New Orleans Pelicans,Cleveland Cavaliers,118,141,Cleveland Cavaliers,/boxscores/202512230CLE.html
+2025-12-22,Utah Jazz,Denver Nuggets,112,135,Denver Nuggets,/boxscores/202512220DEN.html
 2025-12-23,Denver Nuggets,Dallas Mavericks,130,131,Dallas Mavericks,/boxscores/202512230DAL.html
 2025-12-23,Washington Wizards,Charlotte Hornets,109,126,Charlotte Hornets,/boxscores/202512230CHO.html
+2025-12-23,Brooklyn Nets,Philadelphia 76ers,114,106,Brooklyn Nets,/boxscores/202512230PHI.html
+2025-12-23,New Orleans Pelicans,Cleveland Cavaliers,118,141,Cleveland Cavaliers,/boxscores/202512230CLE.html
 2025-12-23,Milwaukee Bucks,Indiana Pacers,111,94,Milwaukee Bucks,/boxscores/202512230IND.html
 2025-12-23,Toronto Raptors,Miami Heat,112,91,Toronto Raptors,/boxscores/202512230MIA.html
-2025-12-23,Oklahoma City Thunder,San Antonio Spurs,110,130,San Antonio Spurs,/boxscores/202512230SAS.html
-2025-12-23,Orlando Magic,Portland Trail Blazers,110,106,Orlando Magic,/boxscores/202512230POR.html
-2025-12-23,Houston Rockets,Los Angeles Clippers,108,128,Los Angeles Clippers,/boxscores/202512230LAC.html
-2025-12-23,Detroit Pistons,Sacramento Kings,136,127,Detroit Pistons,/boxscores/202512230SAC.html
 2025-12-23,New York Knicks,Minnesota Timberwolves,104,115,Minnesota Timberwolves,/boxscores/202512230MIN.html
+2025-12-23,Chicago Bulls,Atlanta Hawks,126,123,Chicago Bulls,/boxscores/202512230ATL.html
 2025-12-23,Los Angeles Lakers,Phoenix Suns,108,132,Phoenix Suns,/boxscores/202512230PHO.html
 2025-12-23,Memphis Grizzlies,Utah Jazz,137,128,Memphis Grizzlies,/boxscores/202512230UTA.html
+2025-12-23,Orlando Magic,Portland Trail Blazers,110,106,Orlando Magic,/boxscores/202512230POR.html
+2025-12-23,Detroit Pistons,Sacramento Kings,136,127,Detroit Pistons,/boxscores/202512230SAC.html
+2025-12-23,Houston Rockets,Los Angeles Clippers,108,128,Los Angeles Clippers,/boxscores/202512230LAC.html
+2025-12-23,Oklahoma City Thunder,San Antonio Spurs,110,130,San Antonio Spurs,/boxscores/202512230SAS.html
+2025-12-25,Cleveland Cavaliers,New York Knicks,124,126,New York Knicks,/boxscores/202512250NYK.html
+2025-12-25,San Antonio Spurs,Oklahoma City Thunder,117,102,San Antonio Spurs,/boxscores/202512250OKC.html
+2025-12-25,Dallas Mavericks,Golden State Warriors,116,126,Golden State Warriors,/boxscores/202512250GSW.html
 2025-12-25,Houston Rockets,Los Angeles Lakers,119,96,Houston Rockets,/boxscores/202512250LAL.html
 2025-12-25,Minnesota Timberwolves,Denver Nuggets,138,142,Denver Nuggets,/boxscores/202512250DEN.html
-2025-12-25,Dallas Mavericks,Golden State Warriors,116,126,Golden State Warriors,/boxscores/202512250GSW.html
-2025-12-25,San Antonio Spurs,Oklahoma City Thunder,117,102,San Antonio Spurs,/boxscores/202512250OKC.html
-2025-12-25,Cleveland Cavaliers,New York Knicks,124,126,New York Knicks,/boxscores/202512250NYK.html
 2025-12-26,Los Angeles Clippers,Portland Trail Blazers,119,103,Los Angeles Clippers,/boxscores/202512260POR.html
 2025-12-26,Detroit Pistons,Utah Jazz,129,131,Utah Jazz,/boxscores/202512260UTA.html
 2025-12-26,Phoenix Suns,New Orleans Pelicans,115,108,Phoenix Suns,/boxscores/202512260NOP.html
 2025-12-26,Milwaukee Bucks,Memphis Grizzlies,104,125,Memphis Grizzlies,/boxscores/202512260MEM.html
-2025-12-26,Charlotte Hornets,Orlando Magic,120,105,Charlotte Hornets,/boxscores/202512260ORL.html
-2025-12-26,Toronto Raptors,Washington Wizards,117,138,Washington Wizards,/boxscores/202512260WAS.html
-2025-12-26,Boston Celtics,Indiana Pacers,140,122,Boston Celtics,/boxscores/202512260IND.html
 2025-12-26,Miami Heat,Atlanta Hawks,126,111,Miami Heat,/boxscores/202512260ATL.html
+2025-12-26,Toronto Raptors,Washington Wizards,117,138,Washington Wizards,/boxscores/202512260WAS.html
+2025-12-26,Charlotte Hornets,Orlando Magic,120,105,Charlotte Hornets,/boxscores/202512260ORL.html
+2025-12-26,Boston Celtics,Indiana Pacers,140,122,Boston Celtics,/boxscores/202512260IND.html
 2025-12-26,Philadelphia 76ers,Chicago Bulls,102,109,Chicago Bulls,/boxscores/202512260CHI.html
 2025-12-27,Phoenix Suns,New Orleans Pelicans,123,114,Phoenix Suns,/boxscores/202512270NOP.html
 2025-12-27,New York Knicks,Atlanta Hawks,128,125,New York Knicks,/boxscores/202512270ATL.html
 2025-12-27,Dallas Mavericks,Sacramento Kings,107,113,Sacramento Kings,/boxscores/202512270SAC.html
 2025-12-27,Denver Nuggets,Orlando Magic,126,127,Orlando Magic,/boxscores/202512270ORL.html
-2025-12-27,Brooklyn Nets,Minnesota Timberwolves,123,107,Brooklyn Nets,/boxscores/202512270MIN.html
+2025-12-27,Milwaukee Bucks,Chicago Bulls,112,103,Milwaukee Bucks,/boxscores/202512270CHI.html
 2025-12-27,Cleveland Cavaliers,Houston Rockets,100,117,Houston Rockets,/boxscores/202512270HOU.html
+2025-12-27,Brooklyn Nets,Minnesota Timberwolves,123,107,Brooklyn Nets,/boxscores/202512270MIN.html
 2025-12-27,Utah Jazz,San Antonio Spurs,127,114,Utah Jazz,/boxscores/202512270SAS.html
 2025-12-27,Indiana Pacers,Miami Heat,116,142,Miami Heat,/boxscores/202512270MIA.html
-2025-12-27,Milwaukee Bucks,Chicago Bulls,112,103,Milwaukee Bucks,/boxscores/202512270CHI.html
 2025-12-28,Sacramento Kings,Los Angeles Lakers,101,125,Los Angeles Lakers,/boxscores/202512280LAL.html
-2025-12-28,Detroit Pistons,Los Angeles Clippers,99,112,Los Angeles Clippers,/boxscores/202512280LAC.html
 2025-12-28,Memphis Grizzlies,Washington Wizards,112,116,Washington Wizards,/boxscores/202512280WAS.html
-2025-12-28,Boston Celtics,Portland Trail Blazers,108,114,Portland Trail Blazers,/boxscores/202512280POR.html
-2025-12-28,Philadelphia 76ers,Oklahoma City Thunder,104,129,Oklahoma City Thunder,/boxscores/202512280OKC.html
+2025-12-28,Detroit Pistons,Los Angeles Clippers,99,112,Los Angeles Clippers,/boxscores/202512280LAC.html
 2025-12-28,Golden State Warriors,Toronto Raptors,127,141,Toronto Raptors,/boxscores/202512280TOR.html
-2025-12-29,New York Knicks,New Orleans Pelicans,130,125,New York Knicks,/boxscores/202512290NOP.html
-2025-12-29,Dallas Mavericks,Portland Trail Blazers,122,125,Portland Trail Blazers,/boxscores/202512290POR.html
-2025-12-29,Atlanta Hawks,Oklahoma City Thunder,129,140,Oklahoma City Thunder,/boxscores/202512290OKC.html
-2025-12-29,Minnesota Timberwolves,Chicago Bulls,136,101,Minnesota Timberwolves,/boxscores/202512290CHI.html
-2025-12-29,Cleveland Cavaliers,San Antonio Spurs,113,101,Cleveland Cavaliers,/boxscores/202512290SAS.html
-2025-12-29,Denver Nuggets,Miami Heat,123,147,Miami Heat,/boxscores/202512290MIA.html
+2025-12-28,Philadelphia 76ers,Oklahoma City Thunder,104,129,Oklahoma City Thunder,/boxscores/202512280OKC.html
+2025-12-28,Boston Celtics,Portland Trail Blazers,108,114,Portland Trail Blazers,/boxscores/202512280POR.html
+2025-12-29,Phoenix Suns,Washington Wizards,115,101,Phoenix Suns,/boxscores/202512290WAS.html
 2025-12-29,Orlando Magic,Toronto Raptors,106,107,Toronto Raptors,/boxscores/202512290TOR.html
 2025-12-29,Milwaukee Bucks,Charlotte Hornets,123,113,Milwaukee Bucks,/boxscores/202512290CHO.html
-2025-12-29,Indiana Pacers,Houston Rockets,119,126,Houston Rockets,/boxscores/202512290HOU.html
+2025-12-29,Denver Nuggets,Miami Heat,123,147,Miami Heat,/boxscores/202512290MIA.html
 2025-12-29,Golden State Warriors,Brooklyn Nets,120,107,Golden State Warriors,/boxscores/202512290BRK.html
-2025-12-29,Phoenix Suns,Washington Wizards,115,101,Phoenix Suns,/boxscores/202512290WAS.html
-2025-12-30,Detroit Pistons,Los Angeles Lakers,128,106,Detroit Pistons,/boxscores/202512300LAL.html
+2025-12-29,Minnesota Timberwolves,Chicago Bulls,136,101,Minnesota Timberwolves,/boxscores/202512290CHI.html
+2025-12-29,Atlanta Hawks,Oklahoma City Thunder,129,140,Oklahoma City Thunder,/boxscores/202512290OKC.html
+2025-12-29,New York Knicks,New Orleans Pelicans,130,125,New York Knicks,/boxscores/202512290NOP.html
+2025-12-29,Indiana Pacers,Houston Rockets,119,126,Houston Rockets,/boxscores/202512290HOU.html
+2025-12-29,Dallas Mavericks,Portland Trail Blazers,122,125,Portland Trail Blazers,/boxscores/202512290POR.html
+2025-12-29,Cleveland Cavaliers,San Antonio Spurs,113,101,Cleveland Cavaliers,/boxscores/202512290SAS.html
 2025-12-30,Sacramento Kings,Los Angeles Clippers,90,131,Los Angeles Clippers,/boxscores/202512300LAC.html
-2025-12-30,Philadelphia 76ers,Memphis Grizzlies,139,136,Philadelphia 76ers,/boxscores/202512300MEM.html
 2025-12-30,Boston Celtics,Utah Jazz,129,119,Boston Celtics,/boxscores/202512300UTA.html
-2025-12-31,Phoenix Suns,Cleveland Cavaliers,113,129,Cleveland Cavaliers,/boxscores/202512310CLE.html
-2025-12-31,Golden State Warriors,Charlotte Hornets,132,125,Golden State Warriors,/boxscores/202512310CHO.html
-2025-12-31,Minnesota Timberwolves,Atlanta Hawks,102,126,Atlanta Hawks,/boxscores/202512310ATL.html
-2025-12-31,Orlando Magic,Indiana Pacers,112,110,Orlando Magic,/boxscores/202512310IND.html
-2025-12-31,New York Knicks,San Antonio Spurs,132,134,San Antonio Spurs,/boxscores/202512310SAS.html
-2025-12-31,New Orleans Pelicans,Chicago Bulls,118,134,Chicago Bulls,/boxscores/202512310CHI.html
-2025-12-31,Washington Wizards,Milwaukee Bucks,114,113,Washington Wizards,/boxscores/202512310MIL.html
+2025-12-30,Detroit Pistons,Los Angeles Lakers,128,106,Detroit Pistons,/boxscores/202512300LAL.html
+2025-12-30,Philadelphia 76ers,Memphis Grizzlies,139,136,Philadelphia 76ers,/boxscores/202512300MEM.html
 2025-12-31,Portland Trail Blazers,Oklahoma City Thunder,95,124,Oklahoma City Thunder,/boxscores/202512310OKC.html
+2025-12-31,Orlando Magic,Indiana Pacers,112,110,Orlando Magic,/boxscores/202512310IND.html
+2025-12-31,Phoenix Suns,Cleveland Cavaliers,113,129,Cleveland Cavaliers,/boxscores/202512310CLE.html
+2025-12-31,New Orleans Pelicans,Chicago Bulls,118,134,Chicago Bulls,/boxscores/202512310CHI.html
+2025-12-31,New York Knicks,San Antonio Spurs,132,134,San Antonio Spurs,/boxscores/202512310SAS.html
 2025-12-31,Denver Nuggets,Toronto Raptors,106,103,Denver Nuggets,/boxscores/202512310TOR.html
+2025-12-31,Washington Wizards,Milwaukee Bucks,114,113,Washington Wizards,/boxscores/202512310MIL.html
+2025-12-31,Minnesota Timberwolves,Atlanta Hawks,102,126,Atlanta Hawks,/boxscores/202512310ATL.html
+2025-12-31,Golden State Warriors,Charlotte Hornets,132,125,Golden State Warriors,/boxscores/202512310CHO.html
 2026-01-01,Utah Jazz,Los Angeles Clippers,101,118,Los Angeles Clippers,/boxscores/202601010LAC.html
+2026-01-01,Miami Heat,Detroit Pistons,118,112,Miami Heat,/boxscores/202601010DET.html
+2026-01-01,Houston Rockets,Brooklyn Nets,120,96,Houston Rockets,/boxscores/202601010BRK.html
 2026-01-01,Philadelphia 76ers,Dallas Mavericks,123,108,Philadelphia 76ers,/boxscores/202601010DAL.html
 2026-01-01,Boston Celtics,Sacramento Kings,120,106,Boston Celtics,/boxscores/202601010SAC.html
-2026-01-01,Houston Rockets,Brooklyn Nets,120,96,Houston Rockets,/boxscores/202601010BRK.html
-2026-01-01,Miami Heat,Detroit Pistons,118,112,Miami Heat,/boxscores/202601010DET.html
-2026-01-02,Oklahoma City Thunder,Golden State Warriors,131,94,Oklahoma City Thunder,/boxscores/202601020GSW.html
-2026-01-02,Sacramento Kings,Phoenix Suns,102,129,Phoenix Suns,/boxscores/202601020PHO.html
-2026-01-02,Portland Trail Blazers,New Orleans Pelicans,122,109,Portland Trail Blazers,/boxscores/202601020NOP.html
-2026-01-02,Charlotte Hornets,Milwaukee Bucks,121,122,Milwaukee Bucks,/boxscores/202601020MIL.html
-2026-01-02,Orlando Magic,Chicago Bulls,114,121,Chicago Bulls,/boxscores/202601020CHI.html
-2026-01-02,San Antonio Spurs,Indiana Pacers,123,113,San Antonio Spurs,/boxscores/202601020IND.html
-2026-01-02,Memphis Grizzlies,Los Angeles Lakers,121,128,Los Angeles Lakers,/boxscores/202601020LAL.html
 2026-01-02,Denver Nuggets,Cleveland Cavaliers,108,113,Cleveland Cavaliers,/boxscores/202601020CLE.html
-2026-01-02,Brooklyn Nets,Washington Wizards,99,119,Washington Wizards,/boxscores/202601020WAS.html
+2026-01-02,Portland Trail Blazers,New Orleans Pelicans,122,109,Portland Trail Blazers,/boxscores/202601020NOP.html
+2026-01-02,Orlando Magic,Chicago Bulls,114,121,Chicago Bulls,/boxscores/202601020CHI.html
 2026-01-02,Atlanta Hawks,New York Knicks,111,99,Atlanta Hawks,/boxscores/202601020NYK.html
+2026-01-02,San Antonio Spurs,Indiana Pacers,123,113,San Antonio Spurs,/boxscores/202601020IND.html
+2026-01-02,Sacramento Kings,Phoenix Suns,102,129,Phoenix Suns,/boxscores/202601020PHO.html
+2026-01-02,Oklahoma City Thunder,Golden State Warriors,131,94,Oklahoma City Thunder,/boxscores/202601020GSW.html
+2026-01-02,Memphis Grizzlies,Los Angeles Lakers,121,128,Los Angeles Lakers,/boxscores/202601020LAL.html
+2026-01-02,Brooklyn Nets,Washington Wizards,99,119,Washington Wizards,/boxscores/202601020WAS.html
+2026-01-02,Charlotte Hornets,Milwaukee Bucks,121,122,Milwaukee Bucks,/boxscores/202601020MIL.html
+2026-01-03,Portland Trail Blazers,San Antonio Spurs,115,110,Portland Trail Blazers,/boxscores/202601030SAS.html
 2026-01-03,Minnesota Timberwolves,Miami Heat,125,115,Minnesota Timberwolves,/boxscores/202601030MIA.html
-2026-01-03,Boston Celtics,Los Angeles Clippers,146,115,Boston Celtics,/boxscores/202601030LAC.html
+2026-01-03,Philadelphia 76ers,New York Knicks,130,119,Philadelphia 76ers,/boxscores/202601030NYK.html
 2026-01-03,Atlanta Hawks,Toronto Raptors,117,134,Toronto Raptors,/boxscores/202601030TOR.html
 2026-01-03,Charlotte Hornets,Chicago Bulls,112,99,Charlotte Hornets,/boxscores/202601030CHI.html
-2026-01-03,Portland Trail Blazers,San Antonio Spurs,115,110,Portland Trail Blazers,/boxscores/202601030SAS.html
 2026-01-03,Houston Rockets,Dallas Mavericks,104,110,Dallas Mavericks,/boxscores/202601030DAL.html
+2026-01-03,Boston Celtics,Los Angeles Clippers,146,115,Boston Celtics,/boxscores/202601030LAC.html
 2026-01-03,Utah Jazz,Golden State Warriors,114,123,Golden State Warriors,/boxscores/202601030GSW.html
-2026-01-03,Philadelphia 76ers,New York Knicks,130,119,Philadelphia 76ers,/boxscores/202601030NYK.html
+2026-01-04,Oklahoma City Thunder,Phoenix Suns,105,108,Phoenix Suns,/boxscores/202601040PHO.html
+2026-01-04,Minnesota Timberwolves,Washington Wizards,141,115,Minnesota Timberwolves,/boxscores/202601040WAS.html
+2026-01-04,New Orleans Pelicans,Miami Heat,106,125,Miami Heat,/boxscores/202601040MIA.html
+2026-01-04,Milwaukee Bucks,Sacramento Kings,115,98,Milwaukee Bucks,/boxscores/202601040SAC.html
 2026-01-04,Indiana Pacers,Orlando Magic,127,135,Orlando Magic,/boxscores/202601040ORL.html
 2026-01-04,Detroit Pistons,Cleveland Cavaliers,114,110,Detroit Pistons,/boxscores/202601040CLE.html
-2026-01-04,Milwaukee Bucks,Sacramento Kings,115,98,Milwaukee Bucks,/boxscores/202601040SAC.html
-2026-01-04,Oklahoma City Thunder,Phoenix Suns,105,108,Phoenix Suns,/boxscores/202601040PHO.html
-2026-01-04,Denver Nuggets,Brooklyn Nets,115,127,Brooklyn Nets,/boxscores/202601040BRK.html
 2026-01-04,Memphis Grizzlies,Los Angeles Lakers,114,120,Los Angeles Lakers,/boxscores/202601040LAL.html
-2026-01-04,New Orleans Pelicans,Miami Heat,106,125,Miami Heat,/boxscores/202601040MIA.html
-2026-01-04,Minnesota Timberwolves,Washington Wizards,141,115,Minnesota Timberwolves,/boxscores/202601040WAS.html
+2026-01-04,Denver Nuggets,Brooklyn Nets,115,127,Brooklyn Nets,/boxscores/202601040BRK.html
+2026-01-05,Golden State Warriors,Los Angeles Clippers,102,103,Los Angeles Clippers,/boxscores/202601050LAC.html
 2026-01-05,Denver Nuggets,Philadelphia 76ers,125,124,Denver Nuggets,/boxscores/202601050PHI.html
+2026-01-05,Charlotte Hornets,Oklahoma City Thunder,124,97,Charlotte Hornets,/boxscores/202601050OKC.html
+2026-01-05,Utah Jazz,Portland Trail Blazers,117,137,Portland Trail Blazers,/boxscores/202601050POR.html
 2026-01-05,Atlanta Hawks,Toronto Raptors,100,118,Toronto Raptors,/boxscores/202601050TOR.html
 2026-01-05,Chicago Bulls,Boston Celtics,101,115,Boston Celtics,/boxscores/202601050BOS.html
-2026-01-05,Phoenix Suns,Houston Rockets,97,100,Houston Rockets,/boxscores/202601050HOU.html
-2026-01-05,Utah Jazz,Portland Trail Blazers,117,137,Portland Trail Blazers,/boxscores/202601050POR.html
-2026-01-05,Golden State Warriors,Los Angeles Clippers,102,103,Los Angeles Clippers,/boxscores/202601050LAC.html
-2026-01-05,Charlotte Hornets,Oklahoma City Thunder,124,97,Charlotte Hornets,/boxscores/202601050OKC.html
 2026-01-05,New York Knicks,Detroit Pistons,90,121,Detroit Pistons,/boxscores/202601050DET.html
+2026-01-05,Phoenix Suns,Houston Rockets,97,100,Houston Rockets,/boxscores/202601050HOU.html
+2026-01-06,San Antonio Spurs,Memphis Grizzlies,105,106,Memphis Grizzlies,/boxscores/202601060MEM.html
 2026-01-06,Cleveland Cavaliers,Indiana Pacers,120,116,Cleveland Cavaliers,/boxscores/202601060IND.html
 2026-01-06,Orlando Magic,Washington Wizards,112,120,Washington Wizards,/boxscores/202601060WAS.html
 2026-01-06,Miami Heat,Minnesota Timberwolves,94,122,Minnesota Timberwolves,/boxscores/202601060MIN.html
-2026-01-06,Dallas Mavericks,Sacramento Kings,100,98,Dallas Mavericks,/boxscores/202601060SAC.html
-2026-01-06,San Antonio Spurs,Memphis Grizzlies,105,106,Memphis Grizzlies,/boxscores/202601060MEM.html
 2026-01-06,Los Angeles Lakers,New Orleans Pelicans,111,103,Los Angeles Lakers,/boxscores/202601060NOP.html
-2026-01-07,New Orleans Pelicans,Atlanta Hawks,100,117,Atlanta Hawks,/boxscores/202601070ATL.html
-2026-01-07,Washington Wizards,Philadelphia 76ers,110,131,Philadelphia 76ers,/boxscores/202601070PHI.html
-2026-01-07,Toronto Raptors,Charlotte Hornets,97,96,Toronto Raptors,/boxscores/202601070CHO.html
-2026-01-07,Chicago Bulls,Detroit Pistons,93,108,Detroit Pistons,/boxscores/202601070DET.html
-2026-01-07,Los Angeles Lakers,San Antonio Spurs,91,107,San Antonio Spurs,/boxscores/202601070SAS.html
-2026-01-07,Orlando Magic,Brooklyn Nets,104,103,Orlando Magic,/boxscores/202601070BRK.html
-2026-01-07,Phoenix Suns,Memphis Grizzlies,117,98,Phoenix Suns,/boxscores/202601070MEM.html
-2026-01-07,Denver Nuggets,Boston Celtics,114,110,Denver Nuggets,/boxscores/202601070BOS.html
+2026-01-06,Dallas Mavericks,Sacramento Kings,100,98,Dallas Mavericks,/boxscores/202601060SAC.html
 2026-01-07,Los Angeles Clippers,New York Knicks,111,123,New York Knicks,/boxscores/202601070NYK.html
-2026-01-07,Houston Rockets,Portland Trail Blazers,102,103,Portland Trail Blazers,/boxscores/202601070POR.html
+2026-01-07,Denver Nuggets,Boston Celtics,114,110,Denver Nuggets,/boxscores/202601070BOS.html
+2026-01-07,New Orleans Pelicans,Atlanta Hawks,100,117,Atlanta Hawks,/boxscores/202601070ATL.html
+2026-01-07,Toronto Raptors,Charlotte Hornets,97,96,Toronto Raptors,/boxscores/202601070CHO.html
 2026-01-07,Milwaukee Bucks,Golden State Warriors,113,120,Golden State Warriors,/boxscores/202601070GSW.html
+2026-01-07,Orlando Magic,Brooklyn Nets,104,103,Orlando Magic,/boxscores/202601070BRK.html
+2026-01-07,Houston Rockets,Portland Trail Blazers,102,103,Portland Trail Blazers,/boxscores/202601070POR.html
+2026-01-07,Washington Wizards,Philadelphia 76ers,110,131,Philadelphia 76ers,/boxscores/202601070PHI.html
+2026-01-07,Los Angeles Lakers,San Antonio Spurs,91,107,San Antonio Spurs,/boxscores/202601070SAS.html
 2026-01-07,Utah Jazz,Oklahoma City Thunder,125,129,Oklahoma City Thunder,/boxscores/202601070OKC.html
-2026-01-08,Indiana Pacers,Charlotte Hornets,114,112,Indiana Pacers,/boxscores/202601080CHO.html
-2026-01-08,Cleveland Cavaliers,Minnesota Timberwolves,122,131,Minnesota Timberwolves,/boxscores/202601080MIN.html
+2026-01-07,Phoenix Suns,Memphis Grizzlies,117,98,Phoenix Suns,/boxscores/202601070MEM.html
+2026-01-07,Chicago Bulls,Detroit Pistons,93,108,Detroit Pistons,/boxscores/202601070DET.html
 2026-01-08,Dallas Mavericks,Utah Jazz,114,116,Utah Jazz,/boxscores/202601080UTA.html
-2026-01-09,Philadelphia 76ers,Orlando Magic,103,91,Philadelphia 76ers,/boxscores/202601090ORL.html
-2026-01-09,Los Angeles Clippers,Brooklyn Nets,121,105,Los Angeles Clippers,/boxscores/202601090BRK.html
+2026-01-08,Cleveland Cavaliers,Minnesota Timberwolves,122,131,Minnesota Timberwolves,/boxscores/202601080MIN.html
+2026-01-08,Indiana Pacers,Charlotte Hornets,114,112,Indiana Pacers,/boxscores/202601080CHO.html
 2026-01-09,Toronto Raptors,Boston Celtics,117,125,Boston Celtics,/boxscores/202601090BOS.html
+2026-01-09,Philadelphia 76ers,Orlando Magic,103,91,Philadelphia 76ers,/boxscores/202601090ORL.html
 2026-01-09,New Orleans Pelicans,Washington Wizards,128,107,New Orleans Pelicans,/boxscores/202601090WAS.html
-2026-01-09,Oklahoma City Thunder,Memphis Grizzlies,117,116,Oklahoma City Thunder,/boxscores/202601090MEM.html
 2026-01-09,New York Knicks,Phoenix Suns,107,112,Phoenix Suns,/boxscores/202601090PHO.html
-2026-01-09,Sacramento Kings,Golden State Warriors,103,137,Golden State Warriors,/boxscores/202601090GSW.html
-2026-01-09,Houston Rockets,Portland Trail Blazers,105,111,Portland Trail Blazers,/boxscores/202601090POR.html
+2026-01-09,Los Angeles Clippers,Brooklyn Nets,121,105,Los Angeles Clippers,/boxscores/202601090BRK.html
 2026-01-09,Milwaukee Bucks,Los Angeles Lakers,105,101,Milwaukee Bucks,/boxscores/202601090LAL.html
 2026-01-09,Atlanta Hawks,Denver Nuggets,110,87,Atlanta Hawks,/boxscores/202601090DEN.html
+2026-01-09,Houston Rockets,Portland Trail Blazers,105,111,Portland Trail Blazers,/boxscores/202601090POR.html
+2026-01-09,Sacramento Kings,Golden State Warriors,103,137,Golden State Warriors,/boxscores/202601090GSW.html
+2026-01-09,Oklahoma City Thunder,Memphis Grizzlies,117,116,Oklahoma City Thunder,/boxscores/202601090MEM.html
 2026-01-10,Minnesota Timberwolves,Cleveland Cavaliers,134,146,Cleveland Cavaliers,/boxscores/202601100CLE.html
-2026-01-10,Charlotte Hornets,Utah Jazz,150,95,Charlotte Hornets,/boxscores/202601100UTA.html
-2026-01-10,Dallas Mavericks,Chicago Bulls,107,125,Chicago Bulls,/boxscores/202601100CHI.html
-2026-01-10,San Antonio Spurs,Boston Celtics,100,95,San Antonio Spurs,/boxscores/202601100BOS.html
 2026-01-10,Miami Heat,Indiana Pacers,99,123,Indiana Pacers,/boxscores/202601100IND.html
 2026-01-10,Los Angeles Clippers,Detroit Pistons,98,92,Los Angeles Clippers,/boxscores/202601100DET.html
-2026-01-11,Houston Rockets,Sacramento Kings,98,111,Sacramento Kings,/boxscores/202601110SAC.html
-2026-01-11,Atlanta Hawks,Golden State Warriors,124,111,Atlanta Hawks,/boxscores/202601110GSW.html
-2026-01-11,Washington Wizards,Phoenix Suns,93,112,Phoenix Suns,/boxscores/202601110PHO.html
-2026-01-11,Milwaukee Bucks,Denver Nuggets,104,108,Denver Nuggets,/boxscores/202601110DEN.html
-2026-01-11,Miami Heat,Oklahoma City Thunder,112,124,Oklahoma City Thunder,/boxscores/202601110OKC.html
-2026-01-11,New Orleans Pelicans,Orlando Magic,118,128,Orlando Magic,/boxscores/202601110ORL.html
-2026-01-11,Philadelphia 76ers,Toronto Raptors,115,116,Toronto Raptors,/boxscores/202601110TOR.html
+2026-01-10,San Antonio Spurs,Boston Celtics,100,95,San Antonio Spurs,/boxscores/202601100BOS.html
+2026-01-10,Dallas Mavericks,Chicago Bulls,107,125,Chicago Bulls,/boxscores/202601100CHI.html
+2026-01-10,Charlotte Hornets,Utah Jazz,150,95,Charlotte Hornets,/boxscores/202601100UTA.html
 2026-01-11,New York Knicks,Portland Trail Blazers,123,114,New York Knicks,/boxscores/202601110POR.html
+2026-01-11,Philadelphia 76ers,Toronto Raptors,115,116,Toronto Raptors,/boxscores/202601110TOR.html
+2026-01-11,New Orleans Pelicans,Orlando Magic,118,128,Orlando Magic,/boxscores/202601110ORL.html
 2026-01-11,Brooklyn Nets,Memphis Grizzlies,98,103,Memphis Grizzlies,/boxscores/202601110MEM.html
+2026-01-11,Milwaukee Bucks,Denver Nuggets,104,108,Denver Nuggets,/boxscores/202601110DEN.html
 2026-01-11,San Antonio Spurs,Minnesota Timberwolves,103,104,Minnesota Timberwolves,/boxscores/202601110MIN.html
-2026-01-12,Philadelphia 76ers,Toronto Raptors,115,102,Philadelphia 76ers,/boxscores/202601120TOR.html
-2026-01-12,Boston Celtics,Indiana Pacers,96,98,Indiana Pacers,/boxscores/202601120IND.html
-2026-01-12,Charlotte Hornets,Los Angeles Clippers,109,117,Los Angeles Clippers,/boxscores/202601120LAC.html
-2026-01-12,Brooklyn Nets,Dallas Mavericks,105,113,Dallas Mavericks,/boxscores/202601120DAL.html
+2026-01-11,Miami Heat,Oklahoma City Thunder,112,124,Oklahoma City Thunder,/boxscores/202601110OKC.html
+2026-01-11,Washington Wizards,Phoenix Suns,93,112,Phoenix Suns,/boxscores/202601110PHO.html
+2026-01-11,Atlanta Hawks,Golden State Warriors,124,111,Atlanta Hawks,/boxscores/202601110GSW.html
+2026-01-11,Houston Rockets,Sacramento Kings,98,111,Sacramento Kings,/boxscores/202601110SAC.html
 2026-01-12,Utah Jazz,Cleveland Cavaliers,123,112,Utah Jazz,/boxscores/202601120CLE.html
 2026-01-12,Los Angeles Lakers,Sacramento Kings,112,124,Sacramento Kings,/boxscores/202601120SAC.html
+2026-01-12,Boston Celtics,Indiana Pacers,96,98,Indiana Pacers,/boxscores/202601120IND.html
+2026-01-12,Brooklyn Nets,Dallas Mavericks,105,113,Dallas Mavericks,/boxscores/202601120DAL.html
+2026-01-12,Charlotte Hornets,Los Angeles Clippers,109,117,Los Angeles Clippers,/boxscores/202601120LAC.html
+2026-01-12,Philadelphia 76ers,Toronto Raptors,115,102,Philadelphia 76ers,/boxscores/202601120TOR.html
+2026-01-13,Portland Trail Blazers,Golden State Warriors,97,119,Golden State Warriors,/boxscores/202601130GSW.html
 2026-01-13,Phoenix Suns,Miami Heat,121,127,Miami Heat,/boxscores/202601130MIA.html
 2026-01-13,Chicago Bulls,Houston Rockets,113,119,Houston Rockets,/boxscores/202601130HOU.html
 2026-01-13,Minnesota Timberwolves,Milwaukee Bucks,139,106,Minnesota Timberwolves,/boxscores/202601130MIL.html
 2026-01-13,Denver Nuggets,New Orleans Pelicans,122,116,Denver Nuggets,/boxscores/202601130NOP.html
 2026-01-13,San Antonio Spurs,Oklahoma City Thunder,98,119,Oklahoma City Thunder,/boxscores/202601130OKC.html
 2026-01-13,Atlanta Hawks,Los Angeles Lakers,116,141,Los Angeles Lakers,/boxscores/202601130LAL.html
-2026-01-13,Portland Trail Blazers,Golden State Warriors,97,119,Golden State Warriors,/boxscores/202601130GSW.html
 2026-01-14,Washington Wizards,Los Angeles Clippers,105,119,Los Angeles Clippers,/boxscores/202601140LAC.html
-2026-01-14,New York Knicks,Sacramento Kings,101,112,Sacramento Kings,/boxscores/202601140SAC.html
-2026-01-14,Denver Nuggets,Dallas Mavericks,118,109,Denver Nuggets,/boxscores/202601140DAL.html
-2026-01-14,Toronto Raptors,Indiana Pacers,115,101,Toronto Raptors,/boxscores/202601140IND.html
 2026-01-14,Utah Jazz,Chicago Bulls,126,128,Chicago Bulls,/boxscores/202601140CHI.html
 2026-01-14,Cleveland Cavaliers,Philadelphia 76ers,133,107,Cleveland Cavaliers,/boxscores/202601140PHI.html
+2026-01-14,Toronto Raptors,Indiana Pacers,115,101,Toronto Raptors,/boxscores/202601140IND.html
 2026-01-14,Brooklyn Nets,New Orleans Pelicans,113,116,New Orleans Pelicans,/boxscores/202601140NOP.html
+2026-01-14,New York Knicks,Sacramento Kings,101,112,Sacramento Kings,/boxscores/202601140SAC.html
+2026-01-14,Denver Nuggets,Dallas Mavericks,118,109,Denver Nuggets,/boxscores/202601140DAL.html
+2026-01-15,Boston Celtics,Miami Heat,119,114,Boston Celtics,/boxscores/202601150MIA.html
+2026-01-15,Oklahoma City Thunder,Houston Rockets,111,91,Oklahoma City Thunder,/boxscores/202601150HOU.html
+2026-01-15,New York Knicks,Golden State Warriors,113,126,Golden State Warriors,/boxscores/202601150GSW.html
 2026-01-15,Milwaukee Bucks,San Antonio Spurs,101,119,San Antonio Spurs,/boxscores/202601150SAS.html
+2026-01-15,Phoenix Suns,Detroit Pistons,105,108,Detroit Pistons,/boxscores/202601150DET.html
+2026-01-15,Atlanta Hawks,Portland Trail Blazers,101,117,Portland Trail Blazers,/boxscores/202601150POR.html
+2026-01-15,Memphis Grizzlies,Orlando Magic,111,118,Orlando Magic,/boxscores/202601150ORL.html
 2026-01-15,Charlotte Hornets,Los Angeles Lakers,135,117,Charlotte Hornets,/boxscores/202601150LAL.html
 2026-01-15,Utah Jazz,Dallas Mavericks,122,144,Dallas Mavericks,/boxscores/202601150DAL.html
-2026-01-15,Boston Celtics,Miami Heat,119,114,Boston Celtics,/boxscores/202601150MIA.html
-2026-01-15,New York Knicks,Golden State Warriors,113,126,Golden State Warriors,/boxscores/202601150GSW.html
-2026-01-15,Memphis Grizzlies,Orlando Magic,111,118,Orlando Magic,/boxscores/202601150ORL.html
-2026-01-15,Phoenix Suns,Detroit Pistons,105,108,Detroit Pistons,/boxscores/202601150DET.html
-2026-01-15,Oklahoma City Thunder,Houston Rockets,111,91,Oklahoma City Thunder,/boxscores/202601150HOU.html
-2026-01-15,Atlanta Hawks,Portland Trail Blazers,101,117,Portland Trail Blazers,/boxscores/202601150POR.html
-2026-01-16,Los Angeles Clippers,Toronto Raptors,121,117,Los Angeles Clippers,/boxscores/202601160TOR.html
-2026-01-16,Chicago Bulls,Brooklyn Nets,109,112,Brooklyn Nets,/boxscores/202601160BRK.html
+2026-01-16,New Orleans Pelicans,Indiana Pacers,119,127,Indiana Pacers,/boxscores/202601160IND.html
 2026-01-16,Cleveland Cavaliers,Philadelphia 76ers,117,115,Cleveland Cavaliers,/boxscores/202601160PHI.html
+2026-01-16,Chicago Bulls,Brooklyn Nets,109,112,Brooklyn Nets,/boxscores/202601160BRK.html
+2026-01-16,Los Angeles Clippers,Toronto Raptors,121,117,Los Angeles Clippers,/boxscores/202601160TOR.html
 2026-01-16,Minnesota Timberwolves,Houston Rockets,105,110,Houston Rockets,/boxscores/202601160HOU.html
 2026-01-16,Washington Wizards,Sacramento Kings,115,128,Sacramento Kings,/boxscores/202601160SAC.html
-2026-01-16,New Orleans Pelicans,Indiana Pacers,119,127,Indiana Pacers,/boxscores/202601160IND.html
-2026-01-17,Charlotte Hornets,Golden State Warriors,116,136,Golden State Warriors,/boxscores/202601170GSW.html
-2026-01-17,Washington Wizards,Denver Nuggets,115,121,Denver Nuggets,/boxscores/202601170DEN.html
-2026-01-17,Los Angeles Lakers,Portland Trail Blazers,116,132,Portland Trail Blazers,/boxscores/202601170POR.html
 2026-01-17,Boston Celtics,Atlanta Hawks,132,106,Boston Celtics,/boxscores/202601170ATL.html
 2026-01-17,Oklahoma City Thunder,Miami Heat,120,122,Miami Heat,/boxscores/202601170MIA.html
-2026-01-17,Phoenix Suns,New York Knicks,106,99,Phoenix Suns,/boxscores/202601170NYK.html
 2026-01-17,Utah Jazz,Dallas Mavericks,120,138,Dallas Mavericks,/boxscores/202601170DAL.html
-2026-01-17,Minnesota Timberwolves,San Antonio Spurs,123,126,San Antonio Spurs,/boxscores/202601170SAS.html
 2026-01-17,Indiana Pacers,Detroit Pistons,78,121,Detroit Pistons,/boxscores/202601170DET.html
+2026-01-17,Minnesota Timberwolves,San Antonio Spurs,123,126,San Antonio Spurs,/boxscores/202601170SAS.html
+2026-01-17,Los Angeles Lakers,Portland Trail Blazers,116,132,Portland Trail Blazers,/boxscores/202601170POR.html
+2026-01-17,Charlotte Hornets,Golden State Warriors,116,136,Golden State Warriors,/boxscores/202601170GSW.html
+2026-01-17,Washington Wizards,Denver Nuggets,115,121,Denver Nuggets,/boxscores/202601170DEN.html
+2026-01-17,Phoenix Suns,New York Knicks,106,99,Phoenix Suns,/boxscores/202601170NYK.html
+2026-01-18,Charlotte Hornets,Denver Nuggets,110,87,Charlotte Hornets,/boxscores/202601180DEN.html
 2026-01-18,Portland Trail Blazers,Sacramento Kings,117,110,Portland Trail Blazers,/boxscores/202601180SAC.html
 2026-01-18,Toronto Raptors,Los Angeles Lakers,93,110,Los Angeles Lakers,/boxscores/202601180LAL.html
-2026-01-18,Charlotte Hornets,Denver Nuggets,110,87,Charlotte Hornets,/boxscores/202601180DEN.html
 2026-01-18,New Orleans Pelicans,Houston Rockets,110,119,Houston Rockets,/boxscores/202601180HOU.html
 2026-01-18,Brooklyn Nets,Chicago Bulls,102,124,Chicago Bulls,/boxscores/202601180CHI.html
 2026-01-18,Orlando Magic,Memphis Grizzlies,109,126,Memphis Grizzlies,/boxscores/202601180MEM.html
+2026-01-19,Boston Celtics,Detroit Pistons,103,104,Detroit Pistons,/boxscores/202601190DET.html
+2026-01-19,Phoenix Suns,Brooklyn Nets,126,117,Phoenix Suns,/boxscores/202601190BRK.html
 2026-01-19,Indiana Pacers,Philadelphia 76ers,104,113,Philadelphia 76ers,/boxscores/202601190PHI.html
 2026-01-19,Utah Jazz,San Antonio Spurs,110,123,San Antonio Spurs,/boxscores/202601190SAS.html
-2026-01-19,Dallas Mavericks,New York Knicks,114,97,Dallas Mavericks,/boxscores/202601190NYK.html
-2026-01-19,Los Angeles Clippers,Washington Wizards,110,106,Los Angeles Clippers,/boxscores/202601190WAS.html
-2026-01-19,Phoenix Suns,Brooklyn Nets,126,117,Phoenix Suns,/boxscores/202601190BRK.html
-2026-01-19,Milwaukee Bucks,Atlanta Hawks,112,110,Milwaukee Bucks,/boxscores/202601190ATL.html
 2026-01-19,Miami Heat,Golden State Warriors,112,135,Golden State Warriors,/boxscores/202601190GSW.html
-2026-01-19,Boston Celtics,Detroit Pistons,103,104,Detroit Pistons,/boxscores/202601190DET.html
+2026-01-19,Los Angeles Clippers,Washington Wizards,110,106,Los Angeles Clippers,/boxscores/202601190WAS.html
 2026-01-19,Oklahoma City Thunder,Cleveland Cavaliers,136,104,Oklahoma City Thunder,/boxscores/202601190CLE.html
-2026-01-20,Miami Heat,Sacramento Kings,130,117,Miami Heat,/boxscores/202601200SAC.html
+2026-01-19,Milwaukee Bucks,Atlanta Hawks,112,110,Milwaukee Bucks,/boxscores/202601190ATL.html
+2026-01-19,Dallas Mavericks,New York Knicks,114,97,Dallas Mavericks,/boxscores/202601190NYK.html
+2026-01-20,Los Angeles Clippers,Chicago Bulls,110,138,Chicago Bulls,/boxscores/202601200CHI.html
+2026-01-20,Toronto Raptors,Golden State Warriors,145,127,Toronto Raptors,/boxscores/202601200GSW.html
 2026-01-20,Los Angeles Lakers,Denver Nuggets,115,107,Los Angeles Lakers,/boxscores/202601200DEN.html
 2026-01-20,Minnesota Timberwolves,Utah Jazz,122,127,Utah Jazz,/boxscores/202601200UTA.html
-2026-01-20,Toronto Raptors,Golden State Warriors,145,127,Toronto Raptors,/boxscores/202601200GSW.html
-2026-01-20,Los Angeles Clippers,Chicago Bulls,110,138,Chicago Bulls,/boxscores/202601200CHI.html
-2026-01-20,Phoenix Suns,Philadelphia 76ers,116,110,Phoenix Suns,/boxscores/202601200PHI.html
+2026-01-20,Miami Heat,Sacramento Kings,130,117,Miami Heat,/boxscores/202601200SAC.html
 2026-01-20,San Antonio Spurs,Houston Rockets,106,111,Houston Rockets,/boxscores/202601200HOU.html
+2026-01-20,Phoenix Suns,Philadelphia 76ers,116,110,Phoenix Suns,/boxscores/202601200PHI.html
 2026-01-21,Cleveland Cavaliers,Charlotte Hornets,94,87,Cleveland Cavaliers,/boxscores/202601210CHO.html
 2026-01-21,Indiana Pacers,Boston Celtics,104,119,Boston Celtics,/boxscores/202601210BOS.html
 2026-01-21,Brooklyn Nets,New York Knicks,66,120,New York Knicks,/boxscores/202601210NYK.html
 2026-01-21,Atlanta Hawks,Memphis Grizzlies,124,122,Atlanta Hawks,/boxscores/202601210MEM.html
-2026-01-21,Toronto Raptors,Sacramento Kings,122,109,Toronto Raptors,/boxscores/202601210SAC.html
-2026-01-21,Oklahoma City Thunder,Milwaukee Bucks,122,102,Oklahoma City Thunder,/boxscores/202601210MIL.html
 2026-01-21,Detroit Pistons,New Orleans Pelicans,112,104,Detroit Pistons,/boxscores/202601210NOP.html
-2026-01-22,Los Angeles Lakers,Los Angeles Clippers,104,112,Los Angeles Clippers,/boxscores/202601220LAC.html
-2026-01-22,Charlotte Hornets,Orlando Magic,124,97,Charlotte Hornets,/boxscores/202601220ORL.html
-2026-01-22,Miami Heat,Portland Trail Blazers,110,127,Portland Trail Blazers,/boxscores/202601220POR.html
-2026-01-22,Houston Rockets,Philadelphia 76ers,122,128,Philadelphia 76ers,/boxscores/202601220PHI.html
+2026-01-21,Oklahoma City Thunder,Milwaukee Bucks,122,102,Oklahoma City Thunder,/boxscores/202601210MIL.html
+2026-01-21,Toronto Raptors,Sacramento Kings,122,109,Toronto Raptors,/boxscores/202601210SAC.html
 2026-01-22,Denver Nuggets,Washington Wizards,107,97,Denver Nuggets,/boxscores/202601220WAS.html
 2026-01-22,Golden State Warriors,Dallas Mavericks,115,123,Dallas Mavericks,/boxscores/202601220DAL.html
-2026-01-22,Chicago Bulls,Minnesota Timberwolves,120,115,Chicago Bulls,/boxscores/202601220MIN.html
+2026-01-22,Charlotte Hornets,Orlando Magic,124,97,Charlotte Hornets,/boxscores/202601220ORL.html
+2026-01-22,Houston Rockets,Philadelphia 76ers,122,128,Philadelphia 76ers,/boxscores/202601220PHI.html
+2026-01-22,Los Angeles Lakers,Los Angeles Clippers,104,112,Los Angeles Clippers,/boxscores/202601220LAC.html
 2026-01-22,San Antonio Spurs,Utah Jazz,126,109,San Antonio Spurs,/boxscores/202601220UTA.html
-2026-01-23,Phoenix Suns,Atlanta Hawks,103,110,Atlanta Hawks,/boxscores/202601230ATL.html
+2026-01-22,Miami Heat,Portland Trail Blazers,110,127,Portland Trail Blazers,/boxscores/202601220POR.html
+2026-01-22,Chicago Bulls,Minnesota Timberwolves,120,115,Chicago Bulls,/boxscores/202601220MIN.html
+2026-01-23,Indiana Pacers,Oklahoma City Thunder,117,114,Indiana Pacers,/boxscores/202601230OKC.html
 2026-01-23,Toronto Raptors,Portland Trail Blazers,110,98,Toronto Raptors,/boxscores/202601230POR.html
 2026-01-23,Denver Nuggets,Milwaukee Bucks,102,100,Denver Nuggets,/boxscores/202601230MIL.html
-2026-01-23,Indiana Pacers,Oklahoma City Thunder,117,114,Indiana Pacers,/boxscores/202601230OKC.html
+2026-01-23,New Orleans Pelicans,Memphis Grizzlies,133,127,New Orleans Pelicans,/boxscores/202601230MEM.html
+2026-01-23,Boston Celtics,Brooklyn Nets,130,126,Boston Celtics,/boxscores/202601230BRK.html
+2026-01-23,Phoenix Suns,Atlanta Hawks,103,110,Atlanta Hawks,/boxscores/202601230ATL.html
 2026-01-23,Houston Rockets,Detroit Pistons,111,104,Houston Rockets,/boxscores/202601230DET.html
 2026-01-23,Sacramento Kings,Cleveland Cavaliers,118,123,Cleveland Cavaliers,/boxscores/202601230CLE.html
-2026-01-23,Boston Celtics,Brooklyn Nets,130,126,Boston Celtics,/boxscores/202601230BRK.html
-2026-01-23,New Orleans Pelicans,Memphis Grizzlies,133,127,New Orleans Pelicans,/boxscores/202601230MEM.html
 2026-01-24,Miami Heat,Utah Jazz,147,116,Miami Heat,/boxscores/202601240UTA.html
 2026-01-24,Cleveland Cavaliers,Orlando Magic,119,105,Cleveland Cavaliers,/boxscores/202601240ORL.html
-2026-01-24,Los Angeles Lakers,Dallas Mavericks,116,110,Los Angeles Lakers,/boxscores/202601240DAL.html
-2026-01-24,New York Knicks,Philadelphia 76ers,112,109,New York Knicks,/boxscores/202601240PHI.html
 2026-01-24,Washington Wizards,Charlotte Hornets,115,119,Charlotte Hornets,/boxscores/202601240CHO.html
+2026-01-24,New York Knicks,Philadelphia 76ers,112,109,New York Knicks,/boxscores/202601240PHI.html
 2026-01-24,Boston Celtics,Chicago Bulls,111,114,Chicago Bulls,/boxscores/202601240CHI.html
-2026-01-25,New Orleans Pelicans,San Antonio Spurs,104,95,New Orleans Pelicans,/boxscores/202601250SAS.html
+2026-01-24,Los Angeles Lakers,Dallas Mavericks,116,110,Los Angeles Lakers,/boxscores/202601240DAL.html
 2026-01-25,Sacramento Kings,Detroit Pistons,116,139,Detroit Pistons,/boxscores/202601250DET.html
+2026-01-25,Brooklyn Nets,Los Angeles Clippers,89,126,Los Angeles Clippers,/boxscores/202601250LAC.html
 2026-01-25,Golden State Warriors,Minnesota Timberwolves,111,85,Golden State Warriors,/boxscores/202601250MIN.html
+2026-01-25,New Orleans Pelicans,San Antonio Spurs,104,95,New Orleans Pelicans,/boxscores/202601250SAS.html
 2026-01-25,Toronto Raptors,Oklahoma City Thunder,103,101,Toronto Raptors,/boxscores/202601250OKC.html
 2026-01-25,Miami Heat,Phoenix Suns,111,102,Miami Heat,/boxscores/202601250PHO.html
-2026-01-25,Brooklyn Nets,Los Angeles Clippers,89,126,Los Angeles Clippers,/boxscores/202601250LAC.html
-2026-01-26,Orlando Magic,Cleveland Cavaliers,98,114,Cleveland Cavaliers,/boxscores/202601260CLE.html
-2026-01-26,Indiana Pacers,Atlanta Hawks,116,132,Atlanta Hawks,/boxscores/202601260ATL.html
-2026-01-26,Philadelphia 76ers,Charlotte Hornets,93,130,Charlotte Hornets,/boxscores/202601260CHO.html
-2026-01-26,Portland Trail Blazers,Boston Celtics,94,102,Boston Celtics,/boxscores/202601260BOS.html
-2026-01-26,Memphis Grizzlies,Houston Rockets,99,108,Houston Rockets,/boxscores/202601260HOU.html
 2026-01-26,Golden State Warriors,Minnesota Timberwolves,83,108,Minnesota Timberwolves,/boxscores/202601260MIN.html
+2026-01-26,Orlando Magic,Cleveland Cavaliers,98,114,Cleveland Cavaliers,/boxscores/202601260CLE.html
+2026-01-26,Memphis Grizzlies,Houston Rockets,99,108,Houston Rockets,/boxscores/202601260HOU.html
+2026-01-26,Portland Trail Blazers,Boston Celtics,94,102,Boston Celtics,/boxscores/202601260BOS.html
+2026-01-26,Philadelphia 76ers,Charlotte Hornets,93,130,Charlotte Hornets,/boxscores/202601260CHO.html
+2026-01-26,Indiana Pacers,Atlanta Hawks,116,132,Atlanta Hawks,/boxscores/202601260ATL.html
 2026-01-26,Los Angeles Lakers,Chicago Bulls,129,118,Los Angeles Lakers,/boxscores/202601260CHI.html
-2026-01-27,Detroit Pistons,Denver Nuggets,109,107,Detroit Pistons,/boxscores/202601270DEN.html
 2026-01-27,Los Angeles Clippers,Utah Jazz,115,103,Los Angeles Clippers,/boxscores/202601270UTA.html
 2026-01-27,Portland Trail Blazers,Washington Wizards,111,115,Washington Wizards,/boxscores/202601270WAS.html
 2026-01-27,Sacramento Kings,New York Knicks,87,103,New York Knicks,/boxscores/202601270NYK.html
 2026-01-27,New Orleans Pelicans,Oklahoma City Thunder,95,104,Oklahoma City Thunder,/boxscores/202601270OKC.html
 2026-01-27,Milwaukee Bucks,Philadelphia 76ers,122,139,Philadelphia 76ers,/boxscores/202601270PHI.html
 2026-01-27,Brooklyn Nets,Phoenix Suns,102,106,Phoenix Suns,/boxscores/202601270PHO.html
+2026-01-27,Detroit Pistons,Denver Nuggets,109,107,Detroit Pistons,/boxscores/202601270DEN.html
+2026-01-28,New York Knicks,Toronto Raptors,119,92,New York Knicks,/boxscores/202601280TOR.html
+2026-01-28,Orlando Magic,Miami Heat,133,124,Orlando Magic,/boxscores/202601280MIA.html
+2026-01-28,Atlanta Hawks,Boston Celtics,117,106,Atlanta Hawks,/boxscores/202601280BOS.html
+2026-01-28,Charlotte Hornets,Memphis Grizzlies,112,97,Charlotte Hornets,/boxscores/202601280MEM.html
+2026-01-28,Chicago Bulls,Indiana Pacers,110,113,Indiana Pacers,/boxscores/202601280IND.html
+2026-01-28,San Antonio Spurs,Houston Rockets,111,99,San Antonio Spurs,/boxscores/202601280HOU.html
+2026-01-28,Minnesota Timberwolves,Dallas Mavericks,118,105,Minnesota Timberwolves,/boxscores/202601280DAL.html
+2026-01-28,Golden State Warriors,Utah Jazz,140,124,Golden State Warriors,/boxscores/202601280UTA.html
+2026-01-28,Los Angeles Lakers,Cleveland Cavaliers,99,129,Cleveland Cavaliers,/boxscores/202601280CLE.html
+2026-01-29,Charlotte Hornets,Dallas Mavericks,123,121,Charlotte Hornets,/boxscores/202601290DAL.html
+2026-01-29,Milwaukee Bucks,Washington Wizards,99,109,Washington Wizards,/boxscores/202601290WAS.html
+2026-01-29,Houston Rockets,Atlanta Hawks,104,86,Houston Rockets,/boxscores/202601290ATL.html
+2026-01-29,Sacramento Kings,Philadelphia 76ers,111,113,Philadelphia 76ers,/boxscores/202601290PHI.html
+2026-01-29,Brooklyn Nets,Denver Nuggets,103,107,Denver Nuggets,/boxscores/202601290DEN.html
+2026-01-29,Detroit Pistons,Phoenix Suns,96,114,Phoenix Suns,/boxscores/202601290PHO.html
+2026-01-29,Oklahoma City Thunder,Minnesota Timberwolves,111,123,Minnesota Timberwolves,/boxscores/202601290MIN.html
+2026-01-29,Miami Heat,Chicago Bulls,116,113,Miami Heat,/boxscores/202601290CHI.html
+2026-01-30,Detroit Pistons,Golden State Warriors,131,124,Detroit Pistons,/boxscores/202601300GSW.html
+2026-01-30,Sacramento Kings,Boston Celtics,93,112,Boston Celtics,/boxscores/202601300BOS.html
+2026-01-30,Memphis Grizzlies,New Orleans Pelicans,106,114,New Orleans Pelicans,/boxscores/202601300NOP.html
+2026-01-30,Portland Trail Blazers,New York Knicks,97,127,New York Knicks,/boxscores/202601300NYK.html
+2026-01-30,Toronto Raptors,Orlando Magic,120,130,Orlando Magic,/boxscores/202601300ORL.html
+2026-01-30,Los Angeles Clippers,Denver Nuggets,109,122,Denver Nuggets,/boxscores/202601300DEN.html
+2026-01-30,Cleveland Cavaliers,Phoenix Suns,113,126,Phoenix Suns,/boxscores/202601300PHO.html
+2026-01-30,Brooklyn Nets,Utah Jazz,109,99,Brooklyn Nets,/boxscores/202601300UTA.html
+2026-01-30,Los Angeles Lakers,Washington Wizards,142,111,Los Angeles Lakers,/boxscores/202601300WAS.html
+2026-01-31,Minnesota Timberwolves,Memphis Grizzlies,131,114,Minnesota Timberwolves,/boxscores/202601310MEM.html
+2026-01-31,New Orleans Pelicans,Philadelphia 76ers,114,124,Philadelphia 76ers,/boxscores/202601310PHI.html
+2026-01-31,Dallas Mavericks,Houston Rockets,107,111,Houston Rockets,/boxscores/202601310HOU.html
+2026-01-31,San Antonio Spurs,Charlotte Hornets,106,111,Charlotte Hornets,/boxscores/202601310CHO.html
+2026-01-31,Chicago Bulls,Miami Heat,125,118,Chicago Bulls,/boxscores/202601310MIA.html
+2026-01-31,Atlanta Hawks,Indiana Pacers,124,129,Indiana Pacers,/boxscores/202601310IND.html
+2026-02-01,Los Angeles Lakers,New York Knicks,100,112,New York Knicks,/boxscores/202602010NYK.html
+2026-02-01,Sacramento Kings,Washington Wizards,112,116,Washington Wizards,/boxscores/202602010WAS.html
+2026-02-01,Los Angeles Clippers,Phoenix Suns,117,93,Los Angeles Clippers,/boxscores/202602010PHO.html
+2026-02-01,Utah Jazz,Toronto Raptors,100,107,Toronto Raptors,/boxscores/202602010TOR.html
+2026-02-01,Cleveland Cavaliers,Portland Trail Blazers,130,111,Cleveland Cavaliers,/boxscores/202602010POR.html
+2026-02-01,Brooklyn Nets,Detroit Pistons,77,130,Detroit Pistons,/boxscores/202602010DET.html
+2026-02-01,Milwaukee Bucks,Boston Celtics,79,107,Boston Celtics,/boxscores/202602010BOS.html
+2026-02-01,Orlando Magic,San Antonio Spurs,103,112,San Antonio Spurs,/boxscores/202602010SAS.html
+2026-02-01,Chicago Bulls,Miami Heat,91,134,Miami Heat,/boxscores/202602010MIA.html
+2026-02-01,Oklahoma City Thunder,Denver Nuggets,121,111,Oklahoma City Thunder,/boxscores/202602010DEN.html
