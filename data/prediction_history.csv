@@ -7,48 +7,48 @@ date,home,home_abbrev,visitor,visitor_abbrev,predicted_winner,predicted_winner_a
 2026-01-22,Philadelphia 76ers,PHI,Houston Rockets,HOU,Houston Rockets,HOU,0.670314254502451,incorrect,Philadelphia 76ers
 2026-01-22,Dallas Mavericks,DAL,Golden State Warriors,GSW,Golden State Warriors,GSW,0.4679408123520343,incorrect,Dallas Mavericks
 2026-01-22,Washington Wizards,WAS,Denver Nuggets,DEN,Denver Nuggets,DEN,0.3512735191261371,correct,Denver Nuggets
-2026-01-23,Milwaukee Bucks,MIL,Denver Nuggets,DEN,Denver Nuggets,DEN,0.3512735191261371,correct,Denver Nuggets
+2026-01-23,Cleveland Cavaliers,CLE,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,incorrect,Cleveland Cavaliers
+2026-01-23,Brooklyn Nets,BRK,Boston Celtics,BOS,Boston Celtics,BOS,0.4495527988568026,correct,Boston Celtics
+2026-01-23,Atlanta Hawks,ATL,Phoenix Suns,PHO,Phoenix Suns,PHO,0.4507218825882049,incorrect,Atlanta Hawks
+2026-01-23,Detroit Pistons,DET,Houston Rockets,HOU,Houston Rockets,HOU,0.670314254502451,correct,Houston Rockets
 2026-01-23,Memphis Grizzlies,MEM,New Orleans Pelicans,NOP,Memphis Grizzlies,MEM,0.0125312443903842,incorrect,New Orleans Pelicans
 2026-01-23,Oklahoma City Thunder,OKC,Indiana Pacers,IND,Indiana Pacers,IND,0.6606625473415344,correct,Indiana Pacers
+2026-01-23,Milwaukee Bucks,MIL,Denver Nuggets,DEN,Denver Nuggets,DEN,0.3512735191261371,correct,Denver Nuggets
 2026-01-23,Portland Trail Blazers,POR,Toronto Raptors,TOR,Toronto Raptors,TOR,0.5958925402068487,correct,Toronto Raptors
-2026-01-23,Detroit Pistons,DET,Houston Rockets,HOU,Houston Rockets,HOU,0.670314254502451,correct,Houston Rockets
-2026-01-23,Atlanta Hawks,ATL,Phoenix Suns,PHO,Phoenix Suns,PHO,0.4507218825882049,incorrect,Atlanta Hawks
-2026-01-23,Brooklyn Nets,BRK,Boston Celtics,BOS,Boston Celtics,BOS,0.4495527988568026,correct,Boston Celtics
-2026-01-23,Cleveland Cavaliers,CLE,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,incorrect,Cleveland Cavaliers
-2026-01-24,Dallas Mavericks,DAL,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,correct,Los Angeles Lakers
-2026-01-24,Utah Jazz,UTA,Miami Heat,MIA,Utah Jazz,UTA,0.2295499468282871,incorrect,Miami Heat
-2026-01-24,Philadelphia 76ers,PHI,New York Knicks,NYK,New York Knicks,NYK,0.6160861209408854,correct,New York Knicks
-2026-01-24,Charlotte Hornets,CHO,Washington Wizards,WAS,Washington Wizards,WAS,0.3170379629162474,incorrect,Charlotte Hornets
 2026-01-24,Orlando Magic,ORL,Cleveland Cavaliers,CLE,Cleveland Cavaliers,CLE,0.6092768438376357,correct,Cleveland Cavaliers
 2026-01-24,Chicago Bulls,CHI,Boston Celtics,BOS,Boston Celtics,BOS,0.4495527988568026,incorrect,Chicago Bulls
+2026-01-24,Charlotte Hornets,CHO,Washington Wizards,WAS,Washington Wizards,WAS,0.3170379629162474,incorrect,Charlotte Hornets
+2026-01-24,Philadelphia 76ers,PHI,New York Knicks,NYK,New York Knicks,NYK,0.6160861209408854,correct,New York Knicks
+2026-01-24,Utah Jazz,UTA,Miami Heat,MIA,Utah Jazz,UTA,0.2295499468282871,incorrect,Miami Heat
+2026-01-24,Dallas Mavericks,DAL,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.654868268435471,correct,Los Angeles Lakers
 2026-01-25,Los Angeles Clippers,LAC,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.2932901631299163,incorrect,Los Angeles Clippers
 2026-01-25,Phoenix Suns,PHO,Miami Heat,MIA,Phoenix Suns,PHO,0.2295499468282871,incorrect,Miami Heat
 2026-01-25,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,San Antonio Spurs,SAS,0.0125312443903842,incorrect,New Orleans Pelicans
 2026-01-25,Detroit Pistons,DET,Sacramento Kings,SAC,Sacramento Kings,SAC,0.616710459142088,incorrect,Detroit Pistons
 2026-01-25,Oklahoma City Thunder,OKC,Toronto Raptors,TOR,Toronto Raptors,TOR,0.5958925402068487,correct,Toronto Raptors
-2026-01-26,Chicago Bulls,CHI,Los Angeles Lakers,LAL,Chicago Bulls,CHI,,incorrect,Los Angeles Lakers
+2026-01-26,Boston Celtics,BOS,Portland Trail Blazers,POR,Boston Celtics,BOS,,correct,Boston Celtics
+2026-01-26,Cleveland Cavaliers,CLE,Orlando Magic,ORL,Cleveland Cavaliers,CLE,,correct,Cleveland Cavaliers
+2026-01-26,Atlanta Hawks,ATL,Indiana Pacers,IND,Indiana Pacers,IND,,incorrect,Atlanta Hawks
 2026-01-26,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Minnesota Timberwolves,MIN,,correct,Minnesota Timberwolves
 2026-01-26,Houston Rockets,HOU,Memphis Grizzlies,MEM,Houston Rockets,HOU,,correct,Houston Rockets
+2026-01-26,Chicago Bulls,CHI,Los Angeles Lakers,LAL,Chicago Bulls,CHI,,incorrect,Los Angeles Lakers
 2026-01-26,Charlotte Hornets,CHO,Philadelphia 76ers,PHI,Charlotte Hornets,CHO,,correct,Charlotte Hornets
-2026-01-26,Atlanta Hawks,ATL,Indiana Pacers,IND,Indiana Pacers,IND,,incorrect,Atlanta Hawks
-2026-01-26,Cleveland Cavaliers,CLE,Orlando Magic,ORL,Cleveland Cavaliers,CLE,,correct,Cleveland Cavaliers
-2026-01-26,Boston Celtics,BOS,Portland Trail Blazers,POR,Boston Celtics,BOS,,correct,Boston Celtics
-2026-01-27,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,,incorrect,Philadelphia 76ers
-2026-01-27,Denver Nuggets,DEN,Detroit Pistons,DET,Denver Nuggets,DEN,,incorrect,Detroit Pistons
-2026-01-27,Utah Jazz,UTA,Los Angeles Clippers,LAC,Los Angeles Clippers,LAC,,correct,Los Angeles Clippers
-2026-01-27,Washington Wizards,WAS,Portland Trail Blazers,POR,Portland Trail Blazers,POR,,incorrect,Washington Wizards
 2026-01-27,New York Knicks,NYK,Sacramento Kings,SAC,New York Knicks,NYK,,correct,New York Knicks
 2026-01-27,Oklahoma City Thunder,OKC,New Orleans Pelicans,NOP,Oklahoma City Thunder,OKC,,correct,Oklahoma City Thunder
+2026-01-27,Washington Wizards,WAS,Portland Trail Blazers,POR,Portland Trail Blazers,POR,,incorrect,Washington Wizards
 2026-01-27,Phoenix Suns,PHO,Brooklyn Nets,BRK,Phoenix Suns,PHO,,correct,Phoenix Suns
-2026-01-28,Boston Celtics,BOS,Atlanta Hawks,ATL,Atlanta Hawks,ATL,0.5131611492028645,correct,Atlanta Hawks
-2026-01-28,Toronto Raptors,TOR,New York Knicks,NYK,New York Knicks,NYK,0.5534728151145544,correct,New York Knicks
-2026-01-28,Miami Heat,MIA,Orlando Magic,ORL,Orlando Magic,ORL,0.5384640733523484,correct,Orlando Magic
-2026-01-28,Houston Rockets,HOU,San Antonio Spurs,SAS,Houston Rockets,HOU,0.5035871230279529,incorrect,San Antonio Spurs
-2026-01-28,Dallas Mavericks,DAL,Minnesota Timberwolves,MIN,Dallas Mavericks,DAL,0.5352892120232513,incorrect,Minnesota Timberwolves
-2026-01-28,Cleveland Cavaliers,CLE,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.5129192908841683,incorrect,Cleveland Cavaliers
-2026-01-28,Memphis Grizzlies,MEM,Charlotte Hornets,CHO,Memphis Grizzlies,MEM,0.5395381093578937,incorrect,Charlotte Hornets
+2026-01-27,Denver Nuggets,DEN,Detroit Pistons,DET,Denver Nuggets,DEN,,incorrect,Detroit Pistons
+2026-01-27,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,,incorrect,Philadelphia 76ers
+2026-01-27,Utah Jazz,UTA,Los Angeles Clippers,LAC,Los Angeles Clippers,LAC,,correct,Los Angeles Clippers
 2026-01-28,Indiana Pacers,IND,Chicago Bulls,CHI,Indiana Pacers,IND,0.5057558536672138,correct,Indiana Pacers
+2026-01-28,Memphis Grizzlies,MEM,Charlotte Hornets,CHO,Memphis Grizzlies,MEM,0.5395381093578937,incorrect,Charlotte Hornets
+2026-01-28,Cleveland Cavaliers,CLE,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.5129192908841683,incorrect,Cleveland Cavaliers
+2026-01-28,Dallas Mavericks,DAL,Minnesota Timberwolves,MIN,Dallas Mavericks,DAL,0.5352892120232513,incorrect,Minnesota Timberwolves
 2026-01-28,Utah Jazz,UTA,Golden State Warriors,GSW,Golden State Warriors,GSW,0.5538264196814042,correct,Golden State Warriors
+2026-01-28,Miami Heat,MIA,Orlando Magic,ORL,Orlando Magic,ORL,0.5384640733523484,correct,Orlando Magic
+2026-01-28,Toronto Raptors,TOR,New York Knicks,NYK,New York Knicks,NYK,0.5534728151145544,correct,New York Knicks
+2026-01-28,Boston Celtics,BOS,Atlanta Hawks,ATL,Atlanta Hawks,ATL,0.5131611492028645,correct,Atlanta Hawks
+2026-01-28,Houston Rockets,HOU,San Antonio Spurs,SAS,Houston Rockets,HOU,0.5035871230279529,incorrect,San Antonio Spurs
 2026-01-29,Washington Wizards,WAS,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,0.5246998768492347,incorrect,Washington Wizards
 2026-01-29,Minnesota Timberwolves,MIN,Oklahoma City Thunder,OKC,Oklahoma City Thunder,OKC,0.6041435729890661,incorrect,Minnesota Timberwolves
 2026-01-29,Dallas Mavericks,DAL,Charlotte Hornets,CHO,Dallas Mavericks,DAL,0.6051963099815252,incorrect,Charlotte Hornets
@@ -57,21 +57,22 @@ date,home,home_abbrev,visitor,visitor_abbrev,predicted_winner,predicted_winner_a
 2026-01-29,Philadelphia 76ers,PHI,Sacramento Kings,SAC,Sacramento Kings,SAC,0.5848102682977017,incorrect,Philadelphia 76ers
 2026-01-29,Denver Nuggets,DEN,Brooklyn Nets,BRK,Denver Nuggets,DEN,0.5490807176564552,correct,Denver Nuggets
 2026-01-29,Atlanta Hawks,ATL,Houston Rockets,HOU,Houston Rockets,HOU,0.5658295174094615,correct,Houston Rockets
-2026-01-30,Washington Wizards,WAS,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.531162131866868,correct,Los Angeles Lakers
-2026-01-30,Phoenix Suns,PHO,Cleveland Cavaliers,CLE,Cleveland Cavaliers,CLE,0.5511989522892228,incorrect,Phoenix Suns
-2026-01-30,New York Knicks,NYK,Portland Trail Blazers,POR,Portland Trail Blazers,POR,0.5706549962391616,incorrect,New York Knicks
-2026-01-30,New Orleans Pelicans,NOP,Memphis Grizzlies,MEM,Memphis Grizzlies,MEM,0.6514409732403147,incorrect,New Orleans Pelicans
-2026-01-30,Golden State Warriors,GSW,Detroit Pistons,DET,Detroit Pistons,DET,0.579983941149715,correct,Detroit Pistons
-2026-01-30,Denver Nuggets,DEN,Los Angeles Clippers,LAC,Denver Nuggets,DEN,0.5020039567452829,correct,Denver Nuggets
 2026-01-30,Orlando Magic,ORL,Toronto Raptors,TOR,Toronto Raptors,TOR,0.5823991912589481,incorrect,Orlando Magic
 2026-01-30,Utah Jazz,UTA,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.5079782638925242,correct,Brooklyn Nets
 2026-01-30,Boston Celtics,BOS,Sacramento Kings,SAC,Sacramento Kings,SAC,0.5366813140803954,incorrect,Boston Celtics
-2026-01-31,Houston Rockets,HOU,Dallas Mavericks,DAL,Houston Rockets,HOU,0.5070640703247887,correct,Houston Rockets
-2026-01-31,Philadelphia 76ers,PHI,New Orleans Pelicans,NOP,Philadelphia 76ers,PHI,0.5747591664793573,correct,Philadelphia 76ers
-2026-01-31,Charlotte Hornets,CHO,San Antonio Spurs,SAS,San Antonio Spurs,SAS,0.6666056687523922,incorrect,Charlotte Hornets
-2026-01-31,Miami Heat,MIA,Chicago Bulls,CHI,Chicago Bulls,CHI,0.641521152193516,correct,Chicago Bulls
+2026-01-30,Denver Nuggets,DEN,Los Angeles Clippers,LAC,Denver Nuggets,DEN,0.5020039567452829,correct,Denver Nuggets
+2026-01-30,Phoenix Suns,PHO,Cleveland Cavaliers,CLE,Cleveland Cavaliers,CLE,0.5511989522892228,incorrect,Phoenix Suns
+2026-01-30,New Orleans Pelicans,NOP,Memphis Grizzlies,MEM,Memphis Grizzlies,MEM,0.6514409732403147,incorrect,New Orleans Pelicans
+2026-01-30,New York Knicks,NYK,Portland Trail Blazers,POR,Portland Trail Blazers,POR,0.5706549962391616,incorrect,New York Knicks
+2026-01-30,Washington Wizards,WAS,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.531162131866868,correct,Los Angeles Lakers
+2026-01-30,Golden State Warriors,GSW,Detroit Pistons,DET,Detroit Pistons,DET,0.579983941149715,correct,Detroit Pistons
 2026-01-31,Indiana Pacers,IND,Atlanta Hawks,ATL,Indiana Pacers,IND,0.5344453429037477,correct,Indiana Pacers
+2026-01-31,Miami Heat,MIA,Chicago Bulls,CHI,Chicago Bulls,CHI,0.641521152193516,correct,Chicago Bulls
 2026-01-31,Memphis Grizzlies,MEM,Minnesota Timberwolves,MIN,Minnesota Timberwolves,MIN,0.5317793460493675,correct,Minnesota Timberwolves
+2026-01-31,Philadelphia 76ers,PHI,New Orleans Pelicans,NOP,Philadelphia 76ers,PHI,0.5747591664793573,correct,Philadelphia 76ers
+2026-01-31,Houston Rockets,HOU,Dallas Mavericks,DAL,Houston Rockets,HOU,0.5070640703247887,correct,Houston Rockets
+2026-01-31,Charlotte Hornets,CHO,San Antonio Spurs,SAS,San Antonio Spurs,SAS,0.6666056687523922,incorrect,Charlotte Hornets
+2026-02-01,Detroit Pistons,DET,Brooklyn Nets,BRK,Detroit Pistons,DET,0.5697556302847728,correct,Detroit Pistons
 2026-02-01,Boston Celtics,BOS,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,0.5396732296956391,incorrect,Boston Celtics
 2026-02-01,Washington Wizards,WAS,Sacramento Kings,SAC,Sacramento Kings,SAC,0.5216968942752146,incorrect,Washington Wizards
 2026-02-01,San Antonio Spurs,SAS,Orlando Magic,ORL,San Antonio Spurs,SAS,0.6050073053904355,correct,San Antonio Spurs
@@ -79,5 +80,39 @@ date,home,home_abbrev,visitor,visitor_abbrev,predicted_winner,predicted_winner_a
 2026-02-01,Portland Trail Blazers,POR,Cleveland Cavaliers,CLE,Portland Trail Blazers,POR,0.571135239038245,incorrect,Cleveland Cavaliers
 2026-02-01,Denver Nuggets,DEN,Oklahoma City Thunder,OKC,Oklahoma City Thunder,OKC,0.5959020816730781,correct,Oklahoma City Thunder
 2026-02-01,New York Knicks,NYK,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.5185152781628708,incorrect,New York Knicks
-2026-02-01,Detroit Pistons,DET,Brooklyn Nets,BRK,Detroit Pistons,DET,0.5697556302847728,correct,Detroit Pistons
 2026-02-01,Toronto Raptors,TOR,Utah Jazz,UTA,Toronto Raptors,TOR,0.5414739005909254,correct,Toronto Raptors
+2026-02-02,Indiana Pacers,IND,Houston Rockets,HOU,Houston Rockets,HOU,0.5030910495251963,correct,Houston Rockets
+2026-02-02,Los Angeles Clippers,LAC,Philadelphia 76ers,PHI,Los Angeles Clippers,LAC,0.5421283213488142,incorrect,Philadelphia 76ers
+2026-02-02,Memphis Grizzlies,MEM,Minnesota Timberwolves,MIN,Minnesota Timberwolves,MIN,0.5317793460493675,incorrect,Memphis Grizzlies
+2026-02-02,Charlotte Hornets,CHO,New Orleans Pelicans,NOP,New Orleans Pelicans,NOP,0.5258740283799975,incorrect,Charlotte Hornets
+2026-02-03,Miami Heat,MIA,Atlanta Hawks,ATL,Atlanta Hawks,ATL,0.6146727338130811,correct,Atlanta Hawks
+2026-02-03,Milwaukee Bucks,MIL,Chicago Bulls,CHI,Milwaukee Bucks,MIL,0.5015685183179959,correct,Milwaukee Bucks
+2026-02-03,Golden State Warriors,GSW,Philadelphia 76ers,PHI,Philadelphia 76ers,PHI,0.5262081037499189,correct,Philadelphia 76ers
+2026-02-03,Portland Trail Blazers,POR,Phoenix Suns,PHO,Portland Trail Blazers,POR,0.6107312644136754,incorrect,Phoenix Suns
+2026-02-03,Oklahoma City Thunder,OKC,Orlando Magic,ORL,Oklahoma City Thunder,OKC,0.7126165014599163,correct,Oklahoma City Thunder
+2026-02-03,Dallas Mavericks,DAL,Boston Celtics,BOS,Dallas Mavericks,DAL,0.5277648416145487,incorrect,Boston Celtics
+2026-02-03,Indiana Pacers,IND,Utah Jazz,UTA,Indiana Pacers,IND,0.6046274610753818,incorrect,Utah Jazz
+2026-02-03,Brooklyn Nets,BRK,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,0.5962755241569091,correct,Los Angeles Lakers
+2026-02-03,Washington Wizards,WAS,New York Knicks,NYK,New York Knicks,NYK,0.521665290173204,correct,New York Knicks
+2026-02-03,Detroit Pistons,DET,Denver Nuggets,DEN,Detroit Pistons,DET,0.5539913303400837,correct,Detroit Pistons
+2026-02-04,Sacramento Kings,SAC,Memphis Grizzlies,MEM,Sacramento Kings,SAC,0.511407538609526,incorrect,Memphis Grizzlies
+2026-02-04,San Antonio Spurs,SAS,Oklahoma City Thunder,OKC,Oklahoma City Thunder,OKC,0.5577125565790286,incorrect,San Antonio Spurs
+2026-02-04,Toronto Raptors,TOR,Minnesota Timberwolves,MIN,Minnesota Timberwolves,MIN,0.5028523045587193,correct,Minnesota Timberwolves
+2026-02-04,New York Knicks,NYK,Denver Nuggets,DEN,New York Knicks,NYK,0.5582635161546431,correct,New York Knicks
+2026-02-04,Los Angeles Clippers,LAC,Cleveland Cavaliers,CLE,Cleveland Cavaliers,CLE,0.5105161548578013,correct,Cleveland Cavaliers
+2026-02-04,Milwaukee Bucks,MIL,New Orleans Pelicans,NOP,Milwaukee Bucks,MIL,0.6616742884109539,correct,Milwaukee Bucks
+2026-02-04,Houston Rockets,HOU,Boston Celtics,BOS,Houston Rockets,HOU,0.5332003156238372,incorrect,Boston Celtics
+2026-02-05,Atlanta Hawks,ATL,Utah Jazz,UTA,Atlanta Hawks,ATL,0.5429669754638401,correct,Atlanta Hawks
+2026-02-05,Detroit Pistons,DET,Washington Wizards,WAS,Detroit Pistons,DET,0.5632194140935997,incorrect,Washington Wizards
+2026-02-05,Phoenix Suns,PHO,Golden State Warriors,GSW,Golden State Warriors,GSW,0.5156435099445796,correct,Golden State Warriors
+2026-02-05,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI,Los Angeles Lakers,LAL,0.5313682250547803,correct,Los Angeles Lakers
+2026-02-05,Toronto Raptors,TOR,Chicago Bulls,CHI,Chicago Bulls,CHI,0.5585999506297402,incorrect,Toronto Raptors
+2026-02-05,Orlando Magic,ORL,Brooklyn Nets,BRK,Brooklyn Nets,BRK,0.5042821457888151,incorrect,Orlando Magic
+2026-02-05,Dallas Mavericks,DAL,San Antonio Spurs,SAS,San Antonio Spurs,SAS,0.5018686131393095,correct,San Antonio Spurs
+2026-02-05,Houston Rockets,HOU,Charlotte Hornets,CHO,Houston Rockets,HOU,0.6103984656570769,incorrect,Charlotte Hornets
+2026-02-06,Detroit Pistons,DET,New York Knicks,NYK,New York Knicks,NYK,0.5133236192381948,incorrect,Detroit Pistons
+2026-02-06,Portland Trail Blazers,POR,Memphis Grizzlies,MEM,Portland Trail Blazers,POR,0.6119596245708688,correct,Portland Trail Blazers
+2026-02-06,Boston Celtics,BOS,Miami Heat,MIA,Boston Celtics,BOS,0.6722105982540721,correct,Boston Celtics
+2026-02-06,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Minnesota Timberwolves,MIN,0.6158984946032031,incorrect,New Orleans Pelicans
+2026-02-06,Milwaukee Bucks,MIL,Indiana Pacers,IND,Indiana Pacers,IND,0.5040949483002087,incorrect,Milwaukee Bucks
+2026-02-06,Sacramento Kings,SAC,Los Angeles Clippers,LAC,Sacramento Kings,SAC,0.5036932992851906,incorrect,Los Angeles Clippers
