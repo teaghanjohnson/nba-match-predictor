@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Scraped HTML (large, can be re-scraped)
+data/scores/
+data/standings/
+
+# OS
+.DS_Store
